@@ -174,6 +174,13 @@ def render_index(exams):
         return e.get("sortKey", "0000")
 
     sections = []
+    notes = [(n, t, d) for n, (t, d, _) in NOTES.items() if (ROOT / "notes" / f"{n}.html").exists()]
+    if notes:
+        cards = "".join(
+            f'<li><a href="notes/{esc(n)}.html"><span class="ct">{esc(t)}</span><span class="cm">{esc(d)}</span></a></li>'
+            for n, t, d in notes
+        )
+        sections.append(f'<section><h2>Ders notları</h2><ul class="cards">{cards}</ul></section>')
     for course, name in COURSES.items():
         for fmt, label in (("paper", "Kâğıt sınavlar"), ("online", "Online sınavlar")):
             group = sorted((e for e in exams if e.get("course") == course and e.get("format") == fmt), key=key, reverse=True)
@@ -190,8 +197,47 @@ def render_index(exams):
     return page("İSG Çıkmış Sorular", body, 0)
 
 
+NOTES = {
+    # çıktı adı: (başlık, açıklama, parça klasörü)
+    "es411-vize": ("ES 411 Vize Ders Notu", "1–7. hafta slaytlarının sınav odaklı özeti", ROOT / "notes" / "_parts"),
+}
+
+
+def strip_tags(s):
+    return re.sub(r"<[^>]+>", "", s).strip()
+
+
+def render_notes(title, desc, parts_dir):
+    parts = sorted(parts_dir.glob("w*.html"), key=lambda p: int(re.sub(r"\D", "", p.stem) or 0))
+    sections = [p.read_text(encoding="utf-8") for p in parts]
+    toc = []
+    for sec in sections:
+        h2 = re.search(r'<section[^>]*id="([^"]+)"[^>]*>.*?<h2[^>]*>(.*?)</h2>', sec, re.S)
+        if not h2:
+            continue
+        subs = re.findall(r'<h3[^>]*id="([^"]+)"[^>]*>(.*?)</h3>', sec, re.S)
+        sub_html = "".join(f'<li><a href="#{esc(i)}">{esc(strip_tags(t))}</a></li>' for i, t in subs)
+        toc.append(f'<li><a href="#{esc(h2.group(1))}">{esc(strip_tags(h2.group(2)))}</a><ul>{sub_html}</ul></li>')
+    body = f"""<header class="top">
+  <a class="back" href="../index.html">← Ana sayfa</a>
+  <h1>{esc(title)}</h1>
+  <p class="sub">{esc(desc)}</p>
+</header>
+<main class="notes-page">
+  <section class="meta">
+    <p class="how"><span class="exam-tag">Sınavda çıktı</span> kutuları, o konudan gelmiş soruları ve cevaplarını gösterir; linke tıklayınca soruya gidersiniz. <span class="key-tag">Dikkat</span> kutuları sık karıştırılan noktaları özetler.</p>
+  </section>
+  <nav class="toc"><details><summary>İçindekiler</summary><ol>{"".join(toc)}</ol></details></nav>
+  {"".join(sections)}
+</main>"""
+    return page(title, body, 1)
+
+
 def main():
     exams = load_exams()
+    for name, (title, desc, parts_dir) in NOTES.items():
+        if parts_dir.exists() and any(parts_dir.glob("w*.html")):
+            (ROOT / "notes" / f"{name}.html").write_text(render_notes(title, desc, parts_dir), encoding="utf-8")
     OUT.mkdir(exist_ok=True)
     for exam in exams:
         _, doc = render_exam(exam)
