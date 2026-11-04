@@ -1,0 +1,729 @@
+{
+  "id": "es411-vize-2023-08",
+  "course": "ES 411",
+  "courseName": "Occupational Health and Safety I",
+  "type": "Vize",
+  "format": "paper",
+  "date": "Ağustos 2023",
+  "sortKey": "2023-08",
+  "header": "ES 411 OCCUPATIONAL HEALTH AND SAFETY I – MIDTERM EXAM – AUGUST 2023",
+  "instructions": "This examination is comprised of 25 multiple-choice questions. Each question is followed by three or four possible answers, of which only one is correct. The maximum time for this examination is 30 minutes.",
+  "notes": [
+    "3 sayfa (S1-9, S10-21, S21-25) aynı sınavın parçaları olarak doğrulandı: aynı başlık (ES 411 ... MIDTERM EXAM), kesintisiz soru numaralandırması, S21 sayfa 2'den 3'e taşıyor, aynı yeşil kalem işaret stili. Yalnızca 1. sayfada tarih satırı ('AUGUST 2023') var.",
+    "Yıl hanesi bulanık okunuyor ('2023' olarak okundu; 2025 olma ihtimali düşük). Kullanıcı ön sınıflandırması da 2023. Zoom görüntülerden birinin sohbet ekran görüntüsünde 22.08.2025 damgası var (eski sınavın sonradan paylaşılmış olması muhtemel).",
+    "Yazı tipleri sayfa içinde karışık (S15 ve S21 farklı yazı tipinde); S15'in C-D şıkları sağ sütun başına taşmış.",
+    "Arka sayfadan sızan silik kalem işaretleri (S2 Hazard, S3 Occupational Therapy, S22 Macro ergonomics yanındaki tik) öğrenci işareti sayılmadı.",
+    "Masadaki açık kitapçık (W 70, 76; C 20, 22) bu sınav değil, 'FINAL EXAM JANUARY 2023' (50 soru) kitapçığı; bu dosyada kullanılmadı. Soru havuzu bu vizeyle örtüşüyor (ör. Harm/Hazard, chance/probability, eldiven, best way of dealing with a hazard, ergonomics advantage)."
+  ],
+  "sources": [
+    "WhatsApp Image 2026-11-04 at 14.55.44 (3).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.45 (7).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.49 (2).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.50 (1).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44 (4).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.50 (7).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44 (6).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.45 (8).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.49.jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.50.jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44 (9).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44 (5).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.50 (9).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44 (2).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.50 (8).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44 (1).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44 (7).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.44.jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.49 (1).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.50 (10).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.50 (2).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.43 (7).jpeg"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "What is an example of safe behaviour at the workplace?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Encouraging co-workers to work at unsafe conditions."
+        },
+        {
+          "k": "B",
+          "t": "Using hazardous substances with PPE."
+        },
+        {
+          "k": "C",
+          "t": "Always wearing hearing protection."
+        },
+        {
+          "k": "D",
+          "t": "Not wearing earbuds at super noisy working environment"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "illegible": false
+    },
+    {
+      "n": 2,
+      "text": "Harm or adverse health effects on something/someone known as a ______",
+      "options": [
+        {
+          "k": "A",
+          "t": "Near-Miss"
+        },
+        {
+          "k": "B",
+          "t": "Risk"
+        },
+        {
+          "k": "C",
+          "t": "Hazard"
+        },
+        {
+          "k": "D",
+          "t": "Safety"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Tehlike (hazard) tanımı.",
+      "illegible": false
+    },
+    {
+      "n": 3,
+      "text": "The chance or probability that a person will be harmed or experience an adverse health effect",
+      "options": [
+        {
+          "k": "A",
+          "t": "Harm"
+        },
+        {
+          "k": "B",
+          "t": "Control"
+        },
+        {
+          "k": "C",
+          "t": "Risk"
+        },
+        {
+          "k": "D",
+          "t": "Occupational Therapy"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 4,
+      "text": "Which of the following is biological hazard?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Dust"
+        },
+        {
+          "k": "B",
+          "t": "Noise"
+        },
+        {
+          "k": "C",
+          "t": "Mould"
+        },
+        {
+          "k": "D",
+          "t": "Mobbing"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 5,
+      "text": "Leaving tools on top of ladders is ........",
+      "options": [
+        {
+          "k": "A",
+          "t": "Physical Hazard"
+        },
+        {
+          "k": "B",
+          "t": "Electrical Hazard"
+        },
+        {
+          "k": "C",
+          "t": "Chemical Hazard"
+        },
+        {
+          "k": "D",
+          "t": "Biological Hazard"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 6,
+      "text": "What is the best way of dealing with a hazard to ensure others are not put at risk?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Display a notice or warning sign"
+        },
+        {
+          "k": "B",
+          "t": "Remove it immediately"
+        },
+        {
+          "k": "C",
+          "t": "Place a barrier tape around it"
+        },
+        {
+          "k": "D",
+          "t": "Make an announcement related to the hazard"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 7,
+      "text": "Workplace safety and solving OSH problems are the responsibility of ______.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employers"
+        },
+        {
+          "k": "B",
+          "t": "Supervisors"
+        },
+        {
+          "k": "C",
+          "t": "External OSH Expert"
+        },
+        {
+          "k": "D",
+          "t": "Everyone"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "İşaretli şık A (işveren); 6331 md. 4'e göre İSG yükümlülüğü işverene aittir.",
+      "illegible": false
+    },
+    {
+      "n": 8,
+      "text": "A worker has large hands; he just used the last pair of large gloves in the box. He looked everywhere and there are no large gloves available. Which action(s) should he take as first step?",
+      "options": [
+        {
+          "k": "A",
+          "t": "He should carry out the activity without gloves."
+        },
+        {
+          "k": "B",
+          "t": "He should report the lack of large gloves to his supervisor right away."
+        },
+        {
+          "k": "C",
+          "t": "He should file a complaint the supervisor"
+        },
+        {
+          "k": "D",
+          "t": "He should contact the Ministry of Labour"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Şık C kâğıtta 'complaint the supervisor' şeklinde basılmış (kelime eksik), aynen aktarıldı.",
+      "illegible": false
+    },
+    {
+      "n": 9,
+      "text": "Workers were having their breakfast in the office before their shift was started and one of them was electrocoated from kettle. Is this a work accident or not?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Yes"
+        },
+        {
+          "k": "B",
+          "t": "No"
+        },
+        {
+          "k": "C",
+          "t": "Depends"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "5510 md.13: işyerinde meydana gelen olay iş kazasıdır.",
+      "illegible": false
+    },
+    {
+      "n": 10,
+      "text": "What are the workplace hazard classes?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Low Dangerous - Dangerous - High Dangerous"
+        },
+        {
+          "k": "B",
+          "t": "Less Hazardous – Hazardous- Very Hazardous"
+        },
+        {
+          "k": "C",
+          "t": "Low Risky- Risky – High Risky"
+        },
+        {
+          "k": "D",
+          "t": "Less Safe- Safe- High Safe"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 11,
+      "text": "Factors that influence the degree of risk is NOT",
+      "options": [
+        {
+          "k": "A",
+          "t": "Type of hazard"
+        },
+        {
+          "k": "B",
+          "t": "Duration"
+        },
+        {
+          "k": "C",
+          "t": "Type of Exposure"
+        },
+        {
+          "k": "D",
+          "t": "Severity"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "illegible": false
+    },
+    {
+      "n": 12,
+      "text": "Occupational Safety Professionals in the Law No 6331 apply in",
+      "options": [
+        {
+          "k": "A",
+          "t": "Public entities"
+        },
+        {
+          "k": "B",
+          "t": "Private entities"
+        },
+        {
+          "k": "C",
+          "t": "Only hazardous private entities"
+        },
+        {
+          "k": "D",
+          "t": "Both public and private entities"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 13,
+      "text": "Occupational Safety Professionals in the Law No 6331 apply for",
+      "list": [
+        "I. Interns",
+        "II. Apprentices",
+        "III. Paid workers"
+      ],
+      "options": [
+        {
+          "k": "A",
+          "t": "I and II"
+        },
+        {
+          "k": "B",
+          "t": "Only III"
+        },
+        {
+          "k": "C",
+          "t": "II and III"
+        },
+        {
+          "k": "D",
+          "t": "I, II and III"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 14,
+      "text": "Occupational Safety Professionals in the Law No 6331 DOES NOT apply for",
+      "options": [
+        {
+          "k": "A",
+          "t": "Apprentices"
+        },
+        {
+          "k": "B",
+          "t": "Interns"
+        },
+        {
+          "k": "C",
+          "t": "Unpaid legal worker"
+        },
+        {
+          "k": "D",
+          "t": "Armed forces"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "6331 md.2: Silahlı Kuvvetler faaliyetleri kapsam dışı.",
+      "illegible": false
+    },
+    {
+      "n": 15,
+      "text": "Due to the nature of the job, the employee needs a safety google. Who is responsible to get that?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employee"
+        },
+        {
+          "k": "B",
+          "t": "Union"
+        },
+        {
+          "k": "C",
+          "t": "External OSH service"
+        },
+        {
+          "k": "D",
+          "t": "Company/employer"
+        }
+      ],
+      "answer": "D",
+      "marked": "C",
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "Şık C ve D sayfa kırılımında sağ sütunun başına taşmış (Q16'nın üstünde); soru 15'e ait kabul edildi. Öğrenci C işaretlemiş; KKD'yi sağlamak işverenin yükümlülüğü olduğundan D.",
+      "illegible": false
+    },
+    {
+      "n": 16,
+      "text": "Who determines the hazard level of the company?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employer"
+        },
+        {
+          "k": "B",
+          "t": "OSH expert"
+        },
+        {
+          "k": "C",
+          "t": "Ministry of Labour"
+        },
+        {
+          "k": "D",
+          "t": "Ministry of Health"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 17,
+      "text": "How many days after the accident the employer shall notify the Social Security Institution?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Same day"
+        },
+        {
+          "k": "B",
+          "t": "2 days after the accident"
+        },
+        {
+          "k": "C",
+          "t": "3 days after the accident"
+        },
+        {
+          "k": "D",
+          "t": "7 days after the accident"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "3 iş günü (5510 md.13).",
+      "illegible": false
+    },
+    {
+      "n": 18,
+      "text": "Which of the following is less hazardous Occupational safety specialist Certificate Type?",
+      "options": [
+        {
+          "k": "A",
+          "t": "A-Class"
+        },
+        {
+          "k": "B",
+          "t": "B-Class"
+        },
+        {
+          "k": "C",
+          "t": "C-Class"
+        },
+        {
+          "k": "D",
+          "t": "D-Class"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 19,
+      "text": "Which of the following is the NOT the responsibility of safety specialist?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Providing OSH training to employees"
+        },
+        {
+          "k": "B",
+          "t": "Remove the all risky machinery"
+        },
+        {
+          "k": "C",
+          "t": "Giving OSH advices"
+        },
+        {
+          "k": "D",
+          "t": "Surveillance"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "illegible": false
+    },
+    {
+      "n": 20,
+      "text": "Which of the following discipline aims to prevent chronic injury and illness that happen overtime?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Anthropometric Design"
+        },
+        {
+          "k": "B",
+          "t": "Ergonomics"
+        },
+        {
+          "k": "C",
+          "t": "Occupational Disease"
+        },
+        {
+          "k": "D",
+          "t": "Union"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 21,
+      "text": "Which of the following is the advantage of ergonomics?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Increased productivity"
+        },
+        {
+          "k": "B",
+          "t": "Increased cost"
+        },
+        {
+          "k": "C",
+          "t": "Decreased occupational safety and health"
+        },
+        {
+          "k": "D",
+          "t": "Better psychology"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Soru sayfa 2'den 3'e taşıyor (şık C ve D 3. sayfanın başında).",
+      "illegible": false
+    },
+    {
+      "n": 22,
+      "text": "Which of the following is NOT the Types of Ergonomics?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Physical ergonomics"
+        },
+        {
+          "k": "B",
+          "t": "Cognitive ergonomics"
+        },
+        {
+          "k": "C",
+          "t": "Psychological ergonomics"
+        },
+        {
+          "k": "D",
+          "t": "Macro ergonomics"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 23,
+      "text": "What are the Steps for Ergonomic Designs?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Calculate-Decide for the body part- Decide for the user- Decide for the accommodation level"
+        },
+        {
+          "k": "B",
+          "t": "Decide for the body part- Decide for the user-Calculate- Decide for the accommodation level"
+        },
+        {
+          "k": "C",
+          "t": "Decide for the accommodation level- Decide for the body part- Decide for the user- Calculate"
+        },
+        {
+          "k": "D",
+          "t": "Decide for the body part- Decide for the user- Decide for the accommodation level- Calculate"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "illegible": false
+    },
+    {
+      "n": 24,
+      "text": "Where do NOT we use anthropometric data?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Product design"
+        },
+        {
+          "k": "B",
+          "t": "Observing environment"
+        },
+        {
+          "k": "C",
+          "t": "Observation: Children physical growth, historical changes, trends"
+        },
+        {
+          "k": "D",
+          "t": "Understanding human physical variation (Gender - Body Fat percentages)"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "illegible": false
+    },
+    {
+      "n": 25,
+      "text": "Which of the following is NOT one of the Design Approaches of Anthropometric Design?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Design for average"
+        },
+        {
+          "k": "B",
+          "t": "Design for only young generation"
+        },
+        {
+          "k": "C",
+          "t": "Design for extremes"
+        },
+        {
+          "k": "D",
+          "t": "Design for adjustability"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    }
+  ],
+  "missing": []
+}

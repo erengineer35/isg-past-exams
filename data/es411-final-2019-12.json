@@ -1,0 +1,899 @@
+{
+ "id": "es411-final-2019-12",
+ "course": "ES 411",
+ "courseName": "Occupational Health and Safety I",
+ "type": "Final",
+ "format": "paper",
+ "date": "Aralık 2019",
+ "sortKey": "2019-12",
+ "header": "ES411 Occupational Health and Safety I – Final – December 31, 2019 – 25 Questions - 4 points each - 75 Minutes – Assist. Prof. Celal GÜNGÖR",
+ "notes": [
+  "B kitapçığı. Şıklar kâğıtta küçük harfle (a-e); BÜYÜK harfe çevrildi.",
+  "Eksik soru yok; kaynak A ve W kopyaları aynı sayfaları gösteriyor.",
+  "Q6 şeklinde Squat resmi sağdan kısmen kesik.",
+  "Q16 ve Q18 şıkları tablo satırlarıdır."
+ ],
+ "sources": [
+  "dd015e45-e0a0-44e6-86f9-0f67d7bc545a.jfif",
+  "91dd4e6f-f519-45b3-9123-234adc236cb4.jfif",
+  "29d90b78-3a70-4d46-a631-fd2856e950d1.jfif",
+  "59c10b9f-8d3b-4b55-8781-842f2cb161cb.jfif",
+  "WhatsApp Image 2026-11-04 at 14.55.49 (3).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.49 (4).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.49 (5).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.49 (6).jpeg"
+ ],
+ "items": [
+  {
+   "n": 1,
+   "text": "What is the difference between psychophysical and physiological manual material handling assessment methods?",
+   "options": [
+    {
+     "k": "A",
+     "t": "We can measure the required energy level of a task with both methods but we can only use physiological method to compare results."
+    },
+    {
+     "k": "B",
+     "t": "We can measure the required energy level of a task with psychophysical method, but not with physiological method."
+    },
+    {
+     "k": "C",
+     "t": "Physiological method is the only tool to understand the difficulty level of a task."
+    },
+    {
+     "k": "D",
+     "t": "Physiological method is an objective assessment tool while psychophysical method includes some subjective assessment."
+    },
+    {
+     "k": "E",
+     "t": "Both are the same assessment method; there is no difference between both methods."
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 2,
+   "text": "Which of the following is a false statement?",
+   "options": [
+    {
+     "k": "A",
+     "t": "3rd class lever provides better sensitivity compared to 1st class lever."
+    },
+    {
+     "k": "B",
+     "t": "3rd class lever provides endurance rather than power."
+    },
+    {
+     "k": "C",
+     "t": "2nd class lever provides better mechanical advantage compared to other two lever classes."
+    },
+    {
+     "k": "D",
+     "t": "2nd class lever is the most common lever system in human body."
+    },
+    {
+     "k": "E",
+     "t": "1st class lever exists at human neck."
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "İnsan vücudunda en yaygın kaldıraç sistemi 3. sınıftır."
+  },
+  {
+   "n": 3,
+   "text": "Which manual material assessment method provides us information about \"the percentage of subject that can perform a task?\"",
+   "options": [
+    {
+     "k": "A",
+     "t": "Psychophysical criterion"
+    },
+    {
+     "k": "B",
+     "t": "Physiological criterion"
+    },
+    {
+     "k": "C",
+     "t": "Biomechanical criterion"
+    },
+    {
+     "k": "D",
+     "t": "NIOSH Lifting criterion"
+    },
+    {
+     "k": "E",
+     "t": "Epidemiologic criterion"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 4,
+   "text": "Which of the following is a false statement in terms of Emergency Action Plan (EPA)?",
+   "options": [
+    {
+     "k": "A",
+     "t": "EPA is a written plan."
+    },
+    {
+     "k": "B",
+     "t": "EPA is written before an emergency happens."
+    },
+    {
+     "k": "C",
+     "t": "EPA is required by the Ministry of Labor."
+    },
+    {
+     "k": "D",
+     "t": "EPA must be kept in the workplace."
+    },
+    {
+     "k": "E",
+     "t": "Employees are not allowed to review EPA."
+    }
+   ],
+   "answer": "E",
+   "marked": "E",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Sorudaki \"EPA\" yazımı kâğıttaki gibi bırakıldı."
+  },
+  {
+   "n": 5,
+   "text": "If we want people not to bring any flammable material to our workplace, which of the following signs should we post in front of our entrance?",
+   "options": [
+    {
+     "k": "A",
+     "t": "A yellow triangle with black borders and a black \"flammable material\" pictogram"
+    },
+    {
+     "k": "B",
+     "t": "A yellow triangle and a diagonal bar over with black borders and a black \"flammable material\" pictogram"
+    },
+    {
+     "k": "C",
+     "t": "A red circle and a red diagonal bar over a black \"flammable material\" pictogram"
+    },
+    {
+     "k": "D",
+     "t": "A red circle and a red diagonal bar over a white \"flammable material\" pictogram"
+    },
+    {
+     "k": "E",
+     "t": "A green rectangle with a white \"flammable material\" pictogram"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Yasak işareti: kırmızı daire + çapraz çizgi, siyah piktogram."
+  },
+  {
+   "n": 6,
+   "text": "Which of the following is a true statement?",
+   "image": "img/es411-final-2019-12/q6.jpg",
+   "options": [
+    {
+     "k": "A",
+     "t": "Workers get closer to the load with squat lifting compared to stoop lifting."
+    },
+    {
+     "k": "B",
+     "t": "Stoop lifting requires more effort than squat lifting."
+    },
+    {
+     "k": "C",
+     "t": "Stoop lifting requires more energy than squat lifting."
+    },
+    {
+     "k": "D",
+     "t": "Stoop lifting increases the spinal loading compared to squat lifting."
+    },
+    {
+     "k": "E",
+     "t": "Squat lifting is faster and more efficient than stoop lifting."
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Şekil (Stoop / Squat) fotoğrafta sağdan kısmen kesik; Squat resmi yarım görünüyor."
+  },
+  {
+   "n": 7,
+   "text": "If the lifting index suggests us that a specific lifting task is not acceptable and we know that the load lifted is 12 kg, what is the recommended weight limit (RWL) for this task?",
+   "options": [
+    {
+     "k": "A",
+     "t": "4 kg"
+    },
+    {
+     "k": "B",
+     "t": "12 kg"
+    },
+    {
+     "k": "C",
+     "t": "23 kg"
+    },
+    {
+     "k": "D",
+     "t": "24 kg"
+    },
+    {
+     "k": "E",
+     "t": "36 kg"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "LI = yük/RWL > 1 ise kabul edilemez; RWL < 12 kg olmalı."
+  },
+  {
+   "n": 8,
+   "text": "Rotating workers to minimize their exposure to excessive noise is an example of an administrative control.",
+   "options": [
+    {
+     "k": "A",
+     "t": "Yes"
+    },
+    {
+     "k": "B",
+     "t": "No, because rotation is an example for substitution."
+    },
+    {
+     "k": "C",
+     "t": "No, because rotation is an engineering control."
+    },
+    {
+     "k": "D",
+     "t": "No, because rotation is not suggested in safety."
+    },
+    {
+     "k": "E",
+     "t": "No, because rotation is an example for elimination."
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 9,
+   "text": "Based on the figure given on the right hand side, what is the required force by the biceps muscle to lift the load?",
+   "image": "img/es411-final-2019-12/q9.jpg",
+   "options": [
+    {
+     "k": "A",
+     "t": "700 N"
+    },
+    {
+     "k": "B",
+     "t": "900 N"
+    },
+    {
+     "k": "C",
+     "t": "950 N"
+    },
+    {
+     "k": "D",
+     "t": "1000 N"
+    },
+    {
+     "k": "E",
+     "t": "1400 N"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Dirsek etrafında moment: F x 3 = 30 x 10 + 90 x 30 = 3000, F = 1000 N. Öğrenci A şıkkını karalayıp D'yi daire içine almış. Şekil: 3 cm, 30 cm, 10 cm, ön kol ağırlığı 30 N, yük 90 N."
+  },
+  {
+   "n": 10,
+   "text": "If we want people/pedestrians to walk a specific route, which of the following signs should we design?",
+   "options": [
+    {
+     "k": "A",
+     "t": "A red circle and a red diagonal bar over a black walking pedestrian pictogram"
+    },
+    {
+     "k": "B",
+     "t": "A green rectangle with a white walking pedestrian pictogram"
+    },
+    {
+     "k": "C",
+     "t": "A green square with a white walking pedestrian pictogram"
+    },
+    {
+     "k": "D",
+     "t": "A blue circle with a white walking pedestrian pictogram"
+    },
+    {
+     "k": "E",
+     "t": "A yellow triangle with a white walking pedestrian pictogram"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Zorunluluk işareti: mavi daire, beyaz piktogram."
+  },
+  {
+   "n": 11,
+   "text": "Based on the NIOSH recommended weight limit (RWL) formula, which of the following is a false statement?",
+   "image": "img/es411-final-2019-12/q11.jpg",
+   "table": [
+    [
+     "Formül"
+    ],
+    [
+     "RWL = 23 x HM x VM x DM x AM x FM x CM"
+    ],
+    [
+     "HM = (25 / H)"
+    ],
+    [
+     "VM = (1 - 0.003 x |V-75|)"
+    ],
+    [
+     "DM = (0.82 + (4.5 / D))"
+    ],
+    [
+     "AM = (1 - (0.0032) x A))"
+    ],
+    [
+     "FM = Table value"
+    ],
+    [
+     "CM = Table value"
+    ]
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "A 25 cm of horizontal distance is better than 50 cm."
+    },
+    {
+     "k": "B",
+     "t": "A 20 cm of horizontal distance is better than 50 cm."
+    },
+    {
+     "k": "C",
+     "t": "A 25 cm of vertical distance is better than 50 cm."
+    },
+    {
+     "k": "D",
+     "t": "A 100 cm of vertical distance is better than 125 cm."
+    },
+    {
+     "k": "E",
+     "t": "A 10° asymmetry is better than 32° asymmetry."
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "VM(25)=0.85 < VM(50)=0.925; yani 25 cm dikey mesafe 50 cm'den daha iyi değil."
+  },
+  {
+   "n": 12,
+   "text": "A fire of polyurethane (or Styrofoam) cups is classified (in the EU classification system) as: ______.",
+   "options": [
+    {
+     "k": "A",
+     "t": "Class A"
+    },
+    {
+     "k": "B",
+     "t": "Class B"
+    },
+    {
+     "k": "C",
+     "t": "Class C"
+    },
+    {
+     "k": "D",
+     "t": "Class D"
+    },
+    {
+     "k": "E",
+     "t": "Class E"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "Katı organik madde yangını (AB sınıflandırmasında Class A)."
+  },
+  {
+   "n": 13,
+   "text": "Why is it important to know the different classes of fire?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Because some cause greater damage than others."
+    },
+    {
+     "k": "B",
+     "t": "Because some are more dangerous to a person's health."
+    },
+    {
+     "k": "C",
+     "t": "Because everyone in a workplace needs to fight fire."
+    },
+    {
+     "k": "D",
+     "t": "Because certain fires can only be fought with certain fire extinguishers."
+    },
+    {
+     "k": "E",
+     "t": "Because our professor wants to make the topic complicated."
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 14,
+   "text": "If we design a signboard for a ferry to let people know that \"Life jackets are under the seat,\" which of the following signs should we design?",
+   "options": [
+    {
+     "k": "A",
+     "t": "A blue circle with a white life jacket pictogram"
+    },
+    {
+     "k": "B",
+     "t": "A green rectangle with a white life jacket pictogram"
+    },
+    {
+     "k": "C",
+     "t": "A green square with a green life jacket pictogram"
+    },
+    {
+     "k": "D",
+     "t": "A yellow triangle with black borders and a black life jacket pictogram"
+    },
+    {
+     "k": "E",
+     "t": "A yellow triangle and a diagonal bar over with black borders and a black life jacket pictogram"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Acil durum/güvenli durum işareti: yeşil dikdörtgen, beyaz piktogram."
+  },
+  {
+   "n": 15,
+   "text": "If there is a fire and you want to stop it, which of the following is not one of your options?",
+   "options": [
+    {
+     "k": "A",
+     "t": "You should remove the carbon dioxide."
+    },
+    {
+     "k": "B",
+     "t": "You should remove the fuel source."
+    },
+    {
+     "k": "C",
+     "t": "You should cover the fire with a blanket to starve it of oxygen."
+    },
+    {
+     "k": "D",
+     "t": "You should cool it below the combustion point."
+    },
+    {
+     "k": "E",
+     "t": "You should use a proper fire extinguisher."
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "Fotoğrafta A şıkkı daire içinde, B şıkkında da kısmen kırmızı işaret görünüyor; A esas alındı."
+  },
+  {
+   "n": 16,
+   "text": "__1__ is an __2__, self-sustaining reaction between a substance and __3__ to release heat, light, noise, and __4__. Which of the following is in a correct order to define the sentence above?",
+   "image": "img/es411-final-2019-12/q16.jpg",
+   "table": [
+    [
+     "",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    [
+     "A",
+     "Combustion",
+     "exothermic",
+     "a gas",
+     "oxygen"
+    ],
+    [
+     "B",
+     "Explosion",
+     "exothermic",
+     "an oxidizer",
+     "free ions"
+    ],
+    [
+     "C",
+     "Fire",
+     "endothermic",
+     "oxygen",
+     "smoke"
+    ],
+    [
+     "D",
+     "Combustion",
+     "exothermic",
+     "oxygen",
+     "electrons"
+    ],
+    [
+     "E",
+     "Fire",
+     "endothermic",
+     "oxygen",
+     "carbon"
+    ]
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "Combustion / exothermic / a gas / oxygen"
+    },
+    {
+     "k": "B",
+     "t": "Explosion / exothermic / an oxidizer / free ions"
+    },
+    {
+     "k": "C",
+     "t": "Fire / endothermic / oxygen / smoke"
+    },
+    {
+     "k": "D",
+     "t": "Combustion / exothermic / oxygen / electrons"
+    },
+    {
+     "k": "E",
+     "t": "Fire / endothermic / oxygen / carbon"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "Şıklar tablo satırlarıdır. Yanma = ekzotermik, oksijenle reaksiyon; D tek uyumlu satır."
+  },
+  {
+   "n": 17,
+   "text": "If you design a fire alarm system to alert people when there is a fire, which type of safety sign(s) should you use?",
+   "options": [
+    {
+     "k": "A",
+     "t": "An acoustic signal and flashing light together"
+    },
+    {
+     "k": "B",
+     "t": "A red directional sign"
+    },
+    {
+     "k": "C",
+     "t": "A sprinkle system using CO² instead of water"
+    },
+    {
+     "k": "D",
+     "t": "A signboard with a fire pictogram"
+    },
+    {
+     "k": "E",
+     "t": "A smoke detector instead of heat detector"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 18,
+   "text": "Which of the following is not a good match?",
+   "image": "img/es411-final-2019-12/q18.jpg",
+   "table": [
+    [
+     "Burning material",
+     "The fire fighting material"
+    ],
+    [
+     "Wood",
+     "ABC powder"
+    ],
+    [
+     "Plastic",
+     "Water"
+    ],
+    [
+     "Electrical contact",
+     "Foam spray"
+    ],
+    [
+     "Magnesium",
+     "Sand"
+    ],
+    [
+     "Cooking oil",
+     "Wet chemical"
+    ]
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "Wood - ABC powder"
+    },
+    {
+     "k": "B",
+     "t": "Plastic - Water"
+    },
+    {
+     "k": "C",
+     "t": "Electrical contact - Foam spray"
+    },
+    {
+     "k": "D",
+     "t": "Magnesium - Sand"
+    },
+    {
+     "k": "E",
+     "t": "Cooking oil - Wet chemical"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Şıklar tablo satırlarıdır (A-E sırasıyla). Elektrik yangınında köpük (iletken) uygun değil. Kırpımın sol kenarında işaret dairesinin küçük bir parçası görünebilir."
+  },
+  {
+   "n": 19,
+   "text": "When there is an emergency we should follow the exit route to gather at the assembly point. We often use hallways (corridor) to go to the assembly point. How do we call \"the hallway\" in safety?",
+   "options": [
+    {
+     "k": "A",
+     "t": "The exit"
+    },
+    {
+     "k": "B",
+     "t": "The exit access"
+    },
+    {
+     "k": "C",
+     "t": "The exit discharge"
+    },
+    {
+     "k": "D",
+     "t": "The refuge area"
+    },
+    {
+     "k": "E",
+     "t": "Safeway"
+    }
+   ],
+   "answer": "B",
+   "marked": "A",
+   "answerSource": "disputed",
+   "confidence": "medium",
+   "remark": "Çıkış yolunun koridor kısmı 'exit access' olarak adlandırılır; öğrenci 'The exit' işaretlemiş."
+  },
+  {
+   "n": 20,
+   "text": "Which of the following is a false statement?",
+   "options": [
+    {
+     "k": "A",
+     "t": "A door that connects any room to an exit route must swing out in the direction of exit travel if the room is designed to be occupied by more than 50 people or contains high hazard contents."
+    },
+    {
+     "k": "B",
+     "t": "Exit doors must be able to open from the inside at all times without keys, tools, or special knowledge."
+    },
+    {
+     "k": "C",
+     "t": "Every exit sign must be distinctive and easily identifiable."
+    },
+    {
+     "k": "D",
+     "t": "Employees must not travel toward a high hazard area even though it is effectively shielded."
+    },
+    {
+     "k": "E",
+     "t": "Exit routes should not be blocked/obstructed at any time."
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "Etkin biçimde korunmuşsa yüksek tehlikeli alana doğru geçişe izin verilir; bu yüzden D yanlış ifade."
+  },
+  {
+   "n": 21,
+   "text": "Which of the following is a false statement?",
+   "options": [
+    {
+     "k": "A",
+     "t": "The engineering design safety factor for an aircraft is generally much higher than that of a bridge."
+    },
+    {
+     "k": "B",
+     "t": "Increasing safety factor generally causes an increase in the cost."
+    },
+    {
+     "k": "C",
+     "t": "Safety factor is the ratio of the load carrying capability of the structure to the expected loading."
+    },
+    {
+     "k": "D",
+     "t": "If you conduct highly reliable analysis, lower factors of safety may be enough."
+    },
+    {
+     "k": "E",
+     "t": "Lower factors of safety may be enough if you have high quality and consistency of materials."
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Uçaklarda güvenlik faktörü köprülere göre düşüktür."
+  },
+  {
+   "n": 22,
+   "text": "A natural gas detector in your home can detect if there is any propane gas leak. It will alert you if there is any gas leak. So, it is an example for ______.",
+   "options": [
+    {
+     "k": "A",
+     "t": "Fail-active"
+    },
+    {
+     "k": "B",
+     "t": "Fail-passive"
+    },
+    {
+     "k": "C",
+     "t": "Fail-operational"
+    },
+    {
+     "k": "D",
+     "t": "Fail-over"
+    },
+    {
+     "k": "E",
+     "t": "Interlock"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "low",
+   "remark": "Ders içeriğine bağlı; Fail-active da savunulabilir. Öğrenci işareti (C) esas alındı."
+  },
+  {
+   "n": 23,
+   "text": "Which of the following is an example for an unsafe condition?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Driving a forklift very fast"
+    },
+    {
+     "k": "B",
+     "t": "Bypassing a safety device"
+    },
+    {
+     "k": "C",
+     "t": "Repairing a machine while it is in operation"
+    },
+    {
+     "k": "D",
+     "t": "Poor housekeeping"
+    },
+    {
+     "k": "E",
+     "t": "Horseplay"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Diğerleri güvensiz davranış."
+  },
+  {
+   "n": 24,
+   "text": "Ayse comes very tired to her job every Wednesday since she plays tennis on Tuesday evenings. In her workplace, a janitor cleans floors every morning. If someone does not wear non-slip work shoes, there is a high possibility that he or she can slip and fall. Last Wednesday morning, Ayse came to the factory and did not want to wear non-slip work shoes since they are uncomfortable. None of the supervisors realized that she did not wear her work shoes. When she stepped on the wet floor, she felt down and injured her head. Which of the following theory/model can explain this accident?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Heinrich's Domino Theory"
+    },
+    {
+     "k": "B",
+     "t": "Reason's \"Swiss Cheese\" model"
+    },
+    {
+     "k": "C",
+     "t": "Gungor's \"Kashar Cheese\" model"
+    },
+    {
+     "k": "D",
+     "t": "Hollnagel's Functional Resonance Accident Model"
+    },
+    {
+     "k": "E",
+     "t": "Complex non-linear models"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Birden çok savunma katmanının (denetim, ayakkabı) aynı anda delinmesi."
+  },
+  {
+   "n": 25,
+   "text": "Which of the following is not an example for Murphy's Law?",
+   "options": [
+    {
+     "k": "A",
+     "t": "If the price of raw material increases, the price of product increases."
+    },
+    {
+     "k": "B",
+     "t": "If there is a possibility of several things going wrong, the one that will cause the most damage will be the one to go wrong."
+    },
+    {
+     "k": "C",
+     "t": "When you try to prove to someone that a machine won't work, it will."
+    },
+    {
+     "k": "D",
+     "t": "A car and truck approaching each other on an otherwise deserted road will meet at the narrow bridge."
+    },
+    {
+     "k": "E",
+     "t": "If you are in a rush the traffic lights are always red when you get to them."
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  }
+ ],
+ "missing": []
+}

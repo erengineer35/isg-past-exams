@@ -1,0 +1,711 @@
+{
+ "id": "es411-final-2026-01",
+ "course": "ES 411",
+ "courseName": "Occupational Health and Safety I",
+ "type": "Final",
+ "format": "paper",
+ "date": "Ocak 2026",
+ "sortKey": "2026-01",
+ "header": "ES 411 OCCUPATIONAL HEALTH AND SAFETY I – FINAL EXAM – January 2026",
+ "instructions": "This examination consists of 25 multiple-choice questions. Each question is followed by four possible answers, of which only one is correct. The maximum time for this examination is 40 minutes.",
+ "notes": [
+  "Kâğıtta öğrenci işareti yok; tüm cevaplar çözülmüştür.",
+  "S24-25 sayfasındaki optik form (bölüm kodu) tablosu alınmadı.",
+  "Q20'de soru kökü kâğıtta yok."
+ ],
+ "sources": [
+  "WhatsApp Image 2026-11-04 at 14.55.42 (1).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.43 (3).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.42 (2).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.43 (1).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.43 (2).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.51 (3).jpeg"
+ ],
+ "items": [
+  {
+   "n": 1,
+   "text": "In a factory, boxes are stacked near a doorway, partially blocking it. No incident has occurred yet. What does this situation represent?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Accident"
+    },
+    {
+     "k": "B",
+     "t": "Hazard"
+    },
+    {
+     "k": "C",
+     "t": "Near miss"
+    },
+    {
+     "k": "D",
+     "t": "Occupational disease"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 2,
+   "text": "A worker is injured while cleaning a machine during working hours at the workplace. This incident is classified as:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Personal accident"
+    },
+    {
+     "k": "B",
+     "t": "Unsafe condition"
+    },
+    {
+     "k": "C",
+     "t": "Near miss"
+    },
+    {
+     "k": "D",
+     "t": "Work accident"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 3,
+   "text": "A computer screen is positioned too low, forcing the worker to bend the neck forward all day. Which ergonomic problem exists?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Poor lighting"
+    },
+    {
+     "k": "B",
+     "t": "Cognitive overload"
+    },
+    {
+     "k": "C",
+     "t": "Awkward posture"
+    },
+    {
+     "k": "D",
+     "t": "Noise exposure"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 4,
+   "text": "A public ticket counter is designed too high for many users. Which anthropometric design principle should be applied?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Design for average"
+    },
+    {
+     "k": "B",
+     "t": "Design for extremes"
+    },
+    {
+     "k": "C",
+     "t": "Design for adjustability"
+    },
+    {
+     "k": "D",
+     "t": "No anthropometric data needed"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Yükseklik çoğu kullanıcı için uygunsuz; ayarlanabilirlik seçildi. 'Extremes' ile karışabilir.",
+   "illegible": false
+  },
+  {
+   "n": 5,
+   "text": "A worker repeatedly lifts loads far away from the body. What increases the risk of injury?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Noise level"
+    },
+    {
+     "k": "B",
+     "t": "Increased joint moment"
+    },
+    {
+     "k": "C",
+     "t": "Chemical exposure"
+    },
+    {
+     "k": "D",
+     "t": "Heat stress"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 6,
+   "text": "A red circular sign with a diagonal line is placed on a door. What does this sign indicate?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Mandatory action"
+    },
+    {
+     "k": "B",
+     "t": "Warning"
+    },
+    {
+     "k": "C",
+     "t": "Prohibition"
+    },
+    {
+     "k": "D",
+     "t": "Safe condition"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 7,
+   "text": "An electrical cable has damaged insulation but is still in use. This is an example of:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Unsafe act"
+    },
+    {
+     "k": "B",
+     "t": "Unsafe condition"
+    },
+    {
+     "k": "C",
+     "t": "Near miss"
+    },
+    {
+     "k": "D",
+     "t": "Emergency"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 8,
+   "text": "Which fire class does contain a fire involving gasoline?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Class A"
+    },
+    {
+     "k": "B",
+     "t": "Class B"
+    },
+    {
+     "k": "C",
+     "t": "Class C"
+    },
+    {
+     "k": "D",
+     "t": "Class D"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 9,
+   "text": "A fire is extinguished by removing oxygen. Which method is used?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Cooling"
+    },
+    {
+     "k": "B",
+     "t": "Smothering"
+    },
+    {
+     "k": "C",
+     "t": "Fuel removal"
+    },
+    {
+     "k": "D",
+     "t": "Isolation"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 10,
+   "text": "Employees do not know who will assist disabled workers during evacuation. What is missing in the emergency plan?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Alarm system"
+    },
+    {
+     "k": "B",
+     "t": "Emergency roles and responsibilities"
+    },
+    {
+     "k": "C",
+     "t": "Fire extinguishers"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 11,
+   "text": "A furniture factory stores large amounts of highly flammable wood glue (Class B fire hazard). To reduce the risk of a catastrophic fire, the safety board decides to replace the solvent-based glue with a non-flammable, water-based adhesive. Although the new glue takes longer to dry, it cannot be ignited by sparks. Which control measure has been applied here to manage fire risk?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Substitution"
+    },
+    {
+     "k": "B",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "C",
+     "t": "Elimination"
+    },
+    {
+     "k": "D",
+     "t": "Administrative Control"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 12,
+   "text": "In a warehouse fire, the flames continue to spread rapidly because the wooden pallets (fuel) are ignited by a faulty wire (heat) in an area with constant airflow (oxygen). As long as these three elements coexist in a chemical chain reaction, the fire cannot be extinguished. This scenario identifies the necessary components for combustion, a concept known as the:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Domino theory"
+    },
+    {
+     "k": "B",
+     "t": "Fail-safe design"
+    },
+    {
+     "k": "C",
+     "t": "Hierarchy of control"
+    },
+    {
+     "k": "D",
+     "t": "Fire triangle"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 13,
+   "text": "Workers in a metal fabrication shop are complaining of hearing loss due to the high-frequency noise of a specific cutting machine. The safety officer decides to install sound-dampening curtains and a glass enclosure around the machine to contain the noise within a specific area. This spatial intervention is categorized as:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Administrative Control"
+    },
+    {
+     "k": "B",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "C",
+     "t": "Elimination"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 14,
+   "text": "During an electrical overload in a workshop, the circuit breaker instantly trips and cuts the power to the entire line, moving the system to a non-energized and safe state to prevent a fire. This is an example of:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Fail-active"
+    },
+    {
+     "k": "B",
+     "t": "Fail-operational"
+    },
+    {
+     "k": "C",
+     "t": "Fail-passive"
+    },
+    {
+     "k": "D",
+     "t": "Unsafe condition"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Sistem enerjisiz/pasif güvenli duruma geçiyor: fail-passive.",
+   "illegible": false
+  },
+  {
+   "n": 15,
+   "text": "A heavy industrial press produces noise levels that exceed safety limits for nearby workers. To solve this, the company builds a specialized acoustic enclosure (a sound-proof box) around the machine to contain the noise and prevent it from reaching the surrounding work area. Which control level is applied?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Substitution"
+    },
+    {
+     "k": "B",
+     "t": "Elimination"
+    },
+    {
+     "k": "C",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 16,
+   "text": "\"In a chemical warehouse, workers are exposed to low levels of toxic vapors. Instead of changing the ventilation system, the manager implements a rotation schedule where each employee works in that area for only two hours before switching to an outdoor task to keep their total daily exposure below the legal limit. This is an example of:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Substitution"
+    },
+    {
+     "k": "B",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "C",
+     "t": "Elimination"
+    },
+    {
+     "k": "D",
+     "t": "Administrative Control"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Metindeki açılış tırnağı kâğıtta kapanmıyor.",
+   "illegible": false
+  },
+  {
+   "n": 17,
+   "text": "In a factory, smoke detectors respond slowly to flaming fires. Which detector would be better to use in this factory?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Heat detector"
+    },
+    {
+     "k": "B",
+     "t": "CO detector"
+    },
+    {
+     "k": "C",
+     "t": "Photoelectric detector"
+    },
+    {
+     "k": "D",
+     "t": "Ionization detector"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Fotoelektrik dumanlı (smoldering) yangında, iyonizasyon alevli (hızlı) yangında daha duyarlıdır; soru kurgusu nedeniyle D seçildi.",
+   "illegible": false
+  },
+  {
+   "n": 18,
+   "text": "An automated guided vehicle (AGV) in a smart warehouse is equipped with laser scanners and proximity sensors. When the sensors detect an object or a person in the vehicle's path, the system immediately triggers the braking mechanism to stop the operation before a collision occurs. This is an example of:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Active safety"
+    },
+    {
+     "k": "B",
+     "t": "Passive safety"
+    },
+    {
+     "k": "C",
+     "t": "Fail-passive"
+    },
+    {
+     "k": "D",
+     "t": "Unsafe act"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Sensör algılayıp frenlemeyi tetikleyen sistem: aktif güvenlik.",
+   "illegible": false
+  },
+  {
+   "n": 19,
+   "text": "\"A technician is tasked with handling a highly corrosive acid in a laboratory. The company provides standard latex surgical gloves; however, these gloves quickly dissolve when they come into contact with the acid, failing to protect the worker's skin from chemical burns. What is the main issue in this scenario?",
+   "options": [
+    {
+     "k": "A",
+     "t": "PPE selection"
+    },
+    {
+     "k": "B",
+     "t": "Training"
+    },
+    {
+     "k": "C",
+     "t": "Emergency planning"
+    },
+    {
+     "k": "D",
+     "t": "Supervision"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Metindeki açılış tırnağı kâğıtta kapanmıyor.",
+   "illegible": false
+  },
+  {
+   "n": 20,
+   "text": "A construction worker is walking along an unsecured scaffolding plank when he slips and nearly falls from the second floor. At the last second, he grabs a metal bar and regains his balance, avoiding any injury or equipment damage.",
+   "options": [
+    {
+     "k": "A",
+     "t": "Accident"
+    },
+    {
+     "k": "B",
+     "t": "Unsafe condition"
+    },
+    {
+     "k": "C",
+     "t": "Hazard"
+    },
+    {
+     "k": "D",
+     "t": "Near miss"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Kâğıtta soru kökü yok (metin bir senaryo cümlesiyle bitiyor).",
+   "illegible": false
+  },
+  {
+   "n": 21,
+   "text": "A chemical production facility has been using a solvent that is now linked to severe long-term health issues for the staff. To address this, the management decides to completely remove this chemical from the production line and redesign the entire process so that no solvent is required at all. Which level of control does this represent?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Substitution"
+    },
+    {
+     "k": "B",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "C",
+     "t": "Elimination"
+    },
+    {
+     "k": "D",
+     "t": "Administrative Control"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 22,
+   "text": "According to Article 13 of Law No. 6331, what is the immediate right of a worker when faced with a \"serious, imminent, and unavoidable danger\"?",
+   "options": [
+    {
+     "k": "A",
+     "t": "To file a written petition to the OSH committee and wait for a formal decision."
+    },
+    {
+     "k": "B",
+     "t": "To terminate the employment contract immediately with a claim for severance pay."
+    },
+    {
+     "k": "C",
+     "t": "To leave their workstation or the dangerous area and proceed to a place of safety without prior permission."
+    },
+    {
+     "k": "D",
+     "t": "To contact the Social Security Institution (SGK) to report the lack of risk assessment."
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "6331 md. 13.",
+   "illegible": false
+  },
+  {
+   "n": 23,
+   "text": "Regarding health surveillance (Article 15), which of the following is NOT a mandatory instance for a worker to undergo a medical examination?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Prior to recruitment (pre-assignment)."
+    },
+    {
+     "k": "B",
+     "t": "In the event of a job change or transfer after the initial assignment."
+    },
+    {
+     "k": "C",
+     "t": "Upon returning to work after a repetitive absence due to health problems."
+    },
+    {
+     "k": "D",
+     "t": "Annually for all workers, regardless of the hazard class of the enterprise."
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "6331 md. 15: periyodik muayene tehlike sınıfına göre (çok tehlikeli 1, tehlikeli 3, az tehlikeli 5 yıl).",
+   "illegible": false
+  },
+  {
+   "n": 24,
+   "text": "In the context of \"Ethical Dilemmas in Engineering,\" which situation represents a conflict between management priorities and safety-oriented design?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Adhering strictly to the ethical codes provided by the Turkish Chamber of Engineers during the design phase."
+    },
+    {
+     "k": "B",
+     "t": "Utilizing technologies for real-time hazard monitoring in a construction site."
+    },
+    {
+     "k": "C",
+     "t": "The pressure to implement cost-saving measures that potentially compromise the structural integrity or safety features of a design."
+    },
+    {
+     "k": "D",
+     "t": "Participating in virtual safety drills and interactive risk assessment workshops."
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 25,
+   "text": "Considering the \"Engineers' Role in OHS,\" what is the primary methodological approach for mitigating workplace hazards through design?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Relying solely on the provision of OHS training to workers after the machinery is installed."
+    },
+    {
+     "k": "B",
+     "t": "Conducting predictive maintenance solely based on digital simulations without field inspections."
+    },
+    {
+     "k": "C",
+     "t": "Systematically integrating safety features into engineering designs and utilizing risk assessment tools like FTA, FMEA, or HAZOP for risk mitigation."
+    },
+    {
+     "k": "D",
+     "t": "Transferring all safety responsibilities to the Social Security Institution through the payment of insurance premiums."
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  }
+ ],
+ "missing": []
+}

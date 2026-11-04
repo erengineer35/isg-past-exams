@@ -1,0 +1,815 @@
+{
+  "id": "es411-online-final-2020-11",
+  "course": "ES 411",
+  "courseName": "Occupational Health and Safety I",
+  "type": "Online Final",
+  "format": "online",
+  "date": "Kasım 2020",
+  "sortKey": "2020-11",
+  "header": "UBS Online Sınav (examid=3114)",
+  "instructions": "Her soruyu sadece bir kere görebilirsiniz. Bu sebeple cevabınızdan emin olmadan soruyu geçmeyiniz. Sonradan değiştirme şansınız olmayacak. (Her soru 4 Puan)",
+  "notes": [
+    "Kaynak: öğrencilerin ekran fotoğrafları (25.11.2020). Ekranda sınav tarihi görünmediği için tarih dosya tarihinden alındı.",
+    "Şıklar öğrenciye göre karışık sıradadır; sorular metne göre tekilleştirildi, konu akışına göre 1–25 numaralandı (ekrandaki numaralar farklı). Şık harfleri en net ekran görüntüsündeki sıraya göredir; işaretli şık o görüntüdeki işarettir.",
+    "Cevap listesindeki (FİNAL.docx) harfler kendi şık sırasına göredir; burada metne göre eşlendi.",
+    "Cevap listesinde 'Stairways must be installed at no more than ...' sorusu da var ama ekran fotoğraflarında bulunmadığı için bu sayfada yok. 17. sorunun iki varyantı var (açıklamaya bakınız)."
+  ],
+  "sources": [
+    "WhatsApp ekran fotograflari (ISG SINAVLARI/Final)",
+    "FINAL.docx"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "If there is a fire and you want to stop it, which of the following is not one of your options?",
+      "options": [
+        {
+          "k": "A",
+          "t": "You should cool it below the combustion point."
+        },
+        {
+          "k": "B",
+          "t": "You should cover the fire with a blanket to starve it of oxygen."
+        },
+        {
+          "k": "C",
+          "t": "You should remove the fuel source."
+        },
+        {
+          "k": "D",
+          "t": "You should use a proper fire distinguisher."
+        },
+        {
+          "k": "E",
+          "t": "You should remove the carbon dioxide."
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 2,
+      "text": "Why is it important to know the different classes of fire?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Because certain fires can only be extinguished with certain fire extinguishers."
+        },
+        {
+          "k": "B",
+          "t": "Because everyone in the workplace needs to fight against the fire."
+        },
+        {
+          "k": "C",
+          "t": "Because our professor wants to make the topic complicated."
+        },
+        {
+          "k": "D",
+          "t": "Because some fires are less dangerous to a person's health."
+        },
+        {
+          "k": "E",
+          "t": "Because some fires cause greater damage than others."
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 3,
+      "text": "A fire of plastic bags is classified (in the EU classification system) as: __________?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Class E"
+        },
+        {
+          "k": "B",
+          "t": "Class D"
+        },
+        {
+          "k": "C",
+          "t": "Class C"
+        },
+        {
+          "k": "D",
+          "t": "Class B"
+        },
+        {
+          "k": "E",
+          "t": "Class A"
+        }
+      ],
+      "answer": "E",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 4,
+      "text": "Which of the following is not a good match?",
+      "options": [
+        {
+          "k": "A",
+          "t": "The burning material: Magnesium, The firefighting material: Sand"
+        },
+        {
+          "k": "B",
+          "t": "The burning material: Cooking oil, The firefighting material: Wet chemical"
+        },
+        {
+          "k": "C",
+          "t": "The burning material: Plastic, The firefighting material: Water"
+        },
+        {
+          "k": "D",
+          "t": "The burning material: Wood, The firefighting material:ABC powder"
+        },
+        {
+          "k": "E",
+          "t": "The burning material: Electrical contact, The firefighting material:Foam spray"
+        }
+      ],
+      "answer": "E",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "Elektrik yangınında köpük (iletken) kullanılmaz."
+    },
+    {
+      "n": 5,
+      "text": "If you design a fire alarm system to alert people when there is a fire, which type of safety sign(s) should you use?",
+      "options": [
+        {
+          "k": "A",
+          "t": "An acoustic signal and flashing light together"
+        },
+        {
+          "k": "B",
+          "t": "A red directional sign"
+        },
+        {
+          "k": "C",
+          "t": "A smoke detector instead of a heat detector"
+        },
+        {
+          "k": "D",
+          "t": "A sprinkler system using CO2 instead of water"
+        },
+        {
+          "k": "E",
+          "t": "A signboard with a fire pictogram"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 6,
+      "text": "Which of the following is a true statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Exit signs must be red-colored, distinctive, and easily identifiable."
+        },
+        {
+          "k": "B",
+          "t": "A door that connects any room to an exit routehas toswing out in the direction of exit travel regardless of the number of occupants."
+        },
+        {
+          "k": "C",
+          "t": "Employees must not travel toward a high hazard area even though it is effectively shielded."
+        },
+        {
+          "k": "D",
+          "t": "Exit doors must be able to open from the inside at all times without keys, tools, or special knowledge."
+        },
+        {
+          "k": "E",
+          "t": "Exit routes might be blocked with boxes."
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 7,
+      "text": "When there is an emergency we should follow the exit route to gather at the assembly point. We often use hallways (corridor) to go to the assembly point. How do we call “the hallway” in safety?",
+      "options": [
+        {
+          "k": "A",
+          "t": "The exit"
+        },
+        {
+          "k": "B",
+          "t": "The exit access"
+        },
+        {
+          "k": "C",
+          "t": "The refuge area"
+        },
+        {
+          "k": "D",
+          "t": "Safeway"
+        },
+        {
+          "k": "E",
+          "t": "The exit discharge"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 8,
+      "text": "In the picture, you see a fire exit door and a \"keep clear\" text on the floor. Is this a proper floor marking?",
+      "image": "img/es411-online-final-2020-11/q8.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "No, it is not a proper floor marking because the colors should be red and white instead of yellow and black."
+        },
+        {
+          "k": "B",
+          "t": "Yes, it is a proper floor marking."
+        },
+        {
+          "k": "C",
+          "t": "No, it is not a proper floor marking because there should be a blue and white pictogram (text can be added, too)."
+        },
+        {
+          "k": "D",
+          "t": "No, it is not a proper floor marking because there should be a green and white pictogram (text can be added, too) since the door is \"emergency exit\""
+        },
+        {
+          "k": "E",
+          "t": "No, it is not a proper floor marking because the colors should be blue and white instead of yellow and black."
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "medium",
+      "remark": "Şekil: zemin işareti (sarı-siyah) ve yeşil acil çıkış kapısı. Cevap listesine göre acil çıkış için yeşil-beyaz piktogram gerekir."
+    },
+    {
+      "n": 9,
+      "text": "Which of the following is a false statement in terms of the Emergency Action Plan (EPA)?",
+      "options": [
+        {
+          "k": "A",
+          "t": "The EPA must be available to all employees for their review."
+        },
+        {
+          "k": "B",
+          "t": "The EPA is required by the Ministry of Labor."
+        },
+        {
+          "k": "C",
+          "t": "The EPA is written after an emergency happens."
+        },
+        {
+          "k": "D",
+          "t": "The EPA must be kept in the workplace."
+        },
+        {
+          "k": "E",
+          "t": "The EPA is a written plan."
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 10,
+      "text": "If we want our workers to wash their hands before they enter the lunchroom, what kind of safety sign should we use?",
+      "options": [
+        {
+          "k": "A",
+          "t": "A blue circle with a white hand-washing pictogram."
+        },
+        {
+          "k": "B",
+          "t": "A green rectangle with a white hand-washing pictogram."
+        },
+        {
+          "k": "C",
+          "t": "A yellow triangle with black borders and a black hand-washing pictogram."
+        },
+        {
+          "k": "D",
+          "t": "A blue circle with \"Now wash your hands please\" text."
+        },
+        {
+          "k": "E",
+          "t": "A green circle with a white hand-washing pictogram."
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "Zorunluluk (mavi daire, beyaz piktogram) işareti."
+    },
+    {
+      "n": 11,
+      "text": "Which of the following is an example of an unsafe condition?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Repair equipment while it is in operation"
+        },
+        {
+          "k": "B",
+          "t": "Horseplay"
+        },
+        {
+          "k": "C",
+          "t": "Performing a task without prior training"
+        },
+        {
+          "k": "D",
+          "t": "Removal of safety devices"
+        },
+        {
+          "k": "E",
+          "t": "Unguarded machinery"
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "Diğer şıklar güvensiz davranıştır."
+    },
+    {
+      "n": 12,
+      "text": "Which of the following is not an example of Murphy's Law?",
+      "options": [
+        {
+          "k": "A",
+          "t": "If the price of gasoline increases, the price of bus tickets increases."
+        },
+        {
+          "k": "B",
+          "t": "A car and truck approaching each other on an otherwise deserted road will meet at the narrow bridge."
+        },
+        {
+          "k": "C",
+          "t": "If your laptop has been misbehaving and you take it to the repair shop, it will work perfectly when the computer technician tries it out."
+        },
+        {
+          "k": "D",
+          "t": "If there are only two people in an airplane, they will seat adjacent seats."
+        },
+        {
+          "k": "E",
+          "t": "Any tool, when dropped, will roll to the least accessible corner."
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 13,
+      "text": "Ayse comes very tiredly to her job every Wednesday since she plays tennis on Tuesday evenings. In her workplace, a janitor cleans floors every morning. If someone does not wear non-slippery workshoes, there is a high possibility that he or she can slip and fall. Last Wednesday morning, Ayse came to the factory and did not want to wear her non-slippery workshoes since they are uncomfortable. None of the supervisors realized that she did not wear her workshoes. When she stepped on the wet floor, she felt down and injured her head. Which of the following theory/model can explain this accident?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Hollnagel's Functional Resonance Accident Model"
+        },
+        {
+          "k": "B",
+          "t": "Heinrich's Domino Theory"
+        },
+        {
+          "k": "C",
+          "t": "Gungor's “Kashar Cheese” model"
+        },
+        {
+          "k": "D",
+          "t": "Reason's \"Swiss Cheese\" model"
+        },
+        {
+          "k": "E",
+          "t": "Complex non-linear models"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 14,
+      "text": "A natural gas detector in your home can detect if there is any propane gas leak. It will alert you if there is any gas leak. So, it is an example for __________.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Fail-over"
+        },
+        {
+          "k": "B",
+          "t": "Fail-operational"
+        },
+        {
+          "k": "C",
+          "t": "Fail-passive"
+        },
+        {
+          "k": "D",
+          "t": "Interlock"
+        },
+        {
+          "k": "E",
+          "t": "Fail-active"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "low",
+      "remark": "Görüntü bulanıktı; soru metninin sonu yakın çekimde kesikti, diğer kopyadan tamamlandı. Cevap listesi Fail-operational diyor; Fail-active de savunulabilir (alarm veren sistem)."
+    },
+    {
+      "n": 15,
+      "text": "Which of the following is a true statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Increasing safety factor generally causes an increase in the cost."
+        },
+        {
+          "k": "B",
+          "t": "The engineering design safety factor for an aircraft is generally much higher than that of a bridge."
+        },
+        {
+          "k": "C",
+          "t": "Safety factor is the ratio of  the expected loading to the load-carrying capacity of the structure."
+        },
+        {
+          "k": "D",
+          "t": "Even though you conduct highly reliable analysis, you have to use a higher safety factor."
+        },
+        {
+          "k": "E",
+          "t": "Even though you have high quality and consistency of materials, you have to use a higher safety factor."
+        }
+      ],
+      "answer": "A",
+      "marked": "C",
+      "answerSource": "key",
+      "confidence": "medium",
+      "remark": "Öğrenci C işaretlemiş; güvenlik faktörü = taşıma kapasitesi / beklenen yük olduğundan C ters yazılmış, ayrıca uçaklarda güvenlik faktörü köprülerden düşüktür. Cevap listesi A."
+    },
+    {
+      "n": 16,
+      "text": "Rotating workers to minimize their exposure to excessive noise is an example of administrative control.",
+      "options": [
+        {
+          "k": "A",
+          "t": "No, it is not because rotation is an example of elimination."
+        },
+        {
+          "k": "B",
+          "t": "No, it is not because rotation is an example of substitution."
+        },
+        {
+          "k": "C",
+          "t": "No, it is not because rotation is an engineering control."
+        },
+        {
+          "k": "D",
+          "t": "Yes, it is."
+        },
+        {
+          "k": "E",
+          "t": "No, it is not because rotation is not suggested in safety."
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 17,
+      "text": "Based on the hierarchy of vibration control, which of the following is more effective compared to others?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Lubrication"
+        },
+        {
+          "k": "B",
+          "t": "Using anti-vibration gloves"
+        },
+        {
+          "k": "C",
+          "t": "Decreasing exposure with short work schedule"
+        },
+        {
+          "k": "D",
+          "t": "None of these solutions can control vibration."
+        },
+        {
+          "k": "E",
+          "t": "Providing training to employees regarding vibration"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "Bu varyantta ikame (substitution) şıkkı yok; kontrol hiyerarşisine göre mühendislik kontrolü (yağlama/bakım) idari önlem ve KKD'den üstündür. Cevap listesi (C = eğitim) ile çelişiyor. Başka bir varyantta (\"Hint: Consider the hierarchy of control\") şıklar: Lubrication / Decreasing exposure with short work schedules / Training workers about vibration / Substitution the vibrating machine with a safer one / Using anti-vibration gloves; orada cevap ikamedir."
+    },
+    {
+      "n": 18,
+      "text": "Which of the following is a true statement?",
+      "image": "img/es411-online-final-2020-11/q18.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "Stoop lifting requires more energy than squat lifting."
+        },
+        {
+          "k": "B",
+          "t": "Stoop lifting increases the spinal loading compared to squat lifting."
+        },
+        {
+          "k": "C",
+          "t": "Workers get closer to the load with squat lifting compared to stoop lifting."
+        },
+        {
+          "k": "D",
+          "t": "Stoop lifting is slower and less efficient than squat lifting."
+        },
+        {
+          "k": "E",
+          "t": "Stoop lifting requires more effort than squat lifting."
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 19,
+      "text": "What does the table tell us?",
+      "table": [
+        [
+          "Task-specific energy expenditure for frequent lifting (kcal/min)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Lift Location",
+          "< 1h",
+          "1-2 h",
+          "2-8 h"
+        ],
+        [
+          "V ≤ 75 cm",
+          "4.7",
+          "3.7",
+          "3.1"
+        ],
+        [
+          "V > 75 cm",
+          "3.3",
+          "2.7",
+          "2.2"
+        ]
+      ],
+      "options": [
+        {
+          "k": "A",
+          "t": "The lift location affects the hand posture."
+        },
+        {
+          "k": "B",
+          "t": "The energy expenditure is a function of the duration of lifting."
+        },
+        {
+          "k": "C",
+          "t": "The horizontal distance should be less than 63 cm."
+        },
+        {
+          "k": "D",
+          "t": "The lift location is the only criterion for energy expenditure."
+        },
+        {
+          "k": "E",
+          "t": "The lift location is the only criterion for energy production."
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 20,
+      "text": "If we measure the required energy level of a task and then compare it with other tasks to understand the difficulty level of the task, which manual material handling criterion is executed?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Epidemiological criterion"
+        },
+        {
+          "k": "B",
+          "t": "Biochemistry criterion"
+        },
+        {
+          "k": "C",
+          "t": "Psychophysical criterion"
+        },
+        {
+          "k": "D",
+          "t": "Physiological criterion"
+        },
+        {
+          "k": "E",
+          "t": "Biomechanical criterion"
+        }
+      ],
+      "answer": "D",
+      "marked": "C",
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "Öğrenci psikofiziksel kriteri işaretlemiş; enerji harcaması fizyolojik kriterdir."
+    },
+    {
+      "n": 21,
+      "text": "The Snook tables and work physiology are two different manual material handling assessment methods. Which of the following is a true statement about these methods?",
+      "options": [
+        {
+          "k": "A",
+          "t": "The energy level required for a task is measured by both methods, but the physiology is the only method to compare results."
+        },
+        {
+          "k": "B",
+          "t": "There is no difference between the two methods since both methods are the same."
+        },
+        {
+          "k": "C",
+          "t": "The work physiology is the only method to understand the difficulty level of a task."
+        },
+        {
+          "k": "D",
+          "t": "The work physiology is much more reliable compared to the Snook tables since it has objective results."
+        },
+        {
+          "k": "E",
+          "t": "The energy level required for a task is measured by the psychophysical method only."
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "low",
+      "remark": "Cevap listesi 'A (Emin)' = work physiology is the only method to understand the difficulty level (burada C). D şıkkı da savunulabilir."
+    },
+    {
+      "n": 22,
+      "text": "Based on the recommended weight limit (RWL) formula, which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "A 25 cm of horizontal distance is better than 50 cm."
+        },
+        {
+          "k": "B",
+          "t": "A 25 cm of vertical distance is better than 50 cm."
+        },
+        {
+          "k": "C",
+          "t": "A 10°asymmetry is better than 32°."
+        },
+        {
+          "k": "D",
+          "t": "A 100 cm of vertical distance is better than 125 cm."
+        },
+        {
+          "k": "E",
+          "t": "A 20 cm of horizontal distance is better than 50 cm."
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "VM = 1 − 0,0075·|V − 75|: V = 25 → 0,625; V = 50 → 0,8125. Yani 50 cm daha iyi, ifade yanlış."
+    },
+    {
+      "n": 23,
+      "text": "If the lifting index suggests to us that a specific lifting task is not acceptable and we know that the load lifted is 12 kg, what is the recommended weight limit (RWL) for this task?",
+      "options": [
+        {
+          "k": "A",
+          "t": "4 kg"
+        },
+        {
+          "k": "B",
+          "t": "23 kg"
+        },
+        {
+          "k": "C",
+          "t": "36 kg"
+        },
+        {
+          "k": "D",
+          "t": "12 kg"
+        },
+        {
+          "k": "E",
+          "t": "24 kg"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "LI = yük / RWL > 1 ise RWL < 12 kg."
+    },
+    {
+      "n": 24,
+      "text": "Which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "The 2nd class lever provides better mechanical advantages compared to other two lever classes."
+        },
+        {
+          "k": "B",
+          "t": "The 1st class lever provides better sensitivity compared to the 3rdclass lever."
+        },
+        {
+          "k": "C",
+          "t": "The 1st class lever exists at the human neck."
+        },
+        {
+          "k": "D",
+          "t": "The 3rd class lever provides endurance rather than power."
+        },
+        {
+          "k": "E",
+          "t": "The 3rd class lever is the most common lever system in the human body."
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "key",
+      "confidence": "high"
+    },
+    {
+      "n": 25,
+      "text": "Based on the figure given, the load is 100 N, the weight of hand and forearm is 30 N, and the required force by the biceps muscle to lift the load is 1100 N. What is the lever arm distance from the elbow joint and the insertion point of the biceps muscle?",
+      "image": "img/es411-online-final-2020-11/q25.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "5 cm"
+        },
+        {
+          "k": "B",
+          "t": "3 cm"
+        },
+        {
+          "k": "C",
+          "t": "2.5 cm"
+        },
+        {
+          "k": "D",
+          "t": "2 cm"
+        },
+        {
+          "k": "E",
+          "t": "2.45 cm"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "1100·d = 100·30 + 30·10 = 3300 → d = 3 cm."
+    }
+  ],
+  "missing": []
+}

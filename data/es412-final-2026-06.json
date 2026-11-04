@@ -1,0 +1,328 @@
+{
+ "id": "es412-final-2026-06",
+ "course": "ES 412",
+ "courseName": "Occupational Health and Safety II",
+ "type": "Final",
+ "format": "paper",
+ "date": "Haziran 2026",
+ "sortKey": "2026-06",
+ "header": "ES 412 OCCUPATIONAL HEALTH AND SAFETY II – FINAL EXAM – JUNE 2026",
+ "instructions": "This examination is comprised of 25 multiple-choice questions. Each question is followed by four possible answers, of which only one is correct. The maximum time for this examination is 40 minutes.",
+ "notes": [
+  "Sınavın yalnızca S12-S21 fotoğrafları mevcut; S1-11 ve S22-25 yok.",
+  "S16-17 için 5x5 risk matrisi şekli kırpıldı (img/es412-final-2026-06/q16.jpg).",
+  "S18-21 senaryo soruları; senaryo metni 'passage' olarak ayrıldı. Fotoğraflar eğik/çekim kalitesi orta; metin okunabilir.",
+  "İşaretleme yok; cevaplar çözüldü."
+ ],
+ "sources": [
+  "WhatsApp Image 2026-11-04 at 14.55.48 (8).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.48 (7).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.48 (9).jpeg"
+ ],
+ "items": [
+  {
+   "n": 12,
+   "text": "Which statement about asbestos is correct?",
+   "options": [
+    {
+     "k": "A",
+     "t": "The health effects of asbestos exposure usually appear immediately after contact."
+    },
+    {
+     "k": "B",
+     "t": "Asbestos fibers are too large to reach the lungs."
+    },
+    {
+     "k": "C",
+     "t": "Prolonged inhalation of asbestos fibers can cause serious and fatal illnesses, including asbestosis and lung cancer."
+    },
+    {
+     "k": "D",
+     "t": "Asbestos is used exclusively in the chemical industry."
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 13,
+   "text": "What is the most critical safety hazard associated with flickering light around moving machinery?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Flickering light may make a machine appear to be moving slower than it actually is or appear to have stopped when it has not."
+    },
+    {
+     "k": "B",
+     "t": "Flickering light distorts workers' color perception, leading to material defects."
+    },
+    {
+     "k": "C",
+     "t": "Flickering light causes only headaches and eye fatigue, posing no safety risk."
+    },
+    {
+     "k": "D",
+     "t": "Flickering light adversely affects workers' hearing."
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Stroboskopik etki."
+  },
+  {
+   "n": 14,
+   "text": "Which statement about the correct positioning of portable straight or extension ladders is correct?",
+   "options": [
+    {
+     "k": "A",
+     "t": "The horizontal distance from the base to the support point should be one-quarter of the working length of the ladder."
+    },
+    {
+     "k": "B",
+     "t": "The preferred angle is 45 degrees from horizontal."
+    },
+    {
+     "k": "C",
+     "t": "The top of the ladder should extend 50 cm above the upper surface."
+    },
+    {
+     "k": "D",
+     "t": "The steeper the ladder angle, the safer the ladder."
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "4'e 1 kuralı (yaklaşık 75 derece). C şıkkı standartta genelde yaklaşık 1 m olduğundan yanlış."
+  },
+  {
+   "n": 15,
+   "text": "What is the key difference between a Preliminary Hazard Analysis (PHA) and a Preliminary Hazard List (PHL)?",
+   "options": [
+    {
+     "k": "A",
+     "t": "The PHL ranks hazardous events by severity, while the PHA only lists them."
+    },
+    {
+     "k": "B",
+     "t": "The PHA identifies hazards, ranks them by severity, and provides recommendations; the PHL is only a list of potential hazards."
+    },
+    {
+     "k": "C",
+     "t": "PHA is another name for Fault Tree Analysis (FTA)."
+    },
+    {
+     "k": "D",
+     "t": "A PHL requires more technical expertise than a PHA."
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 16,
+   "text": "A worker operates a machine with a moderate chance (possible, score = 3) of mechanical failure leading to severe injury (critical, score = 4). According to a standard 5×5 risk matrix, how should this risk be classified?",
+   "image": "img/es412-final-2026-06/q16.jpg",
+   "options": [
+    {
+     "k": "A",
+     "t": "Low risk – no immediate action needed"
+    },
+    {
+     "k": "B",
+     "t": "Medium risk – monitor with periodic review"
+    },
+    {
+     "k": "C",
+     "t": "High risk – requires prompt corrective action"
+    },
+    {
+     "k": "D",
+     "t": "Extreme risk – work must be stopped immediately"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Üst başlık: 'Answer questions 16 and 17 by referencing this matrix.' Skor 3×4=12; matriste orta-koyu gri bölge. Görselde yalnız şekil var, öğrenci işareti yok."
+  },
+  {
+   "n": 17,
+   "text": "A chemical spill in a laboratory has a low likelihood (2: Unlikely), if it happens, the consequences would be catastrophic (5: multiple fatalities possible). Based on the 5×5 risk matrix provided, how should this risk be classified?",
+   "image": "img/es412-final-2026-06/q16.jpg",
+   "options": [
+    {
+     "k": "A",
+     "t": "Low risk – tolerable without new measures"
+    },
+    {
+     "k": "B",
+     "t": "Medium risk – review and monitor periodically"
+    },
+    {
+     "k": "C",
+     "t": "High risk – corrective action required soon"
+    },
+    {
+     "k": "D",
+     "t": "Extreme risk – immediate action required, stop work until resolved"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Skor 2×5=10; matriste açık-orta gri."
+  },
+  {
+   "passage": "18. SCENARIO — Workers in a metal-stamping plant are exposed to continuous noise levels of 102 dB(A). Measurements confirm all workers exceed the maximum action limit. The plant manager lists the following options under consideration:"
+  },
+  {
+   "n": 18,
+   "text": "Rank these four options (i–iv) correctly from HIGHEST to LOWEST in the hierarchy of control measures.",
+   "list": [
+    "(i) Replace the old pneumatic stamping presses with quieter electric servo-presses (78 dB).",
+    "(ii) Build acoustic enclosures around each press.",
+    "(iii) Rotate workers between noisy and quiet areas every two hours.",
+    "(iv) Provide each worker with earmuffs rated NRR 29."
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "(iv) → (iii) → (ii) → (i)"
+    },
+    {
+     "k": "B",
+     "t": "(i) → (ii) → (iii) → (iv)"
+    },
+    {
+     "k": "C",
+     "t": "(ii) → (i) → (iv) → (iii)"
+    },
+    {
+     "k": "D",
+     "t": "(iii) → (i) → (ii) → (iv)"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Substitution > engineering > administrative > PPE."
+  },
+  {
+   "passage": "19. SCENARIO — An OHS manager at a chemical plant has completed a Preliminary Hazard Analysis (PHA) and identified a high-risk scenario: a pressurized solvent storage tank could rupture, causing fire and explosion. The risk score is rated CRITICAL (highest severity × high probability). The manager now proposes the following corrective actions:"
+  },
+  {
+   "n": 19,
+   "text": "According to the hierarchy of control measures and the ALARP principle, which action should be PRIORITISED first?",
+   "list": [
+    "(i) Demolish the above-ground tank and store the solvent in sealed underground tanks with automatic leak detection.",
+    "(ii) Reduce the maximum fill volume to 60% of tank capacity.",
+    "(iii) Require all workers within 50 m of the tank to wear flame-resistant coveralls and face shields.",
+    "(iv) Conduct weekly visual inspections of the tank and pressure gauges."
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "Option (iii) – flame-resistant PPE for nearby workers"
+    },
+    {
+     "k": "B",
+     "t": "Option (iv) – weekly visual inspections"
+    },
+    {
+     "k": "C",
+     "t": "Option (ii) – limiting fill volume to 60%"
+    },
+    {
+     "k": "D",
+     "t": "Option (i) – replacing the above-ground tank with a sealed underground system"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "A şıkkının başı fotoğrafta parmakla kapalı ('A)' kısmen görünüyor)."
+  },
+  {
+   "passage": "20. SCENARIO — A forestry company cannot afford to replace its fleet of chainsaws immediately. The OHS manager has a budget to implement ONE additional control measure on top of the existing anti-vibration gloves already in use."
+  },
+  {
+   "n": 20,
+   "text": "Which single measure would represent the greatest IMPROVEMENT in the hierarchy level (i.e., moving to a higher control level) compared to gloves alone?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Switch from standard chainsaws to anti-vibration chainsaws with rubber-isolated handles."
+    },
+    {
+     "k": "B",
+     "t": "Provide workers with thicker anti-vibration gloves with a higher attenuation rating."
+    },
+    {
+     "k": "C",
+     "t": "Display warning posters reminding workers to take breaks."
+    },
+    {
+     "k": "D",
+     "t": "Conduct annual hand-arm vibration health surveillance for all workers."
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "passage": "21. SCENARIO — Workers at a food processing facility frequently slip on wet floors near washing stations. Incident records show 12 same-level fall accidents in the past year. The floors are smooth ceramic tiles. Water accumulates from continuous rinsing operations throughout the shift. Currently, workers are warned with wet-floor signs."
+  },
+  {
+   "n": 21,
+   "text": "The facilities manager proposes four options. Which option is HIGHEST in the hierarchy of control measures?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Replace the smooth ceramic floor tiles with anti-slip textured flooring throughout the washing station area."
+    },
+    {
+     "k": "B",
+     "t": "Post additional wet-floor warning signs and hold a toolbox talk to remind workers to walk carefully."
+    },
+    {
+     "k": "C",
+     "t": "Require all workers in the wet area to wear safety footwear with slip-resistant soles (rated SRA/SRB)."
+    },
+    {
+     "k": "D",
+     "t": "Implement a cleaning schedule requiring the floor to be mopped and dried every 30 minutes."
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  }
+ ],
+ "missing": [
+  {
+   "from": 1,
+   "to": 11,
+   "note": "Fotoğraflarda yok"
+  },
+  {
+   "from": 22,
+   "to": 25,
+   "note": "Fotoğraflarda yok"
+  }
+ ]
+}

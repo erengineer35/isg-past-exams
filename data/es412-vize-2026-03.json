@@ -1,0 +1,673 @@
+{
+ "id": "es412-vize-2026-03",
+ "course": "ES 412",
+ "courseName": "Occupational Health and Safety II",
+ "type": "Vize",
+ "format": "paper",
+ "date": "Mart 2026",
+ "sortKey": "2026-03",
+ "header": "ES 412 OCCUPATIONAL HEALTH AND SAFETY II – MIDTERM EXAM – MARCH 2026",
+ "instructions": "This examination consists of 25 multiple-choice questions. Each question is followed by four possible answers, of which only one is correct. The maximum time for this examination is 30 minutes.",
+ "notes": [
+  "Fotoğraflarda öğrenci işareti yok; tüm cevaplar 'solved' (İSG bilgisiyle çözüldü).",
+  "S5'te 5 şık (A-E) var.",
+  "S25'in şıkları fotoğrafta kesik (yalnız A okunuyor); cevap belirlenemedi.",
+  "Optik form/kenar yazıları soru metnine alınmadı."
+ ],
+ "sources": [
+  "WhatsApp Image 2026-11-04 at 14.55.48 (1).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.48 (3).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.48 (4).jpeg"
+ ],
+ "items": [
+  {
+   "n": 1,
+   "text": "Which of the following statements about globalization is incorrect?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Globalization is purely an economic process."
+    },
+    {
+     "k": "B",
+     "t": "Globalization includes increased trade channels between countries."
+    },
+    {
+     "k": "C",
+     "t": "Globalization involves social, political, and economic convergence."
+    },
+    {
+     "k": "D",
+     "t": "Globalization leads to increased labor and capital movement."
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 2,
+   "text": "What is one of the most significant negative impacts of globalization on occupational health and safety?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Workers having higher levels of education"
+    },
+    {
+     "k": "B",
+     "t": "Improved working conditions for employees"
+    },
+    {
+     "k": "C",
+     "t": "Lower safety standards due to flexible work systems"
+    },
+    {
+     "k": "D",
+     "t": "More employment opportunities created by multinational companies"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 3,
+   "text": "A glass factory worker has a core body temperature of 38.5°C and reports heavy sweating and dizziness but remains conscious. His skin is moist and pale. What condition is most likely?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Heat stroke"
+    },
+    {
+     "k": "B",
+     "t": "Heat exhaustion"
+    },
+    {
+     "k": "C",
+     "t": "Heat cramps"
+    },
+    {
+     "k": "D",
+     "t": "Hypothermia"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 4,
+   "text": "What is the biggest occupational health and safety risk associated with flexible working systems?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Increased job satisfaction for employees"
+    },
+    {
+     "k": "B",
+     "t": "Inadequate safety precautions"
+    },
+    {
+     "k": "C",
+     "t": "Creation of more jobs"
+    },
+    {
+     "k": "D",
+     "t": "Reduction in working hours"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 5,
+   "text": "A construction worker collapses with a core body temperature above 42°C, dry hot skin, and confusion. Sweating has stopped completely. What is the correct immediate action?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Give water immediately"
+    },
+    {
+     "k": "B",
+     "t": "Provide salt tablets"
+    },
+    {
+     "k": "C",
+     "t": "Call emergency services and rapidly cool the body"
+    },
+    {
+     "k": "D",
+     "t": "Massage the muscles"
+    },
+    {
+     "k": "E",
+     "t": "Allow the worker to rest in the sun"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Kağıtta bu soruda A-E olmak üzere 5 şık var (başlık 'four possible answers' diyor); D ve E sağ sütunun başında devam ediyor."
+  },
+  {
+   "n": 6,
+   "text": "A new employee has worked in a hot environment for five consecutive days and now begins sweating earlier and more efficiently. His heart rate during work has decreased compared to the first day. What process explains this adaptation?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Circadian shift"
+    },
+    {
+     "k": "B",
+     "t": "Acclimatization"
+    },
+    {
+     "k": "C",
+     "t": "Q10 cycle"
+    },
+    {
+     "k": "D",
+     "t": "Hypothermia"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 7,
+   "text": "How can we understand the difference between heat exhaustion and heat stroke?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Looking sick person's heart rate and blood pressure"
+    },
+    {
+     "k": "B",
+     "t": "Looking sick person's hands"
+    },
+    {
+     "k": "C",
+     "t": "Looking sick person's eyes and skin"
+    },
+    {
+     "k": "D",
+     "t": "Looking sick person's mouth"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Ayırt edici bulgu cilt (nemli/soluk ile kuru/sıcak) ve bilinç durumu olduğundan C seçildi."
+  },
+  {
+   "n": 8,
+   "text": "Considering the neurological response to heat, how does heat stress start in the skin?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Thermoreceptors"
+    },
+    {
+     "k": "B",
+     "t": "Hypothalamus"
+    },
+    {
+     "k": "C",
+     "t": "Smooth muscles"
+    },
+    {
+     "k": "D",
+     "t": "Brain step"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 9,
+   "text": "What is the name of the cold stress that is also called \"silent death\"?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hyperthermia"
+    },
+    {
+     "k": "B",
+     "t": "Frost bite"
+    },
+    {
+     "k": "C",
+     "t": "Frost nip"
+    },
+    {
+     "k": "D",
+     "t": "Hypothermia"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 10,
+   "text": "A worker standing 25 meters from a machine is exposed to 80 dB(A). He moves to 50 meters away. Approximately what sound level will he experience?",
+   "options": [
+    {
+     "k": "A",
+     "t": "80 dB"
+    },
+    {
+     "k": "B",
+     "t": "77 dB"
+    },
+    {
+     "k": "C",
+     "t": "74 dB"
+    },
+    {
+     "k": "D",
+     "t": "70 dB"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Mesafe iki katına çıkınca nokta kaynakta yaklaşık 6 dB azalır: 80-6=74."
+  },
+  {
+   "n": 11,
+   "text": "After a full shift in a 95 dB environment, a worker experiences ringing in the ears that disappears the next morning. Hearing returns to normal. What condition occurred?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Permanent hearing loss"
+    },
+    {
+     "k": "B",
+     "t": "Temporary threshold shift"
+    },
+    {
+     "k": "C",
+     "t": "Masking"
+    },
+    {
+     "k": "D",
+     "t": "Raynaud's phenomenon"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 12,
+   "text": "An office worker constantly leans forward to see documents due to insufficient lighting. She reports neck and shoulder pain at the end of the day. What is the primary cause?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Visual comfort"
+    },
+    {
+     "k": "B",
+     "t": "Postural strain due to poor illumination"
+    },
+    {
+     "k": "C",
+     "t": "Circadian disruption"
+    },
+    {
+     "k": "D",
+     "t": "Noise attenuation"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 13,
+   "text": "How does vibration affect the human body?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Increasing blood circulation"
+    },
+    {
+     "k": "B",
+     "t": "Strengthening the immune system"
+    },
+    {
+     "k": "C",
+     "t": "Reducing stress"
+    },
+    {
+     "k": "D",
+     "t": "Causes musculoskeletal damage"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 14,
+   "text": "Which disease is caused by hand-arm vibration?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hypothermia"
+    },
+    {
+     "k": "B",
+     "t": "Asthma"
+    },
+    {
+     "k": "C",
+     "t": "Carpal tunnel syndrome"
+    },
+    {
+     "k": "D",
+     "t": "Stomach ulcer"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 15,
+   "text": "When a paint thinner container is opened, workers inhale airborne contaminants released at room temperature. The substance is normally liquid at room temperature. What type of contaminant is this?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Gas"
+    },
+    {
+     "k": "B",
+     "t": "Vapor"
+    },
+    {
+     "k": "C",
+     "t": "Dust"
+    },
+    {
+     "k": "D",
+     "t": "Fume"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 16,
+   "text": "Which one of the following is a typical effect of excessive exposure to hand-arm vibration?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Cerebral blood flow"
+    },
+    {
+     "k": "B",
+     "t": "Back pain"
+    },
+    {
+     "k": "C",
+     "t": "Blanching of the fingers"
+    },
+    {
+     "k": "D",
+     "t": "Arm pain"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 17,
+   "text": "Radon gas is detected in a workplace. The employer relocates operations to a different building. Which control method is this?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Substitution"
+    },
+    {
+     "k": "C",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "D",
+     "t": "Administrative Control"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Tehlikeli ortamdan uzaklaşma = eliminasyon olarak değerlendirildi."
+  },
+  {
+   "n": 18,
+   "text": "A worker exposed to extreme cold stops shivering and becomes confused with slowed breathing. His core temperature is 32°C. What is the condition?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Frostnip"
+    },
+    {
+     "k": "B",
+     "t": "Hyperthermia"
+    },
+    {
+     "k": "C",
+     "t": "Hypothermia"
+    },
+    {
+     "k": "D",
+     "t": "Heat stroke"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 19,
+   "text": "Which of the following is one of the illumination problems?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hypothermia"
+    },
+    {
+     "k": "B",
+     "t": "Carpal Tunnel Syndrome"
+    },
+    {
+     "k": "C",
+     "t": "Frostbite"
+    },
+    {
+     "k": "D",
+     "t": "Glare"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 20,
+   "text": "A production line worker performs repetitive tasks in a poorly ventilated room filled with suspended solid particles. The mixture contains organic and inorganic particles. What is this type of contaminant collectively called?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Vapor"
+    },
+    {
+     "k": "B",
+     "t": "Aerosol"
+    },
+    {
+     "k": "C",
+     "t": "Gas"
+    },
+    {
+     "k": "D",
+     "t": "Radiation"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 21,
+   "text": "Workers in a factory are exposed to harmful solvent vapors. The employer replaces the solvent with a less toxic chemical. Which level of control does this represent?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Substitution"
+    },
+    {
+     "k": "C",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "D",
+     "t": "Administrative Control"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 22,
+   "text": "Workers at a construction site are exposed to high noise levels (above 100 dB). The employer installs sound barriers around the noise source. Which control method is applied?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Substitution"
+    },
+    {
+     "k": "C",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 23,
+   "text": "Office workers experience eye strain due to poor lighting. The employer reduces working hours to limit exposure. Which type of control is this?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Engineering Control"
+    },
+    {
+     "k": "B",
+     "t": "Administrative Control"
+    },
+    {
+     "k": "C",
+     "t": "Substitution"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 24,
+   "text": "In the Hierarchy of Controls, what is the most effective measure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Administrative controls"
+    },
+    {
+     "k": "C",
+     "t": "Engineering controls"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high"
+  },
+  {
+   "n": 25,
+   "text": "Workers are exposed to formaldehyde in a laboratory. The employer improves the ventilation system (HVAC). Which control method is applied?",
+   "illegible": true,
+   "options": [
+    {
+     "k": "A",
+     "t": "Administrative Control"
+    }
+   ],
+   "answer": null,
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "low",
+   "remark": "Fotoğraf sayfanın altından kesik; yalnızca A şıkkı okunabiliyor, B-D yok. Beklenen cevap Engineering Control (havalandırma) ama harfi bilinmiyor; answer boş bırakıldı."
+  }
+ ],
+ "missing": []
+}

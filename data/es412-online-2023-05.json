@@ -1,0 +1,544 @@
+{
+  "id": "es412-online-2023-05",
+  "course": "ES 412",
+  "courseName": "Occupational Health and Safety II",
+  "type": "Online Sınav",
+  "format": "online",
+  "date": "7 Mayıs 2023",
+  "sortKey": "2023-05",
+  "header": "UBS online sınav ekranı – examid=9654 / 9655 – 7 Mayıs 2023",
+  "instructions": "",
+  "notes": [
+    "UBS (ubs.ikc.edu.tr) online sınav ekran fotoğraflarından derlendi; aynı soru birçok ekranda tekrar ettiği için metne göre tekilleştirildi, 1..N numaraları bu dosyaya özgüdür.",
+    "examid=9654 ve examid=9655 ekranları aynı sınavın farklı soru/şık sıralı sürümleri olarak birleştirildi (9655 ekranlarından yalnızca \"flexible jobs\" sorusu bu dosyada).",
+    "Ekranda öğrencinin seçtiği radyo düğmesi \"marked\" olarak alındı; işaretli şık yanlışsa answerSource \"disputed\" ile düzeltildi.",
+    "Sağdaki \"Cevap Listesi\" paneli kullanılmadı."
+  ],
+  "sources": [
+    "setC: WhatsApp Image 2023-05-07 (no 48-71)"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "Which of the following is NOT one of the dimensions of globalization?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Cultural"
+        },
+        {
+          "k": "B",
+          "t": "Economic"
+        },
+        {
+          "k": "C",
+          "t": "Biological"
+        },
+        {
+          "k": "D",
+          "t": "Political"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 2,
+      "text": "Which of the following is a typical effect of excessive exposure to hand-arm vibration?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Cerebral blood flow"
+        },
+        {
+          "k": "B",
+          "t": "Blanching of the fingers"
+        },
+        {
+          "k": "C",
+          "t": "Back pain"
+        },
+        {
+          "k": "D",
+          "t": "Arm pain"
+        }
+      ],
+      "answer": "B",
+      "marked": "A",
+      "answerSource": "disputed",
+      "confidence": "high",
+      "remark": "Ekranda A işaretli; el-kol titreşimi (HAV) tipik etkisi parmaklarda beyazlama (Raynaud / vibration white finger) olduğundan doğru cevap B. Ekranda B şıkkı seçili metin olarak vurgulanmış.",
+      "illegible": false
+    },
+    {
+      "n": 3,
+      "text": "The section in the Hierarchy of Controls which affords workers the greatest level of protection is ...........",
+      "options": [
+        {
+          "k": "A",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "B",
+          "t": "Substitution"
+        },
+        {
+          "k": "C",
+          "t": "Elimination"
+        },
+        {
+          "k": "D",
+          "t": "Administrative controls"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Aynı soru 9655 sürümünde 3. soru olarak şık sırası farklı (A Elimination) görünüyor; 9655'te de Elimination işaretli.",
+      "illegible": false
+    },
+    {
+      "n": 4,
+      "text": "Which of the following is NOT one of the routes of exposure to indoor air toxins?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Inhalation"
+        },
+        {
+          "k": "B",
+          "t": "Exhalation"
+        },
+        {
+          "k": "C",
+          "t": "Skin"
+        },
+        {
+          "k": "D",
+          "t": "Ingestion"
+        }
+      ],
+      "answer": "B",
+      "marked": "C",
+      "answerSource": "disputed",
+      "confidence": "high",
+      "remark": "Ekranda C (Skin) işaretli; ancak deri teması maruz kalma yoludur, maruz kalma yolu olmayan Exhalation (B).",
+      "illegible": false
+    },
+    {
+      "n": 5,
+      "text": "Frostnip is seen due to which of the following environmental stressor?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Cold Stress"
+        },
+        {
+          "k": "B",
+          "t": "Illumination"
+        },
+        {
+          "k": "C",
+          "t": "Vibration"
+        },
+        {
+          "k": "D",
+          "t": "Indoor air quality"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 6,
+      "text": "A ______ is an administrative control used to create awareness of hazards.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Warning Sign"
+        },
+        {
+          "k": "B",
+          "t": "Policy"
+        },
+        {
+          "k": "C",
+          "t": "Substitution"
+        },
+        {
+          "k": "D",
+          "t": "Procedural change"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Ekranda A şıkkı üzerinde imleç var; 'Warning Sign' okundu.",
+      "illegible": false
+    },
+    {
+      "n": 7,
+      "text": "Least effective of the hierarchy of control is...............",
+      "options": [
+        {
+          "k": "A",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "B",
+          "t": "Elimination"
+        },
+        {
+          "k": "C",
+          "t": "PPE"
+        },
+        {
+          "k": "D",
+          "t": "Administrative controls"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 8,
+      "text": "Which of the following environmental stressors creates lung diseases?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Noise"
+        },
+        {
+          "k": "B",
+          "t": "Indoor air quality"
+        },
+        {
+          "k": "C",
+          "t": "Illumination"
+        },
+        {
+          "k": "D",
+          "t": "Vibration"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Aynı soru başka ekranlarda farklı şık sırasıyla da var (Indoor air quality işaretli).",
+      "illegible": false
+    },
+    {
+      "n": 9,
+      "text": "Anti-vibration gloves are example of ...........................",
+      "options": [
+        {
+          "k": "A",
+          "t": "PPE"
+        },
+        {
+          "k": "B",
+          "t": "Elimination"
+        },
+        {
+          "k": "C",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "D",
+          "t": "Administrative controls"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 10,
+      "text": "How the sectoral transformation has been in last 100 years?",
+      "options": [
+        {
+          "k": "A",
+          "t": "From education to agriculture"
+        },
+        {
+          "k": "B",
+          "t": "From service sector to agriculture"
+        },
+        {
+          "k": "C",
+          "t": "From service sector to heavy industry"
+        },
+        {
+          "k": "D",
+          "t": "From industry to service sector"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 11,
+      "text": "What does PPE stand for?",
+      "options": [
+        {
+          "k": "A",
+          "t": "People's Protective Equipment"
+        },
+        {
+          "k": "B",
+          "t": "Protective Preventative Equipment"
+        },
+        {
+          "k": "C",
+          "t": "Personal Protective Equipment"
+        },
+        {
+          "k": "D",
+          "t": "Personal Preventative Equipment"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 12,
+      "text": "Which of the following is NOT one of the illumination problems?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Contrast"
+        },
+        {
+          "k": "B",
+          "t": "Flicker"
+        },
+        {
+          "k": "C",
+          "t": "Frostbite"
+        },
+        {
+          "k": "D",
+          "t": "Glare"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 13,
+      "text": "Asbestos is known as which one of the following environmental stressors?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Vibration"
+        },
+        {
+          "k": "B",
+          "t": "Indoor air quality"
+        },
+        {
+          "k": "C",
+          "t": "Illumination"
+        },
+        {
+          "k": "D",
+          "t": "Noise"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 14,
+      "text": "Which of the following is the most effective of the hierarchy of control?",
+      "options": [
+        {
+          "k": "A",
+          "t": "PPE"
+        },
+        {
+          "k": "B",
+          "t": "Elimination"
+        },
+        {
+          "k": "C",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "D",
+          "t": "Administrative controls"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 15,
+      "text": "Which of the following is NOT a form of heat stress?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Heat stroke"
+        },
+        {
+          "k": "B",
+          "t": "Heat cramps"
+        },
+        {
+          "k": "C",
+          "t": "Heat fluctuation"
+        },
+        {
+          "k": "D",
+          "t": "Heat exhaustion"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 16,
+      "text": "Acclimatization is known as gradual adjustment of....................",
+      "options": [
+        {
+          "k": "A",
+          "t": "Indoor air climate"
+        },
+        {
+          "k": "B",
+          "t": "Climate stress"
+        },
+        {
+          "k": "C",
+          "t": "Illumination"
+        },
+        {
+          "k": "D",
+          "t": "Noise"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 17,
+      "text": "Which of the following is NOT and environmental stressor?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Illumination"
+        },
+        {
+          "k": "B",
+          "t": "Vibration"
+        },
+        {
+          "k": "C",
+          "t": "Noise"
+        },
+        {
+          "k": "D",
+          "t": "Cognitive"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Soru metnindeki 'NOT and' yazım hatası ekranda böyle. 9655 sürümünde aynı soru ('Which of the following is NOT an environmental stressor?') şık sırası A Cognitive olarak geçiyor; Cognitive işaretli.",
+      "illegible": false
+    },
+    {
+      "n": 18,
+      "text": "Based on the Hierarchy of Hazard Controls, removing flammable material from an area with ignition sources would be an example of what control measure?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Substitution"
+        },
+        {
+          "k": "B",
+          "t": "Elimination"
+        },
+        {
+          "k": "C",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "D",
+          "t": "Engineering controls"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Ekranın sağındaki 'Cevap Listesi' öğrencinin kendi sınav sırasındaki cevaplarıdır; kullanılmadı.",
+      "illegible": false
+    },
+    {
+      "n": 19,
+      "text": "Which of the following is NOT an example of flexible jobs?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Piecework at home"
+        },
+        {
+          "k": "B",
+          "t": "Subcontracted work"
+        },
+        {
+          "k": "C",
+          "t": "Part-time work"
+        },
+        {
+          "k": "D",
+          "t": "Full-time blue-collar worker"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "9655 sürümü ekranından (10. soru); examid=9655.",
+      "illegible": false
+    }
+  ],
+  "missing": []
+}

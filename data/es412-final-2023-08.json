@@ -1,0 +1,623 @@
+{
+ "id": "es412-final-2023-08",
+ "course": "ES 412",
+ "courseName": "Occupational Health and Safety II",
+ "type": "Final",
+ "format": "paper",
+ "date": "Ağustos 2023",
+ "sortKey": "2023-08",
+ "header": "ES 412 OCCUPATIONAL HEALTH AND SAFETY II – FINAL EXAM – AUGUST 2023",
+ "instructions": "This examination is comprised of 25 multiple-choice questions. Each question is followed by four possible answers, of which only one is correct. The maximum time for this examination is 30 minutes.",
+ "notes": [
+  "Yaz okulu finali. Siyah dolgu = 'marked'. Fotoğraflar yalnızca S1-22'yi içeriyor; S23-25 hiçbir kaynakta yok.",
+  "Kaynak fotoğraflar aynı iki sayfanın kopyaları; PDF metniyle karşılaştırıldı (PDF'deki yazım hataları, S17 'Counterwise', S20d 'Event x Severity' fotoğrafa göre düzeltildi).",
+  "Öğrenci adı/numarası metne alınmadı."
+ ],
+ "sources": [
+  "final1.jpeg.jpg",
+  "WhatsApp Görsel 2025-11-06 saat 20.30.28_a800e7a2.jpg",
+  "WhatsApp Görsel 2025-11-06 saat 19.53.56_ecaf7b4c.jpg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (3).jpeg",
+  "final2.jpeg.jpg",
+  "WhatsApp Görsel 2025-11-06 saat 20.30.28_069f32d8.jpg",
+  "WhatsApp Görsel 2025-11-06 saat 19.53.56_00203020.jpg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (1).jpeg",
+  "ağustos 2023 isg_202506262145_34549.pdf"
+ ],
+ "items": [
+  {
+   "n": 1,
+   "text": "Which of the following is NOT an environmental stressor?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Noise"
+    },
+    {
+     "k": "B",
+     "t": "Vibration"
+    },
+    {
+     "k": "C",
+     "t": "Illumination"
+    },
+    {
+     "k": "D",
+     "t": "Cognitive"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "C şıkkında kalem çemberi var; siyah dolgu D'de."
+  },
+  {
+   "n": 2,
+   "text": "Which of the following environmental stressors creates lung diseases?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Noise"
+    },
+    {
+     "k": "B",
+     "t": "Indoor air quality"
+    },
+    {
+     "k": "C",
+     "t": "Vibration"
+    },
+    {
+     "k": "D",
+     "t": "Illumination"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 3,
+   "text": "Which one of these statements is valid for the neurological response to the heat?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Heat-lowering center in hypothalamus send impulses to smoot muscles and vasodilation begins"
+    },
+    {
+     "k": "B",
+     "t": "Heat-lowering center in thalamus send impulses to smoot muscles and vasodilation begins"
+    },
+    {
+     "k": "C",
+     "t": "Heat-lowering center in hypothalamus send impulses to bones and vasodilation begins"
+    },
+    {
+     "k": "D",
+     "t": "Heat-lowering center in lateral ventricle send impulses to lungs and vasodilation begins"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "A şıkkının harfi siyah dolgunun altında kalmış."
+  },
+  {
+   "n": 4,
+   "text": "The section in the Hierarchy of Controls which affords workers the greatest level of protection is:",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Substitution"
+    },
+    {
+     "k": "C",
+     "t": "Administrative controls"
+    },
+    {
+     "k": "D",
+     "t": "Engineering controls"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 5,
+   "text": "A ______ is an administrative control used to create awareness of hazards.",
+   "options": [
+    {
+     "k": "A",
+     "t": "warning sign"
+    },
+    {
+     "k": "B",
+     "t": "policy"
+    },
+    {
+     "k": "C",
+     "t": "procedural change"
+    },
+    {
+     "k": "D",
+     "t": "substitution"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 6,
+   "text": "To change the shifts hours from 8 hours to 6 hours is",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Administrative controls"
+    },
+    {
+     "k": "C",
+     "t": "Engineering controls"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 7,
+   "text": "Formaldehyde is known as one of the following environmental stressors",
+   "options": [
+    {
+     "k": "A",
+     "t": "Noise"
+    },
+    {
+     "k": "B",
+     "t": "Indoor air quality"
+    },
+    {
+     "k": "C",
+     "t": "Vibration"
+    },
+    {
+     "k": "D",
+     "t": "Illumination"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 8,
+   "text": "Which of the following affect stair safety?",
+   "list": [
+    "I. Uniform height",
+    "II. Uniform tread depth",
+    "III. Slip resistance"
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "Only I"
+    },
+    {
+     "k": "B",
+     "t": "Only II"
+    },
+    {
+     "k": "C",
+     "t": "I and II"
+    },
+    {
+     "k": "D",
+     "t": "All of the above"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 9,
+   "text": "Which of the following is NOT preferable slope for stairs?",
+   "options": [
+    {
+     "k": "A",
+     "t": "20°"
+    },
+    {
+     "k": "B",
+     "t": "35°"
+    },
+    {
+     "k": "C",
+     "t": "40°"
+    },
+    {
+     "k": "D",
+     "t": "75°"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 10,
+   "text": "Three-point support is used for",
+   "options": [
+    {
+     "k": "A",
+     "t": "Stairs"
+    },
+    {
+     "k": "B",
+     "t": "Ladders"
+    },
+    {
+     "k": "C",
+     "t": "Roofs"
+    },
+    {
+     "k": "D",
+     "t": "Ramps"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 11,
+   "text": "What does circadian rhythm mean?",
+   "options": [
+    {
+     "k": "A",
+     "t": "24-hour cycle"
+    },
+    {
+     "k": "B",
+     "t": "7 days cycle"
+    },
+    {
+     "k": "C",
+     "t": "28 days cycle"
+    },
+    {
+     "k": "D",
+     "t": "Yearly cycle"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 12,
+   "text": "What does circannual rhythm mean?",
+   "options": [
+    {
+     "k": "A",
+     "t": "24-hour cycle"
+    },
+    {
+     "k": "B",
+     "t": "7 days cycle"
+    },
+    {
+     "k": "C",
+     "t": "28 days cycle"
+    },
+    {
+     "k": "D",
+     "t": "Yearly cycle"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 13,
+   "text": "Which one of the following(s) is example of circadian rhythm?",
+   "list": [
+    "I. Digestive pattern",
+    "II. Body temperature",
+    "III. Urination",
+    "IV. Hormone"
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "Only I"
+    },
+    {
+     "k": "B",
+     "t": "Only II"
+    },
+    {
+     "k": "C",
+     "t": "I, II, IV"
+    },
+    {
+     "k": "D",
+     "t": "All of the above"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 14,
+   "text": "Which of the following is NOT a Brain Wave?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Omega"
+    },
+    {
+     "k": "B",
+     "t": "Beta"
+    },
+    {
+     "k": "C",
+     "t": "Alpha"
+    },
+    {
+     "k": "D",
+     "t": "Theta"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 15,
+   "text": "Which of the following is NOT one of the shift schedule dynamics?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Length of shift"
+    },
+    {
+     "k": "B",
+     "t": "Working environment"
+    },
+    {
+     "k": "C",
+     "t": "Speed of rotation"
+    },
+    {
+     "k": "D",
+     "t": "Direction of rotation"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 16,
+   "text": "Counter-clockwise shift is.......",
+   "options": [
+    {
+     "k": "A",
+     "t": "Night-evening-day"
+    },
+    {
+     "k": "B",
+     "t": "Day-evening-night"
+    },
+    {
+     "k": "C",
+     "t": "Night-day-evening"
+    },
+    {
+     "k": "D",
+     "t": "Day-night-evening"
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 17,
+   "text": "Clockwise shift is.......",
+   "options": [
+    {
+     "k": "A",
+     "t": "Night-evening-day"
+    },
+    {
+     "k": "B",
+     "t": "Day-evening-night"
+    },
+    {
+     "k": "C",
+     "t": "Night-day-evening"
+    },
+    {
+     "k": "D",
+     "t": "Day-night-evening"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 18,
+   "text": "In risk assessment analysis techniques, which one of these statements does present the purpose of Preliminary Hazard Analysis (PHA)?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Risks identified in the PHL will be carried into the PHA for further analysis and investigation."
+    },
+    {
+     "k": "B",
+     "t": "Risks identified in the PHA will be carried into the PHL for further analysis and investigation."
+    },
+    {
+     "k": "C",
+     "t": "Hazards identified in the PHL will be carried into the PHA for further analysis and investigation."
+    },
+    {
+     "k": "D",
+     "t": "Hazards identified in the PHA will be carried into the PHL for further analysis and investigation."
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 19,
+   "text": "Risk assessment activities does NOT require for........",
+   "options": [
+    {
+     "k": "A",
+     "t": "Reporting"
+    },
+    {
+     "k": "B",
+     "t": "Re-assessing"
+    },
+    {
+     "k": "C",
+     "t": "Analysing and rating the factors"
+    },
+    {
+     "k": "D",
+     "t": "Analysing and eliminating the factors"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "Risk değerlendirme faaliyetleri analiz, derecelendirme, yeniden değerlendirme ve raporlamayı gerektirir; faktörleri ortadan kaldırma ayrı bir kontrol adımıdır."
+  },
+  {
+   "n": 20,
+   "text": "Risk means ............",
+   "options": [
+    {
+     "k": "A",
+     "t": "Day X Severity"
+    },
+    {
+     "k": "B",
+     "t": "Event X Severity"
+    },
+    {
+     "k": "C",
+     "t": "Frequency X Severity"
+    },
+    {
+     "k": "D",
+     "t": "Event X Frequency"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 21,
+   "text": "What is the minimum dB limit for \"painful\" level of noise?",
+   "options": [
+    {
+     "k": "A",
+     "t": "90 dB"
+    },
+    {
+     "k": "B",
+     "t": "110 dB"
+    },
+    {
+     "k": "C",
+     "t": "120 dB"
+    },
+    {
+     "k": "D",
+     "t": "150 dB"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "Ağrı eşiği genellikle 120-140 dB."
+  },
+  {
+   "n": 22,
+   "text": "Which one of these do NOT measure sound?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Sound level meter"
+    },
+    {
+     "k": "B",
+     "t": "Altimeter"
+    },
+    {
+     "k": "C",
+     "t": "Dosimeter"
+    },
+    {
+     "k": "D",
+     "t": "Octave band analyser"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high"
+  }
+ ],
+ "missing": [
+  {
+   "from": 23,
+   "to": 25,
+   "note": "Hiçbir kaynakta yok"
+  }
+ ]
+}

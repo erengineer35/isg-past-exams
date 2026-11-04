@@ -1,0 +1,1397 @@
+{
+  "id": "es411-final-2023-01",
+  "course": "ES 411",
+  "courseName": "Occupational Health and Safety I",
+  "type": "Final",
+  "format": "paper",
+  "date": "Ocak 2023",
+  "sortKey": "2023-01",
+  "header": "ES 411 OCCUPATIONAL HEALTH AND SAFETY I – FINAL EXAM – JANUARY 2023",
+  "instructions": "This examination is comprised of 50 multiple-choice questions. Each question is followed by three or four possible answers, of which only one is correct. The maximum time for this examination is 40 minutes.",
+  "notes": [
+    "Kitapçık iki fotoğraftan okundu; sayfa 4 (S37–50) eğik/italik ve düşük çözünürlüklü olduğundan bu sorularda yazım hataları olabilir.",
+    "Fotoğraflarda öğrencinin soru üzerindeki işareti görünmediği için 'marked' alanları null; cevaplar bizzat çözüldü.",
+    "Öğrenci adı/numarası aktarılmadı ve görsel kırpımlarında yer almıyor.",
+    "Orijinal metindeki yazım hataları korundu (ör. 'Overactive', 'googles')."
+  ],
+  "sources": [
+    "WhatsApp Image 2026-11-04 at 14.55.50 (4).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.49 (8).jpeg"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "What does OSH stand for?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Occupational Safety & Sound"
+        },
+        {
+          "k": "B",
+          "t": "Overactive Safety & Health"
+        },
+        {
+          "k": "C",
+          "t": "Occupational Safety & Health"
+        },
+        {
+          "k": "D",
+          "t": "Overactive Sound & Hearing"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 2,
+      "text": "Harm or adverse health effects on something/someone at work known as a ______",
+      "options": [
+        {
+          "k": "A",
+          "t": "Near-Miss"
+        },
+        {
+          "k": "B",
+          "t": "Risk"
+        },
+        {
+          "k": "C",
+          "t": "Hazard"
+        },
+        {
+          "k": "D",
+          "t": "Safety"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 3,
+      "text": "What does PPE stand for?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Protective Preventative Equipment"
+        },
+        {
+          "k": "B",
+          "t": "Personal Protective Equipment"
+        },
+        {
+          "k": "C",
+          "t": "Personal Preventative Equipment"
+        },
+        {
+          "k": "D",
+          "t": "People's Protective Equipment"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 4,
+      "text": "Toxic properties are known as ..........",
+      "options": [
+        {
+          "k": "A",
+          "t": "Physical Hazard"
+        },
+        {
+          "k": "B",
+          "t": "Electrical Hazard"
+        },
+        {
+          "k": "C",
+          "t": "Chemical Hazard"
+        },
+        {
+          "k": "D",
+          "t": "Biological Hazard"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 5,
+      "text": "Mobbing are known as ..........",
+      "options": [
+        {
+          "k": "A",
+          "t": "Physical Hazard"
+        },
+        {
+          "k": "B",
+          "t": "Electrical Hazard"
+        },
+        {
+          "k": "C",
+          "t": "Chemical Hazard"
+        },
+        {
+          "k": "D",
+          "t": "Psychological Hazard"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 6,
+      "text": "The chance or probability that a person will be harmed or experience an adverse health effect",
+      "options": [
+        {
+          "k": "A",
+          "t": "Harm"
+        },
+        {
+          "k": "B",
+          "t": "Control"
+        },
+        {
+          "k": "C",
+          "t": "Risk"
+        },
+        {
+          "k": "D",
+          "t": "Occupational Therapy"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 7,
+      "text": "Which of the following is NOT an example of personal protective equipment?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Gloves"
+        },
+        {
+          "k": "B",
+          "t": "Stair Rail"
+        },
+        {
+          "k": "C",
+          "t": "Hard Hat"
+        },
+        {
+          "k": "D",
+          "t": "Safety googles"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 8,
+      "text": "What is the best way of dealing with a hazard to ensure others are not put at risk?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Display a notice or warning sign"
+        },
+        {
+          "k": "B",
+          "t": "Remove it immediately"
+        },
+        {
+          "k": "C",
+          "t": "Place a barrier tape around it"
+        },
+        {
+          "k": "D",
+          "t": "Make an announcement related to the hazard"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "Kontrol hiyerarşisine göre tehlikeyi ortadan kaldırmak (eliminasyon) en iyisi.",
+      "illegible": false
+    },
+    {
+      "n": 9,
+      "text": "Workplace safety and solving OSH problems are the responsibility of ______",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employers"
+        },
+        {
+          "k": "B",
+          "t": "Supervisors"
+        },
+        {
+          "k": "C",
+          "t": "External OSH Expert"
+        },
+        {
+          "k": "D",
+          "t": "Everyone"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "6331 sayılı Kanun md. 4: İSG yükümlülüğü esas olarak işverene aittir; sınavlar arası tutarlılık için tüm sınavlarda 'Employers' kabul edildi. (Önceki cevap: Everyone.)",
+      "illegible": false
+    },
+    {
+      "n": 10,
+      "text": "A worker has large hands; he just used the last pair of large gloves in the box. He looked everywhere and there are no large gloves available. Which action(s) should he take as first step?",
+      "options": [
+        {
+          "k": "A",
+          "t": "He should carry out the activity without gloves."
+        },
+        {
+          "k": "B",
+          "t": "He should report the lack of large gloves to his supervisor right away."
+        },
+        {
+          "k": "C",
+          "t": "He should file a complaint the supervisor"
+        },
+        {
+          "k": "D",
+          "t": "He should contact the Ministry of Labour"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "Şık c kâğıtta 'file a complaint the supervisor' şeklinde basılı.",
+      "illegible": false
+    },
+    {
+      "n": 11,
+      "text": "Which one of the agencies is NOT one of the main responsible of Occupational Health and Safety?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Ministry of Labour and Social Security"
+        },
+        {
+          "k": "B",
+          "t": "Ministry of Health"
+        },
+        {
+          "k": "C",
+          "t": "Social Security Institution"
+        },
+        {
+          "k": "D",
+          "t": "The General Directorate for Occupational Health and Safety"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "Asıl sorumlu kurumlar ÇSGB, SGK ve İSG Genel Müdürlüğü kabul edildi; Sağlık Bakanlığı da kısmen rol alır.",
+      "illegible": false
+    },
+    {
+      "n": 12,
+      "text": "A worker was injured in a traffic accident while he was going to his job with his own car. Is this a work accident or NOT?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Yes"
+        },
+        {
+          "k": "B",
+          "t": "No"
+        },
+        {
+          "k": "C",
+          "t": "Depends"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "5510 m.13: işverence sağlanan taşıtla gidiş-gelişte iş kazası sayılır; kendi aracıyla gidişte sayılmaz. Üç şıklı soru.",
+      "illegible": false
+    },
+    {
+      "n": 13,
+      "text": "Based on the Social Insurance and Universal Health Insurance Law No: 5510, which of the following(s) are correct?",
+      "list": [
+        "I. The work accident only accepted when the insurance holder is at the workplace",
+        "II. The work accident accepted, when a worker carries out his/her main work when he/she is sent on duty to another place out of the workplace,",
+        "III. When a worker commutes the work on a vehicle provided by the employer."
+      ],
+      "options": [
+        {
+          "k": "A",
+          "t": "Only I"
+        },
+        {
+          "k": "B",
+          "t": "I and II"
+        },
+        {
+          "k": "C",
+          "t": "II and III"
+        },
+        {
+          "k": "D",
+          "t": "All of the above"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "Önerme I yanlış (işyerinde olma şartı yok); II ve III doğru.",
+      "illegible": false
+    },
+    {
+      "n": 14,
+      "text": "Occupational Safety Professionals in the Law No 6331 DOES NOT apply for",
+      "options": [
+        {
+          "k": "A",
+          "t": "Apprentices"
+        },
+        {
+          "k": "B",
+          "t": "Interns"
+        },
+        {
+          "k": "C",
+          "t": "Unpaid legal worker"
+        },
+        {
+          "k": "D",
+          "t": "Armed forces"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "6331 m.2: silahlı kuvvetlerin faaliyetleri kapsam dışı.",
+      "illegible": false
+    },
+    {
+      "n": 15,
+      "text": "Who determines the hazard level of the company?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employer"
+        },
+        {
+          "k": "B",
+          "t": "OSH expert"
+        },
+        {
+          "k": "C",
+          "t": "Ministry of Labour"
+        },
+        {
+          "k": "D",
+          "t": "Ministry of Health"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 16,
+      "text": "How many days after the accident the employer shall notify the Social Security Institution?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Same day"
+        },
+        {
+          "k": "B",
+          "t": "2 days after the accident"
+        },
+        {
+          "k": "C",
+          "t": "3 days after the accident"
+        },
+        {
+          "k": "D",
+          "t": "7 days after the accident"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "5510 m.13: iş kazası kazadan sonraki üç iş günü içinde bildirilir.",
+      "illegible": false
+    },
+    {
+      "n": 17,
+      "text": "Who is needed additional training regarding to the Occupational Safety & Health?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employer"
+        },
+        {
+          "k": "B",
+          "t": "Workers' representative"
+        },
+        {
+          "k": "C",
+          "t": "Manager"
+        },
+        {
+          "k": "D",
+          "t": "Team Leader"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "Çalışan temsilcisi ek eğitim alır.",
+      "illegible": false
+    },
+    {
+      "n": 18,
+      "text": "Which of the following is must-have document to be an occupational physician?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Medicine Diploma"
+        },
+        {
+          "k": "B",
+          "t": "Physics Diploma"
+        },
+        {
+          "k": "C",
+          "t": "OSH Expert Certificate"
+        },
+        {
+          "k": "D",
+          "t": "Occupational Medicine Certificate"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "İşyeri hekimliği belgesi gerekli; 'Occupational Medicine Certificate' en yakın şık.",
+      "illegible": false
+    },
+    {
+      "n": 19,
+      "text": "Which of the following is the advantage of ergonomics?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Increased productivity"
+        },
+        {
+          "k": "B",
+          "t": "Increased cost"
+        },
+        {
+          "k": "C",
+          "t": "Decreased occupational safety and health"
+        },
+        {
+          "k": "D",
+          "t": "Decreased psychological impact"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 20,
+      "text": "Which of the following is NOT one of the Design Approaches of Anthropometric Design?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Design for average"
+        },
+        {
+          "k": "B",
+          "t": "Design for only young generation"
+        },
+        {
+          "k": "C",
+          "t": "Design for extremes"
+        },
+        {
+          "k": "D",
+          "t": "Design for adjustability"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 21,
+      "text": "Lifting, moving, and placing of items in various forms is known as....",
+      "options": [
+        {
+          "k": "A",
+          "t": "Ergonomics"
+        },
+        {
+          "k": "B",
+          "t": "Manual Material Handling"
+        },
+        {
+          "k": "C",
+          "t": "Anthropometrics"
+        },
+        {
+          "k": "D",
+          "t": "Hazard"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 22,
+      "text": "What does this sign mean?",
+      "image": "img/es411-final-2023-01/q22.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "Eye Protection must be worn"
+        },
+        {
+          "k": "B",
+          "t": "Always shout 'ears'"
+        },
+        {
+          "k": "C",
+          "t": "Ear protection is optional"
+        },
+        {
+          "k": "D",
+          "t": "Ear protection is mandatory"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 23,
+      "text": "What does this sign mean?",
+      "image": "img/es411-final-2023-01/q23.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "Glass warning"
+        },
+        {
+          "k": "B",
+          "t": "Eye Protection must not be worn"
+        },
+        {
+          "k": "C",
+          "t": "Eye Protection must be worn"
+        },
+        {
+          "k": "D",
+          "t": "Eye Protection is optional"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 24,
+      "text": "What does this sign mean?",
+      "image": "img/es411-final-2023-01/q24.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "Leaking roof"
+        },
+        {
+          "k": "B",
+          "t": "Wear waterproof clothes"
+        },
+        {
+          "k": "C",
+          "t": "Emergency shower"
+        },
+        {
+          "k": "D",
+          "t": "Fire sprinklers"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 25,
+      "text": "Warning sign should be",
+      "options": [
+        {
+          "k": "A",
+          "t": "Red"
+        },
+        {
+          "k": "B",
+          "t": "Blue"
+        },
+        {
+          "k": "C",
+          "t": "Green"
+        },
+        {
+          "k": "D",
+          "t": "Yellow"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 26,
+      "text": "Safe condition signs should be",
+      "options": [
+        {
+          "k": "A",
+          "t": "Red"
+        },
+        {
+          "k": "B",
+          "t": "Blue"
+        },
+        {
+          "k": "C",
+          "t": "Green"
+        },
+        {
+          "k": "D",
+          "t": "Yellow"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 27,
+      "text": "Prohibition signs should be",
+      "options": [
+        {
+          "k": "A",
+          "t": "Red"
+        },
+        {
+          "k": "B",
+          "t": "Blue"
+        },
+        {
+          "k": "C",
+          "t": "Green"
+        },
+        {
+          "k": "D",
+          "t": "Yellow"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 28,
+      "text": "What does this sign mean_?",
+      "image": "img/es411-final-2023-01/q28.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employees should walk left side"
+        },
+        {
+          "k": "B",
+          "t": "Employees should run left side"
+        },
+        {
+          "k": "C",
+          "t": "Emergency exit"
+        },
+        {
+          "k": "D",
+          "t": "Watch out people who run left side"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 29,
+      "text": "Safety signs can NOT be only ___",
+      "options": [
+        {
+          "k": "A",
+          "t": "Signboard"
+        },
+        {
+          "k": "B",
+          "t": "Acoustic"
+        },
+        {
+          "k": "C",
+          "t": "Written"
+        },
+        {
+          "k": "D",
+          "t": "Hand signal"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "low",
+      "remark": "Soru kalıbı belirsiz; yazılı ifade tek başına güvenlik işareti türü sayılmadığı varsayıldı.",
+      "illegible": false
+    },
+    {
+      "n": 30,
+      "text": "A red square or rectangle with a white pictogram is used for",
+      "options": [
+        {
+          "k": "A",
+          "t": "Fire Equipment Signs"
+        },
+        {
+          "k": "B",
+          "t": "Safe Condition Signs"
+        },
+        {
+          "k": "C",
+          "t": "Warning Signs"
+        },
+        {
+          "k": "D",
+          "t": "Mandatory Action Signs"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 31,
+      "text": "Which of the following is a type of emergency?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Fire"
+        },
+        {
+          "k": "B",
+          "t": "Power outage"
+        },
+        {
+          "k": "C",
+          "t": "Infection disease"
+        },
+        {
+          "k": "D",
+          "t": "All of the above"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 32,
+      "text": "Emergency action plan is required by",
+      "options": [
+        {
+          "k": "A",
+          "t": "The Company"
+        },
+        {
+          "k": "B",
+          "t": "Employee"
+        },
+        {
+          "k": "C",
+          "t": "The EU"
+        },
+        {
+          "k": "D",
+          "t": "Ministry of Labour"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "illegible": false,
+      "remark": "Acil durum eylem planı yasal olarak Çalışma Bakanlığı mevzuatınca (6331 md. 11, Acil Durumlar Yönetmeliği) zorunlu kılınır; Ağustos 2024 ve Ocak 2025 sınavlarında D işaretli/seçili. (Önceki cevap: The Company.)"
+    },
+    {
+      "n": 33,
+      "text": "What is the goal of \"Emergency Response Planning\"?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Reduce the impact and speed the return to normal operations"
+        },
+        {
+          "k": "B",
+          "t": "Eliminate the risks"
+        },
+        {
+          "k": "C",
+          "t": "Eliminate the hazards"
+        },
+        {
+          "k": "D",
+          "t": "Training the Health and Safety Expert"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 34,
+      "text": "Which of the following is not a step of \"Emergency Response Planning\"?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Make a plan"
+        },
+        {
+          "k": "B",
+          "t": "Build a kit"
+        },
+        {
+          "k": "C",
+          "t": "Stay wherever you are"
+        },
+        {
+          "k": "D",
+          "t": "Be informed"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 35,
+      "text": "Exit door must be...",
+      "options": [
+        {
+          "k": "A",
+          "t": "Open from the inside all the time"
+        },
+        {
+          "k": "B",
+          "t": "Open from the outside all the time"
+        },
+        {
+          "k": "C",
+          "t": "Must be locked"
+        },
+        {
+          "k": "D",
+          "t": "Must have keys"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 36,
+      "text": "Content of Emergency Evacuation Plan does NOT need to have...",
+      "options": [
+        {
+          "k": "A",
+          "t": "The location of primary and secondary exits"
+        },
+        {
+          "k": "B",
+          "t": "The location of the nearest fire alarm and fire extinguisher"
+        },
+        {
+          "k": "C",
+          "t": "The location where training documents are kept."
+        },
+        {
+          "k": "D",
+          "t": "The location of the common meeting area outside the building where everyone can gather"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 37,
+      "text": "Which of the component does not consist the fire triangle?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Oxygen"
+        },
+        {
+          "k": "B",
+          "t": "Carbon dioxide"
+        },
+        {
+          "k": "C",
+          "t": "Fuel"
+        },
+        {
+          "k": "D",
+          "t": "Heat"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "Sayfa 4 eğik ve düşük çözünürlüklü; soru kökü kısmen belirsiz okundu.",
+      "illegible": false
+    },
+    {
+      "n": 38,
+      "text": "Which of the following is NOT required to start and sustain fire?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Wood"
+        },
+        {
+          "k": "B",
+          "t": "Compressed air"
+        },
+        {
+          "k": "C",
+          "t": "Hydrogen dioxide"
+        },
+        {
+          "k": "D",
+          "t": "Open flames"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "low",
+      "remark": "Sayfa 4 düşük çözünürlüklü; şık c 'Hydrogen dioxide' okundu.",
+      "illegible": false
+    },
+    {
+      "n": 39,
+      "text": "Which of the following does NOT need to be removed to extinguish the fire?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Removing the supply of carbon dioxide"
+        },
+        {
+          "k": "B",
+          "t": "Removing the fuel source"
+        },
+        {
+          "k": "C",
+          "t": "Starving it of oxygen"
+        },
+        {
+          "k": "D",
+          "t": "Cooling it below the combustion point"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "Sayfa 4 düşük çözünürlüklü.",
+      "illegible": false
+    },
+    {
+      "n": 40,
+      "text": "Which of the following is not a fire protection system?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Portable"
+        },
+        {
+          "k": "B",
+          "t": "Dry powder extinguishers"
+        },
+        {
+          "k": "C",
+          "t": "Sprinkler systems"
+        },
+        {
+          "k": "D",
+          "t": "Heat detectors"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "low",
+      "remark": "Sayfa 4 düşük çözünürlüklü; 'Portable' sistem değil taşınabilir ekipman olarak değerlendirildi.",
+      "illegible": false
+    },
+    {
+      "n": 41,
+      "text": "Which of the following is NOT a fail-safe design?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Fail-passive"
+        },
+        {
+          "k": "B",
+          "t": "Fail-active"
+        },
+        {
+          "k": "C",
+          "t": "Active-operational"
+        },
+        {
+          "k": "D",
+          "t": "Fail-operational"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "Sayfa 4 düşük çözünürlüklü.",
+      "illegible": false
+    },
+    {
+      "n": 42,
+      "text": "Which of the following is known as unsafe act?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Driving forklift without certificate"
+        },
+        {
+          "k": "B",
+          "t": "Poor housekeeping"
+        },
+        {
+          "k": "C",
+          "t": "Uneven walking surfaces"
+        },
+        {
+          "k": "D",
+          "t": "Excessive noise"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 43,
+      "text": "Which of the following is known as unsafe act?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Poorly maintained machinery"
+        },
+        {
+          "k": "B",
+          "t": "Carrying over weighted boxes without help"
+        },
+        {
+          "k": "C",
+          "t": "Poor ventilation"
+        },
+        {
+          "k": "D",
+          "t": "Unguarded machinery"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 44,
+      "text": "Which of the following is known as unsafe condition?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Using defective equipment"
+        },
+        {
+          "k": "B",
+          "t": "Using equipment at unsafe speeds"
+        },
+        {
+          "k": "C",
+          "t": "Poor housekeeping"
+        },
+        {
+          "k": "D",
+          "t": "Failure to wear/or improper use of PPE"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "illegible": false
+    },
+    {
+      "n": 45,
+      "text": "Which of the following is known as unsafe act?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Inadequate or broken warning systems"
+        },
+        {
+          "k": "B",
+          "t": "Poor ventilation"
+        },
+        {
+          "k": "C",
+          "t": "Unguarded machinery"
+        },
+        {
+          "k": "D",
+          "t": "Using machinery without training"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 46,
+      "text": "Which of the following is known as unsafe act?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Not using safety belt on the roof"
+        },
+        {
+          "k": "B",
+          "t": "Slippery and/or cluttered floors"
+        },
+        {
+          "k": "C",
+          "t": "Uneven stairways"
+        },
+        {
+          "k": "D",
+          "t": "Poor lighting"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 47,
+      "text": "Which of the following is NOT negligible risk?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Unacceptable risk"
+        },
+        {
+          "k": "B",
+          "t": "Tolerable risk"
+        },
+        {
+          "k": "C",
+          "t": "Intolerable risk"
+        },
+        {
+          "k": "D",
+          "t": "Acceptable risk"
+        }
+      ],
+      "answer": null,
+      "marked": null,
+      "answerSource": null,
+      "confidence": "low",
+      "remark": "Birden fazla şık (a, b, c) olası doğru; tek cevap belirlenemedi.",
+      "illegible": false
+    },
+    {
+      "n": 48,
+      "text": "Most effective of the hierarchy of control is",
+      "options": [
+        {
+          "k": "A",
+          "t": "Elimination"
+        },
+        {
+          "k": "B",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "C",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "D",
+          "t": "PPE"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 49,
+      "text": "To change the shifts hours from 8 hours to 6 hours is",
+      "options": [
+        {
+          "k": "A",
+          "t": "Elimination"
+        },
+        {
+          "k": "B",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "C",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "D",
+          "t": "PPE"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 50,
+      "text": "Least effective of the hierarchy of control is",
+      "options": [
+        {
+          "k": "A",
+          "t": "Elimination"
+        },
+        {
+          "k": "B",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "C",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "D",
+          "t": "PPE"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    }
+  ],
+  "missing": []
+}

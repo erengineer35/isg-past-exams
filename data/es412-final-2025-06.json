@@ -1,0 +1,776 @@
+{
+ "id": "es412-final-2025-06",
+ "course": "ES 412",
+ "courseName": "Occupational Health and Safety II",
+ "type": "Final",
+ "format": "paper",
+ "date": "Haziran 2025",
+ "sortKey": "2025-06",
+ "header": "ES 412 OCCUPATIONAL HEALTH AND SAFETY II FINAL EXAM JUNE 2025",
+ "instructions": "This examination is comprised of 25 multiple-choice questions.\nEach question is followed by four possible answers, of which only one is correct.\nThe maximum time for this examination is 30 minutes.",
+ "notes": [
+  "Kâğıtta işaret yok; tüm cevaplar çözülmüştür.",
+  "S1'deki PHA tablosu bulanık fotoğraftan okunmuştur; okunamayan hücreler [okunamadı] ile gösterildi, görsel kırpılıp eklendi.",
+  "S20'nin B-D şıkları kâğıtta sağ sütunun başında yer alır.",
+  "Optik form talimat tablosu alınmadı."
+ ],
+ "sources": [
+  "WhatsApp Image 2026-11-04 at 14.55.42.jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.45 (4).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.45 (9).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47.jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.51 (8).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (10).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (6).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (9).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46.jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (6).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.45 (6).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.45 (1).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.45 (5).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (5).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.51 (5).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (4).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.51 (4).jpeg"
+ ],
+ "items": [
+  {
+   "n": 1,
+   "text": "System: Arm Missile System; Subsystem: Missile Structure Subsystem — Preliminary Hazard Analysis (tablo). Severity: I. Catastrophic, II. Critical, III. Marginal, IV. Negligible. Probability: A. Frequent, B. Probable, C. Occasional, D. Remote, E. Improbable.\nGiven the information above, which of the following statements would be correct?",
+   "table": [
+    [
+     "No.",
+     "Hazard",
+     "Cause",
+     "Effects",
+     "Mode",
+     "IMRI",
+     "Recommended Action",
+     "FMRI",
+     "Comments",
+     "Status"
+    ],
+    [
+     "PHA-1",
+     "Missile structure fails, resulting in unstable missile flight and missile crash",
+     "Manufacturing defect; design error",
+     "Unstable flight resulting in crash causing death, injury, incorrect target",
+     "Flight",
+     "1D",
+     "Use 5× safety factor on structure design",
+     "1E",
+     "",
+     "Open"
+    ],
+    [
+     "PHA-2",
+     "Missile body breaks up, resulting in fuel leakage and ignition source, causing fire",
+     "Manufacturing defect; design error",
+     "Missile fire causing death, injury",
+     "Ground operations",
+     "1D",
+     "Use 5× safety factor on structure design",
+     "1E",
+     "",
+     "Open"
+    ],
+    [
+     "PHA-3",
+     "Missile structure fails during handling, resulting in personnel injury",
+     "Manufacturing defect; design error; handling equipment failure",
+     "Personnel injury",
+     "[okunamadı]",
+     "2D",
+     "Use 5× safety factor on structure design; Establish [okunamadı] for handling equipment",
+     "2E",
+     "",
+     "Open"
+    ]
+   ],
+   "image": "img/es412-final-2025-06/q1.jpg",
+   "options": [
+    {
+     "k": "A",
+     "t": "In FMRIs of PHA-1 and PHA-2, even though the probability of the action is more likely to occur, the severity of the action is still critical."
+    },
+    {
+     "k": "B",
+     "t": "In FMRI of PHA-3, even though the probability of the action is remote, the severity of the action is still critical."
+    },
+    {
+     "k": "C",
+     "t": "In FMRI of PHA-2, even though the probability of the action is improbable, the severity of the action is still catastrophic."
+    },
+    {
+     "k": "D",
+     "t": "In FMRIs of PHA-1 and PHA-2, even though the probability of the action is less likely to occur, the severity of the action is still catastrophic."
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "low",
+   "remark": "FMRI: PHA-1=1E, PHA-2=1E, PHA-3=2E. C kesin doğru (1E = catastrophic/improbable). D de büyük ölçüde doğru okunabilir ('less likely to occur'), bu yüzden belirsiz; kâğıt tablosu bulanık. Tablo metninin bir kısmı (Mode, 'Establish ...') okunamadı; görsel eklendi.",
+   "illegible": true
+  },
+  {
+   "n": 2,
+   "text": "What is the most effective way to reduce shift work-related health problems?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Increase overtime pay"
+    },
+    {
+     "k": "B",
+     "t": "Shorter lunch breaks"
+    },
+    {
+     "k": "C",
+     "t": "Optimizing the shift schedule design"
+    },
+    {
+     "k": "D",
+     "t": "Hire more workers"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 3,
+   "text": "Which shift type splits the working hours during the day?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Fixed"
+    },
+    {
+     "k": "B",
+     "t": "Irregular"
+    },
+    {
+     "k": "C",
+     "t": "Split"
+    },
+    {
+     "k": "D",
+     "t": "Rotational"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 4,
+   "text": "What does ALARP stand for in hazard analysis?",
+   "options": [
+    {
+     "k": "A",
+     "t": "All Losses Are Risk-Prone"
+    },
+    {
+     "k": "B",
+     "t": "As Low As Reasonably Practicable"
+    },
+    {
+     "k": "C",
+     "t": "All Locations Are Risk-Free"
+    },
+    {
+     "k": "D",
+     "t": "As Late As Risk Predicted"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 5,
+   "text": "In shift work, which direction of rotation is more adaptable?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Backward"
+    },
+    {
+     "k": "B",
+     "t": "Random"
+    },
+    {
+     "k": "C",
+     "t": "Forward"
+    },
+    {
+     "k": "D",
+     "t": "Irregular"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "İleri (saat yönünde) rotasyon sirkadiyen ritme daha uygundur.",
+   "illegible": false
+  },
+  {
+   "n": 6,
+   "text": "Who is primarily responsible for hazards that result in illness?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Electrical technician"
+    },
+    {
+     "k": "B",
+     "t": "Site supervisor"
+    },
+    {
+     "k": "C",
+     "t": "Industrial hygienist"
+    },
+    {
+     "k": "D",
+     "t": "Safety manager"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "illegible": false
+  },
+  {
+   "n": 7,
+   "text": "Which of the following best defines CSR (Corporate Social Responsibility)?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Legal compliance only"
+    },
+    {
+     "k": "B",
+     "t": "Mandatory health inspections"
+    },
+    {
+     "k": "C",
+     "t": "Voluntary actions that support sustainability and ethics"
+    },
+    {
+     "k": "D",
+     "t": "Governmental enforcement programs"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 8,
+   "text": "What is the risk formula in occupational safety?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Risk = Speed ÷ Hazard"
+    },
+    {
+     "k": "B",
+     "t": "Risk = Cost + Hazard"
+    },
+    {
+     "k": "C",
+     "t": "Risk = Frequency × Severity"
+    },
+    {
+     "k": "D",
+     "t": "Risk = Incident ÷ Injury"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 9,
+   "text": "Which of the following is an ethical concern in engineering?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Shift rotation"
+    },
+    {
+     "k": "B",
+     "t": "Heat stress"
+    },
+    {
+     "k": "C",
+     "t": "Safety vs. cost trade-off"
+    },
+    {
+     "k": "D",
+     "t": "Preferred lighting color"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 10,
+   "text": "What is the function of the three-point contact on stairs?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Decoration"
+    },
+    {
+     "k": "B",
+     "t": "Fall protection"
+    },
+    {
+     "k": "C",
+     "t": "Electrical safety"
+    },
+    {
+     "k": "D",
+     "t": "Weight balance"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 11,
+   "text": "In risk assessment analysis techniques, which of these statements presents the purpose of Preliminary Hazard Analysis (PHA)?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Risks identified in the PHL will be carried into the PHA for further analysis and investigation."
+    },
+    {
+     "k": "B",
+     "t": "Hazards identified in the PHL will be carried into the PHA for further analysis and investigation."
+    },
+    {
+     "k": "C",
+     "t": "Mishaps identified in the PHA will be carried into the PHL for further analysis and investigation."
+    },
+    {
+     "k": "D",
+     "t": "Hazards identified in the PHA will be carried into the PHL for further analysis and investigation."
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "PHL (Preliminary Hazard List) tehlikeleri PHA'ya taşınır; A şıkkında 'Risks' ifadesi yanlış.",
+   "illegible": false
+  },
+  {
+   "n": 12,
+   "text": "What does a stakeholder theory promote in workplace ethics?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Only profit maximization"
+    },
+    {
+     "k": "B",
+     "t": "Fair wages for executives"
+    },
+    {
+     "k": "C",
+     "t": "Cutting costs only"
+    },
+    {
+     "k": "D",
+     "t": "Considering all parties affected"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 13,
+   "text": "What is the purpose of an ethical code of conduct?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Define expected behaviors"
+    },
+    {
+     "k": "B",
+     "t": "Provide technical training"
+    },
+    {
+     "k": "C",
+     "t": "Improve profits"
+    },
+    {
+     "k": "D",
+     "t": "Reduce working hours"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 14,
+   "text": "What makes stairways safer during emergency exits?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Colorful paint (darker colors)"
+    },
+    {
+     "k": "B",
+     "t": "Wider stair width (at least 80 cm)"
+    },
+    {
+     "k": "C",
+     "t": "Glass steps (min. 5 steps)"
+    },
+    {
+     "k": "D",
+     "t": "Decorated surfaces"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "illegible": false
+  },
+  {
+   "n": 15,
+   "text": "What does the sleep cycle consist of?",
+   "options": [
+    {
+     "k": "A",
+     "t": "REM only"
+    },
+    {
+     "k": "B",
+     "t": "Daylight naps"
+    },
+    {
+     "k": "C",
+     "t": "Non-REM and REM phases"
+    },
+    {
+     "k": "D",
+     "t": "One long dream"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 16,
+   "text": "Which one of the following(s) is an example of Zeitgebers?",
+   "list": [
+    "I. Pharmacological manipulation",
+    "II. Gene expression",
+    "III. Eating/drinking patterns",
+    "IV. Hormone Secretion"
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "Only I"
+    },
+    {
+     "k": "B",
+     "t": "III and IV"
+    },
+    {
+     "k": "C",
+     "t": "I and III"
+    },
+    {
+     "k": "D",
+     "t": "All of the above"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "low",
+   "remark": "Zeitgeber dış ipucudur (ilaç/melatonin, yeme-içme düzeni); gen ifadesi ve hormon salgısı iç süreçlerdir.",
+   "illegible": false
+  },
+  {
+   "n": 17,
+   "text": "What does the term “tinnitus” refer to?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Difficulty breathing"
+    },
+    {
+     "k": "B",
+     "t": "Ringing in the ears"
+    },
+    {
+     "k": "C",
+     "t": "Night blindness"
+    },
+    {
+     "k": "D",
+     "t": "Muscle fatigue"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 18,
+   "text": "What type of fall occurs from the same walking level?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Structural fall"
+    },
+    {
+     "k": "B",
+     "t": "Slip or trip"
+    },
+    {
+     "k": "C",
+     "t": "Equipment failure"
+    },
+    {
+     "k": "D",
+     "t": "Lateral drop"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 19,
+   "text": "Which component of indoor air can cause lung cancer after long-term exposure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Fog"
+    },
+    {
+     "k": "B",
+     "t": "Radon"
+    },
+    {
+     "k": "C",
+     "t": "Ozone"
+    },
+    {
+     "k": "D",
+     "t": "Carbon dioxide"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 20,
+   "text": "What is Raynaud’s syndrome associated with?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Low humidity"
+    },
+    {
+     "k": "B",
+     "t": "Noise exposure"
+    },
+    {
+     "k": "C",
+     "t": "Vibration exposure"
+    },
+    {
+     "k": "D",
+     "t": "Heat exhaustion"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 21,
+   "text": "Which one of these affords workers the greatest level of protection in the Hierarchy of Controls?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Substitution"
+    },
+    {
+     "k": "C",
+     "t": "Administrative controls"
+    },
+    {
+     "k": "D",
+     "t": "Engineering controls"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 22,
+   "text": "What is a key symptom of hand-arm vibration syndrome?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Sweaty palms"
+    },
+    {
+     "k": "B",
+     "t": "Tingling and pain in fingers"
+    },
+    {
+     "k": "C",
+     "t": "Dry eyes"
+    },
+    {
+     "k": "D",
+     "t": "Cramping in the legs"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 23,
+   "text": "What does circadian rhythm mean?",
+   "options": [
+    {
+     "k": "A",
+     "t": "24-hour cycle"
+    },
+    {
+     "k": "B",
+     "t": "7-day cycle"
+    },
+    {
+     "k": "C",
+     "t": "28-day cycle"
+    },
+    {
+     "k": "D",
+     "t": "Yearly cycle"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 24,
+   "text": "What kind of air contaminant is asbestos?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Mist"
+    },
+    {
+     "k": "B",
+     "t": "Gas"
+    },
+    {
+     "k": "C",
+     "t": "Fiber"
+    },
+    {
+     "k": "D",
+     "t": "Vapor"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 25,
+   "text": "An engine is 25 m away from the worker and emits 100 dB(A) noise. What is the level of noise the worker feels if she goes 100 m away from the engine?",
+   "options": [
+    {
+     "k": "A",
+     "t": "94 dB"
+    },
+    {
+     "k": "B",
+     "t": "112 dB"
+    },
+    {
+     "k": "C",
+     "t": "86 dB"
+    },
+    {
+     "k": "D",
+     "t": "88 dB"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Mesafe 4 katına çıkınca ters kare yasası ile 20·log10(4) ≈ 12 dB azalır: 100 − 12 = 88 dB.",
+   "illegible": false
+  }
+ ],
+ "missing": []
+}

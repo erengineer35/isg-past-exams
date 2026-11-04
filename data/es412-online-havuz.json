@@ -1,0 +1,104 @@
+{
+  "id": "es412-online-havuz",
+  "course": "ES 412",
+  "courseName": "Occupational Health and Safety II",
+  "type": "Online Soru Havuzu",
+  "format": "online",
+  "date": "Yılı belirsiz",
+  "sortKey": "0000",
+  "header": "Online soru havuzu – yılı/sınavı belirsiz",
+  "instructions": "",
+  "notes": [
+    "examid görünmeyen numarasız ekran kırpıntılarından (setC no 46, 47, 60, 63, 64, 65) gelen sorular; dosya adları 7 Mayıs 2023 serisine ait olduğundan es412-online-2023-05 ile aynı sınav olması olasıdır."
+  ],
+  "sources": [
+    "setC: WhatsApp Image 2023-05-07 (numarasız kırpıntılar)"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "Sound barriers/Shields are an example of ...........................",
+      "options": [
+        {
+          "k": "A",
+          "t": "PPE"
+        },
+        {
+          "k": "B",
+          "t": "Elimination"
+        },
+        {
+          "k": "C",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "D",
+          "t": "Engineering controls"
+        }
+      ],
+      "answer": "D",
+      "marked": "A",
+      "answerSource": "disputed",
+      "confidence": "high",
+      "remark": "Ekranda examid görünmüyor (8. Soru; 7 Mayıs 2023 fotoğraf serisinden, 9654 olması muhtemel). Ekranda A (PPE) işaretli; ses bariyerleri/kalkanlar mühendislik kontrolüdür (D).",
+      "illegible": false
+    },
+    {
+      "n": 2,
+      "text": "What is the best way of limiting exposure to toxic substances?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Use PPE"
+        },
+        {
+          "k": "B",
+          "t": "By always having the same person work with the toxic substance"
+        },
+        {
+          "k": "C",
+          "t": "By training employees in working with toxic substances."
+        },
+        {
+          "k": "D",
+          "t": "By using another, non-toxic substance"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Numarasız kırpıntı; examid görünmüyor. İkame (substitution).",
+      "illegible": false
+    },
+    {
+      "n": 3,
+      "text": "Placing metal guards on hazardous machinery would be an example of what control measure?",
+      "options": [
+        {
+          "k": "A",
+          "t": "PPE"
+        },
+        {
+          "k": "B",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "C",
+          "t": "Elimination"
+        },
+        {
+          "k": "D",
+          "t": "Engineering controls"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Numarasız kırpıntı; examid görünmüyor.",
+      "illegible": false
+    }
+  ],
+  "missing": []
+}

@@ -1,0 +1,874 @@
+{
+ "id": "es411-online-vize-2020-11",
+ "course": "ES 411",
+ "courseName": "Occupational Health and Safety I",
+ "type": "Online Vize",
+ "format": "online",
+ "date": "Kasım 2020",
+ "sortKey": "2020-11",
+ "header": "ES 411 OCCUPATIONAL HEALTH AND SAFETY I – ONLINE MIDTERM EXAM – November 2020 (ubs.ikc.edu.tr, examid=3065)",
+ "instructions": "Bu sınavda sorular arasında gezinmeye, sınavın sorumlu hocası izin vermemektedir. Her soruyu sadece bir kere görebilirsiniz. Bu sebeple cevabınızdan emin olmadan soruyu geçmeyiniz. Sonradan değiştirme şansınız olmayacak.",
+ "notes": [
+  "Sınav ekran fotoğraflarından derlendi; kâğıtta başlık yok, başlık sistem bilgisinden oluşturuldu.",
+  "Sorular öğrenciye göre farklı sırada ve seçenekler de farklı karışık sırada geliyordu. Sorular metne göre tekilleştirildi, konu akışına göre (mevzuat, eğitim/personel, istatistik, kaza/olay/risk, ergonomi ve antropometri) 1..26 numaralandı; şık sırası en net fotoğraftakine göre alındı. Ekrandaki numaralar ('22. Soru' gibi) öğrenciye özgüdür, kullanılmadı.",
+  "Tekilleştirme sonucu 25 değil 26 farklı soru çıktı; sınav büyük olasılıkla soru havuzundan 25 soru çekiyordu.",
+  "El yazılı cevaplar 'isg vizew.pdf' içinde öğrencinin kendi numarası ve kendi şık sırasıyla yazılmış; cevap metnine eşlenerek buradaki şık harfine çevrildi.",
+  "'marked' alanı, ilgili şık sırasının net göründüğü bir kopyadan alındı; farklı öğrencilerin farklı işaretleri remark'larda belirtildi.",
+  "Soru 11 metni sağ kenarda kesik, Soru 22 şekli hiçbir fotoğrafta görünmüyor; Soru 25 şık değerleri kısmen okunamadı."
+ ],
+ "sources": [
+  "isg vizew.pdf",
+  "WhatsApp Image 2020-11-21 at 22.42.27.jpeg",
+  "WhatsApp Image 2020-11-21 at 22.42.28 (3).jpeg",
+  "WhatsApp Image 2020-11-21 at 22.42.29.jpeg",
+  "WhatsApp Image 2020-11-24 at 21.09.55.jpeg",
+  "(diğer WhatsApp ve isg*.jpg fotoğrafları)"
+ ],
+ "items": [
+  {
+   "n": 1,
+   "text": "Which of the following has been assigned to prepare occupational health and safety legislation/laws and develop national policies in the field of occupational health and safety in Turkey?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Occupational Health and Safety Research and Development Institute (İSGÜM)"
+    },
+    {
+     "k": "B",
+     "t": "Social Security Institution (SGK)"
+    },
+    {
+     "k": "C",
+     "t": "General Directorate for Occupational Health and Safety (İSGGM)"
+    },
+    {
+     "k": "D",
+     "t": "Labor Inspection Board (İTK)"
+    },
+    {
+     "k": "E",
+     "t": "Occupational Safety and Health Administration (OSHA)"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı '1)D?' farklı şık sırasına göre İSGGM'yi gösteriyor."
+  },
+  {
+   "n": 2,
+   "text": "Which of the following is a false statement about the objective of the Occupational Health and Safety Law (Law No. 6331)?",
+   "options": [
+    {
+     "k": "A",
+     "t": "It regulates duties, authority, responsibility, rights, and obligations of employees."
+    },
+    {
+     "k": "B",
+     "t": "Its objective is to ensure occupational health and safety at workplaces."
+    },
+    {
+     "k": "C",
+     "t": "It is not applied to public (governmental) sectors."
+    },
+    {
+     "k": "D",
+     "t": "It regulates duties, authority, responsibility, rights, and obligations of employers."
+    },
+    {
+     "k": "E",
+     "t": "Its objective is to improve existing health and safety conditions."
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "6331 kamu ve özel tüm sektörlere uygulanır; C yanlış ifadedir."
+  },
+  {
+   "n": 3,
+   "text": "Which of the following is not covered by the Occupational Health and Safety Law, Law No: 6331?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Intern students in manufacturing industry"
+    },
+    {
+     "k": "B",
+     "t": "Workers in international shipyard transportation"
+    },
+    {
+     "k": "C",
+     "t": "Admirals in the navy"
+    },
+    {
+     "k": "D",
+     "t": "Workers in tourism industry"
+    },
+    {
+     "k": "E",
+     "t": "President of Republic of Turkey"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "key",
+   "confidence": "high",
+   "remark": "Seçenek sırası öğrenciye göre değişiyor; el yazısı cevap ('22)B') Admirals in the navy şıkkına karşılık geliyor. TSK personeli kapsam dışı."
+  },
+  {
+   "n": 4,
+   "text": "Based on the “Right to abstain from work” part in Law 6331, which of the following is a false statement?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Employees may not be placed at any disadvantage because of their action."
+    },
+    {
+     "k": "B",
+     "t": "Employees do not get any payment when they prefer not to work until the solution is placed."
+    },
+    {
+     "k": "C",
+     "t": "Every worker has right to abstain from work."
+    },
+    {
+     "k": "D",
+     "t": "If employees think that there exists a serious and unavoidable danger, they prefer not to work and leave the workstation without any permission."
+    },
+    {
+     "k": "E",
+     "t": "If the boss agrees to solve the problem, employees may prefer not to work until the solution is placed."
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Çalışmaktan kaçınma süresince ücret ve haklar saklıdır; B yanlış."
+  },
+  {
+   "n": 5,
+   "text": "Let's say you are a worker in a factory and there is a life-threatening hazard in the factory. What should you do in the first place in that case?",
+   "options": [
+    {
+     "k": "A",
+     "t": "You should talk to a television reporter."
+    },
+    {
+     "k": "B",
+     "t": "You should notify the worker representative."
+    },
+    {
+     "k": "C",
+     "t": "You should notify the Ministry of Labor."
+    },
+    {
+     "k": "D",
+     "t": "You should do nothing because it is not your responsibility."
+    },
+    {
+     "k": "E",
+     "t": "You should talk to other employees and convince them not to work"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "key",
+   "confidence": "high",
+   "remark": "El yazısı '23)A' (çalışan temsilcisine bildirme); seçenek sırası farklı. Net fotoğrafta işaret yok."
+  },
+  {
+   "n": 6,
+   "text": "If you have a farm how many hours at least should your employees receive occupational health and safety training in 6 years?",
+   "options": [
+    {
+     "k": "A",
+     "t": "24 hours"
+    },
+    {
+     "k": "B",
+     "t": "36 hours"
+    },
+    {
+     "k": "C",
+     "t": "48 hours"
+    },
+    {
+     "k": "D",
+     "t": "96 hours"
+    },
+    {
+     "k": "E",
+     "t": "16 hours"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Tehlikeli sınıf: 2 yılda bir 12 saat, 6 yılda 3x12=36 saat. El yazısı anahtar da 36 saate işaret ediyor (seçenek sırası farklı)."
+  },
+  {
+   "n": 7,
+   "text": "At least how many occupational safety specialists (experts), occupational physicians (medical doctor), workers' representatives, and chief workers' representatives would you need if you had a private hospital with 6,000 employees?",
+   "options": [
+    {
+     "k": "A",
+     "t": "12 full-time experts, 6 full-time physicians, 6 representatives, 1 chief representative"
+    },
+    {
+     "k": "B",
+     "t": "1 full-time expert, 1 full-time physician, 1 representative, 6 chief representatives"
+    },
+    {
+     "k": "C",
+     "t": "24 full-time experts, 12 full-time physicians, 6 representatives, 1 chief representative"
+    },
+    {
+     "k": "D",
+     "t": "6 full-time experts, 2 full-time and 1 half-time physician, 12 representatives, 2 chief representatives"
+    },
+    {
+     "k": "E",
+     "t": "24 full-time experts, 8 full-time physicians, 6 representatives, 1 chief representative"
+    }
+   ],
+   "answer": "E",
+   "marked": "E",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı anahtar '14)A' (24 uzman, 8 hekim, 6 temsilci, 1 baş temsilci); seçenek sırası farklı."
+  },
+  {
+   "n": 8,
+   "text": "Since you will graduate from the Faculty of Engineering soon, you may want to pursue a professional life in the field of occupational health and safety in Turkey. What do you need to become an occupational safety specialist (expert) who can work at a private university?",
+   "options": [
+    {
+     "k": "A",
+     "t": "220 hours of training and a passing score from the C-level exam"
+    },
+    {
+     "k": "B",
+     "t": "At least 3-years' experience in in occupational health and safety with your C-level certificate, and a passing score from the B-level exam"
+    },
+    {
+     "k": "C",
+     "t": "You can get the C-level certificate without any additional requirement when you pass Safety I and Safety II classes."
+    },
+    {
+     "k": "D",
+     "t": "220 hours of training, 3-years' experience in occupational health and safety, and a passing score from the C-level exam"
+    },
+    {
+     "k": "E",
+     "t": "220 hours of training and 4-years' experience in occupational health and safety"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "key",
+   "confidence": "high",
+   "remark": "El yazısı '4)C' (220 saat eğitim + C sınıfı sınavı); seçenek sırası farklı. Başka bir öğrencinin kopyasında B işaretli."
+  },
+  {
+   "n": 9,
+   "text": "If you need statistical data about the number of injuries in the Turkish manufacturing industry in 2014, where do you find it?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Ministry of Justice"
+    },
+    {
+     "k": "B",
+     "t": "Union of Chambers of Turkish Engineers and Architects"
+    },
+    {
+     "k": "C",
+     "t": "The European Agency for Safety and Health at Work (EU-OSHA)"
+    },
+    {
+     "k": "D",
+     "t": "Turkish Statistical Institute (TÜİK)"
+    },
+    {
+     "k": "E",
+     "t": "Social Security Institution (SGK)"
+    }
+   ],
+   "answer": "E",
+   "marked": "E",
+   "answerSource": "marked",
+   "confidence": "high"
+  },
+  {
+   "n": 10,
+   "text": "How many occupational fatalities do you expect in 2019?\nHint: Note that the number of employees was around 21 million",
+   "options": [
+    {
+     "k": "A",
+     "t": "Around 100,000"
+    },
+    {
+     "k": "B",
+     "t": "Around 100"
+    },
+    {
+     "k": "C",
+     "t": "Around 10,000"
+    },
+    {
+     "k": "D",
+     "t": "Around 1,000,000"
+    },
+    {
+     "k": "E",
+     "t": "Around 1,000"
+    }
+   ],
+   "answer": "E",
+   "marked": "E",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "İpucu satırının sonu ekranda kesik; bir fotoğrafta '2017' okunuyor."
+  },
+  {
+   "n": 11,
+   "text": "[Tablo: Furniture Industry 2015 statistics] 2015 injury statistics for Turkish and German furniture industries are given in the table. Calculate “incidence rate” per 10[okunamadı] and Germany and then drive a conclusion about which country is in better shape in terms of occupational incidence rates.",
+   "options": [
+    {
+     "k": "A",
+     "t": "Both have the same level of safety."
+    },
+    {
+     "k": "B",
+     "t": "We cannot directly compare those two countries."
+    },
+    {
+     "k": "C",
+     "t": "Turkey is better than German"
+    },
+    {
+     "k": "D",
+     "t": "We cannot compare the incidence rates of both countries. We need incidence rates in the form of “per 1,000,000 work hours.”"
+    },
+    {
+     "k": "E",
+     "t": "Germany is better than Turkey."
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "Soru metni sağ kenarda kesik. Hesap: Türkiye 1500/200000 = %0,75; Almanya 1800/180000 = %1,0; iş saati bazında da Türkiye daha iyi.",
+   "table": [
+    [
+     "Furniture Industry 2015 statistics",
+     "Turkey",
+     "Germany"
+    ],
+    [
+     "Number of injuries",
+     "1.500",
+     "1.800"
+    ],
+    [
+     "Number of insured employees in the industry",
+     "200.000",
+     "180.000"
+    ],
+    [
+     "Number of workdays in 2015",
+     "200",
+     "200"
+    ],
+    [
+     "Work hours per week",
+     "45",
+     "45"
+    ],
+    [
+     "Number of weeks per year",
+     "50",
+     "50"
+    ]
+   ],
+   "image": "img/es411-online-vize-2020-11/q11.jpg",
+   "illegible": true
+  },
+  {
+   "n": 12,
+   "text": "An employee climbs to an apple tree at his workplace's garden at lunchtime. If he falls out of the tree and breaks his leg, is this a work accident?",
+   "options": [
+    {
+     "k": "A",
+     "t": "No, because it is not in working hours."
+    },
+    {
+     "k": "B",
+     "t": "No, because he is not at the workplace."
+    },
+    {
+     "k": "C",
+     "t": "Yes, it is a work accident."
+    },
+    {
+     "k": "D",
+     "t": "No, because it is not an accident, it is only a near-miss."
+    },
+    {
+     "k": "E",
+     "t": "No, because he is not carrying out his main work."
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı '7)D' (Yes, work accident); seçenek sırası farklı. Bir kopyada öğrenci 'not at the workplace' işaretlemiş."
+  },
+  {
+   "n": 13,
+   "text": "A call center operator works at his home for a bank's customer service. If he is tripped by a cable on the floor while is talking to a customer on the phone and breaks his arm, is this an incident?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Yes, it is an incident."
+    },
+    {
+     "k": "B",
+     "t": "No, it is not an incident because it is a near-miss."
+    },
+    {
+     "k": "C",
+     "t": "No, it is not an incident because it was at his home."
+    },
+    {
+     "k": "D",
+     "t": "No, it is not an incident because domestic services are out of scope of Law 6331"
+    },
+    {
+     "k": "E",
+     "t": "No, it is not an incident because it is an accident."
+    }
+   ],
+   "answer": "A",
+   "marked": "A",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "El yazısı '6)??????' belirsiz. Kaza da bir olaydır (incident); E yanlış."
+  },
+  {
+   "n": 14,
+   "text": "“Cigarette smokers are 12 times more likely to die of lung cancer than non-smokers.” Based on this statement, what is the hazard?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Being non-smoker"
+    },
+    {
+     "k": "B",
+     "t": "Higher probability"
+    },
+    {
+     "k": "C",
+     "t": "The probability of having lung cancer"
+    },
+    {
+     "k": "D",
+     "t": "Lung cancer due to smoking"
+    },
+    {
+     "k": "E",
+     "t": "Being 12 times higher probability"
+    }
+   ],
+   "answer": "D",
+   "marked": "E",
+   "answerSource": "disputed",
+   "confidence": "medium",
+   "remark": "Olasılık (12 kat) risk kavramıdır; tehlike (zarar kaynağı/zararın kendisi) 'sigaraya bağlı akciğer kanseri'dir. Başka bir öğrenci de bu şıkkı işaretlemiş. Anahtar yok."
+  },
+  {
+   "n": 15,
+   "text": "Which of the following does not change the degree of risk?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Duration of exposure to a hazardous condition"
+    },
+    {
+     "k": "B",
+     "t": "Severity of exposure"
+    },
+    {
+     "k": "C",
+     "t": "Type of exposure to a hazardous thing"
+    },
+    {
+     "k": "D",
+     "t": "Cost of medical expenses"
+    },
+    {
+     "k": "E",
+     "t": "Duration of exposure to a hazardous thing"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı '6)D' (Cost of medical expenses) ile uyumlu."
+  },
+  {
+   "n": 16,
+   "text": "Which of the following is an example of a reactive safety activity?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Performing risk assessments"
+    },
+    {
+     "k": "B",
+     "t": "Training employees about occupational safety and health"
+    },
+    {
+     "k": "C",
+     "t": "Conducting evacuation drill.(Note: Drill means practicing to exit the building safely if there is an emergency.)"
+    },
+    {
+     "k": "D",
+     "t": "Filling a near-miss report"
+    },
+    {
+     "k": "E",
+     "t": "Recruiting finance specialist"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı '2)A' (near-miss report); seçenek sırası farklı."
+  },
+  {
+   "n": 17,
+   "text": "Considering the Systems Theory, which of the following is a false statement?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Laws can be considered as environmental elements of systems."
+    },
+    {
+     "k": "B",
+     "t": "Human being is always the strongest asset in the system."
+    },
+    {
+     "k": "C",
+     "t": "Systems can be close systems."
+    },
+    {
+     "k": "D",
+     "t": "Systems may have subsystems."
+    },
+    {
+     "k": "E",
+     "t": "All systems have a purpose."
+    }
+   ],
+   "answer": "B",
+   "marked": "C",
+   "answerSource": "key",
+   "confidence": "high",
+   "remark": "El yazısı '21)B' (Human being is always the strongest asset); bu kopyada öğrenci C işaretlemiş."
+  },
+  {
+   "n": 18,
+   "text": "Which of the following hazards do you see in the figure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Slipping hazard"
+    },
+    {
+     "k": "B",
+     "t": "Falling objects hazard"
+    },
+    {
+     "k": "C",
+     "t": "Amputation hazard"
+    },
+    {
+     "k": "D",
+     "t": "All of them"
+    },
+    {
+     "k": "E",
+     "t": "Fire hazard"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı '25)D' ile uyumlu. Soru metni şeklin altındadır.",
+   "image": "img/es411-online-vize-2020-11/q18.jpg"
+  },
+  {
+   "n": 19,
+   "text": "Which phenomenon explains the situation that nobody does anything under an emergency condition?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hawthorne effect"
+    },
+    {
+     "k": "B",
+     "t": "ByStander effect"
+    },
+    {
+     "k": "C",
+     "t": "Verbal overshadowing effect"
+    },
+    {
+     "k": "D",
+     "t": "Silent effect"
+    },
+    {
+     "k": "E",
+     "t": "Three monkey effect"
+    }
+   ],
+   "answer": "B",
+   "marked": "B",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı '1)B' ile uyumlu."
+  },
+  {
+   "n": 20,
+   "text": "Which of the following is not a definition of ergonomics?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Obtain the knowledge about human characteristics and then use this knowledge to design healthy work environment"
+    },
+    {
+     "k": "B",
+     "t": "Obtain the knowledge about human limitations and then use this knowledge to design safe machines"
+    },
+    {
+     "k": "C",
+     "t": "Fitting the task to the human"
+    },
+    {
+     "k": "D",
+     "t": "Obtain the knowledge about human genetics and then use this knowledge to design efficient workers"
+    },
+    {
+     "k": "E",
+     "t": "Obtain the knowledge about human abilities and then use this knowledge to design efficient systems"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "El yazısı '19)D' ile uyumlu."
+  },
+  {
+   "n": 21,
+   "text": "What is the difference between ergonomics and safety?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Safety aims to prevent accidents and injuries all the time while ergonomics aims to prevent injuries and illnesses which seldomly happen."
+    },
+    {
+     "k": "B",
+     "t": "Ergonomics is a science of preventing injuries and illnesses while safety is a science and art of preventing fatalities."
+    },
+    {
+     "k": "C",
+     "t": "Safety aims to prevent accidents and injuries that happen instantly while ergonomics aims to prevent chronic injuries and illnesses that happen overtime."
+    },
+    {
+     "k": "D",
+     "t": "There is no difference between safety and ergonomics."
+    },
+    {
+     "k": "E",
+     "t": "Safety does not care about the height of worktable while the main consideration of ergonomics is to design worktables."
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "key",
+   "confidence": "high",
+   "remark": "El yazısı '3)C'."
+  },
+  {
+   "n": 22,
+   "text": "Is the electricity meter in the figure below an ergonomic design? If not, which ergonomics type does it violate?",
+   "options": [
+    {
+     "k": "A",
+     "t": "It is not an ergonomics design since it violates physical ergonomics."
+    },
+    {
+     "k": "B",
+     "t": "It is not an ergonomics design because it violates organizational ergonomics."
+    },
+    {
+     "k": "C",
+     "t": "It is not an ergonomics design since it violates macro ergonomics."
+    },
+    {
+     "k": "D",
+     "t": "It is an ergonomics design."
+    },
+    {
+     "k": "E",
+     "t": "It is not an ergonomics design since it violates cognitive ergonomics."
+    }
+   ],
+   "answer": "E",
+   "marked": "C",
+   "answerSource": "key",
+   "confidence": "low",
+   "remark": "Şekil hiçbir fotoğrafta görünmüyor, cevap çözülemedi. El yazısı '9)C?' (cognitive; belirsiz); bu kopyada öğrenci macro işaretlemiş.",
+   "illegible": true
+  },
+  {
+   "n": 23,
+   "text": "Which design strategies should be employed for the leg clearance under a work table?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Designing for population anthropometric variance"
+    },
+    {
+     "k": "B",
+     "t": "Design for average"
+    },
+    {
+     "k": "C",
+     "t": "Design for extremes"
+    },
+    {
+     "k": "D",
+     "t": "Design for adjustability"
+    },
+    {
+     "k": "E",
+     "t": "Designing for population anthropometric standard deviation"
+    }
+   ],
+   "answer": "D",
+   "marked": "D",
+   "answerSource": "marked",
+   "confidence": "medium",
+   "remark": "El yazısı '8)C' (adjustability) ve iki öğrenci kopyası da adjustability işaretli; ancak ergonomi kaynaklarında bacak boşluğu için genelde 'extremes' önerilir, bu yüzden güven orta."
+  },
+  {
+   "n": 24,
+   "text": "To whom will you design an emergency valve in a factory so that a worker can easily turn off the water supply when there is an emergency?\nHint: It should be noted that an emergency valve has a critical function.",
+   "options": [
+    {
+     "k": "A",
+     "t": "Design for 5%ile female population"
+    },
+    {
+     "k": "B",
+     "t": "Design for 1%ile female population"
+    },
+    {
+     "k": "C",
+     "t": "Design for 50%ile male population"
+    },
+    {
+     "k": "D",
+     "t": "Design for 5%ile male population"
+    },
+    {
+     "k": "E",
+     "t": "Design for 95%ile male population"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "key",
+   "confidence": "medium",
+   "remark": "El yazısı '6)C' (1%ile female); seçenek sırası farklı. Kritik işlev -> uç değer."
+  },
+  {
+   "n": 25,
+   "text": "Assume you will design a male safety work-jacket with ripped cuffs. Since ripped cuffs are made of elastic materials, they can comfortably fit people with different wrist sizes when they stretch. Calculate the minimum and maximum values of the cuff circumferences that fits 80% of the male population (equally ignore people with the smallest and largest wrist sizes). Please ignore any fudge factor if there is any.",
+   "options": [
+    {
+     "k": "A",
+     "t": "The minimum value: 16.7 cm The maximum value: 18.1 cm"
+    },
+    {
+     "k": "B",
+     "t": "The minimum value: [okunamadı] The maximum value: [okunamadı]"
+    },
+    {
+     "k": "C",
+     "t": "The minimum value: 16.4 cm The maximum value: 18.4 cm"
+    },
+    {
+     "k": "D",
+     "t": "The minimum value: [okunamadı] The maximum value: [okunamadı]"
+    },
+    {
+     "k": "E",
+     "t": "The minimum value: [okunamadı] The maximum value: [okunamadı]"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "key",
+   "confidence": "medium",
+   "remark": "Hesap: orta %80 -> z=1,282; 17,4 ± 1,282x0,8 = 16,4 / 18,4 cm. Şık metinleri fotoğrafta bulanık. El yazısı '8)C' (farklı şık sırası). Tablolar görselde.",
+   "image": "img/es411-online-vize-2020-11/q25.jpg",
+   "illegible": true
+  },
+  {
+   "n": 26,
+   "text": "Based on the figure given, the load is 100 N, the weight of hand and forearm is 30 N, and the required force by the biceps muscle to lift the load is 1100 N. What is the lever arm distance from the elbow joint and the insertion point of the biceps muscle?",
+   "options": [
+    {
+     "k": "A",
+     "t": "2.45 cm"
+    },
+    {
+     "k": "B",
+     "t": "2 cm"
+    },
+    {
+     "k": "C",
+     "t": "3 cm"
+    },
+    {
+     "k": "D",
+     "t": "4 cm"
+    },
+    {
+     "k": "E",
+     "t": "2.5 cm"
+    }
+   ],
+   "answer": "C",
+   "marked": "C",
+   "answerSource": "marked",
+   "confidence": "high",
+   "remark": "Moment dengesi: 1100·d = 30·10 + 100·30 = 3300 -> d = 3 cm. El yazısı '6)3 cm'. A ve E değerleri bulanık.",
+   "image": "img/es411-online-vize-2020-11/q26.jpg"
+  }
+ ],
+ "missing": []
+}

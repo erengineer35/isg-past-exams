@@ -1,0 +1,327 @@
+{
+ "id": "es411-vize-2024-fall",
+ "course": "ES 411",
+ "courseName": "Occupational Health and Safety I",
+ "type": "Vize",
+ "format": "paper",
+ "date": "Güz 2024",
+ "sortKey": "2024-11",
+ "header": "ES 411 OCCUPATIONAL HEALTH AND SAFETY I – MIDTERM EXAM – FALL 2024",
+ "instructions": "This examination is comprised of 10 multiple-choice questions. Each question is followed by three or four possible answers, of which only one is correct. The maximum time for this examination is 30 minutes.",
+ "notes": [
+  "Başlık sayfası fotoğraflarında sol kenar kesik; talimat cümlesi ve senaryo metninin kesik baş harfleri bağlama göre tamamlandı. 'produces ?al components' sözcüğü okunamadı.",
+  "W 06/78 (S8-10) ve W 08/77 (S3-7) aynı sınava ait: aynı başlık, 'a)' şık stili, 10 soruluk kesintisiz numaralandırma (S1-2 başlık sayfası, S3-7, S8-10). Ağustos 2023 vizesindeki S8-9-10 ile numara çakışır ama o sınav 25 soru ve farklı içerik; ayrı sınav.",
+  "Öğrenci işareti yok. S4 a), S5 d), S7 b) yanında ve S3 IV önünde küçük silik kalem çizgileri var; belirsiz olduğu için 'marked' alanına alınmadı.",
+  "Başlık sayfasında öğrenci adı/numarası el yazısıyla var; aktarılmadı."
+ ],
+ "sources": [
+  "WhatsApp Image 2026-11-04 at 14.55.43 (5).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.50 (3).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.43 (6).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.50 (5).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.43 (4).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.50 (6).jpeg"
+ ],
+ "items": [
+  {
+   "passage": "Please read the scenario and answer the question based on that.\nScenario: You are an occupational safety specialist working for a medium-sized manufacturing company that produces [okunamadı]al components for the automotive industry. The workplace is classified as hazardous according to Law No. 6331. During a routine inspection, you observe the following:\n1. Workers in the welding section are not wearing the required personal protective equipment (PPE) such as gloves and safety goggles.\n2. The company has not conducted a formal risk assessment in the past year, even though several new machines were installed six months ago.\n3. One worker mentions that they were asked to operate the new machinery without any specific training related to its safety.\n4. The emergency evacuation plan is outdated and has not been practiced in over a year.\n5. There is no designated occupational physician employed, even though the company has 150 employees."
+  },
+  {
+   "n": 1,
+   "text": "Question: Based on Law No. 6331, which of the following actions must the employer take to comply with legal requirements?",
+   "list": [
+    "I. Conduct a risk assessment to evaluate the hazards associated with the new machinery.",
+    "II. Ensure all workers receive appropriate safety training for the equipment they operate.",
+    "III. Update and regularly practice the emergency evacuation plan.",
+    "IV. Employ an occupational physician since the workplace is classified as hazardous with more than 50 workers.",
+    "V. Require workers to purchase their own personal protective equipment."
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "I, II, III, and IV"
+    },
+    {
+     "k": "B",
+     "t": "I, II, and III"
+    },
+    {
+     "k": "C",
+     "t": "All of them"
+    },
+    {
+     "k": "D",
+     "t": "II, III, and V"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "IV doğru (tehlikeli sınıf, 50+ çalışan: işyeri hekimi zorunlu); V yanlış (KKD'yi işveren sağlar). Senaryo metninde bir sözcük okunamadı (passage).",
+   "illegible": false
+  },
+  {
+   "n": 2,
+   "text": "What is the primary goal of ergonomics?",
+   "options": [
+    {
+     "k": "A",
+     "t": "To enhance productivity at the workplace"
+    },
+    {
+     "k": "B",
+     "t": "To eliminate discomfort and prevent injuries"
+    },
+    {
+     "k": "C",
+     "t": "To maximize the use of equipment"
+    },
+    {
+     "k": "D",
+     "t": "To comply with legal safety regulations"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "illegible": false
+  },
+  {
+   "n": 3,
+   "text": "Which of the following statements are correct regarding Occupational Physicians and Occupational Safety Specialists?",
+   "list": [
+    "I. Occupational safety specialists are only accountable to the Ministry and not the employer.",
+    "II. Occupational physicians must notify the Ministry if employers fail to address life-threatening hazards.",
+    "III. A C-Class certification allows safety specialists to work in very hazardous enterprises.",
+    "IV. Occupational physicians are not required to have any certification to practice in this field.",
+    "V. Safety specialists must guide employers on OSH measures and report unresolved critical hazards to authorities."
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "II and III only"
+    },
+    {
+     "k": "B",
+     "t": "II and V only"
+    },
+    {
+     "k": "C",
+     "t": "I, II, and V only"
+    },
+    {
+     "k": "D",
+     "t": "All of the above"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "I yanlış (işverene de karşı sorumlu), III yanlış (C sınıfı az tehlikeli), IV yanlış (belge zorunlu).",
+   "illegible": false
+  },
+  {
+   "n": 4,
+   "text": "Which of the following is NOT a type of ergonomic study?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Physical ergonomics"
+    },
+    {
+     "k": "B",
+     "t": "Cognitive ergonomics"
+    },
+    {
+     "k": "C",
+     "t": "Social ergonomics"
+    },
+    {
+     "k": "D",
+     "t": "Macroergonomics"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Q4 a), Q5 d), Q7 b) yanında silik kalem çizgisi var; işaret olarak alınmadı.",
+   "illegible": false
+  },
+  {
+   "n": 5,
+   "text": "Which design approach is considered the most inclusive but also costly?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Design for adjustability"
+    },
+    {
+     "k": "B",
+     "t": "Design for population variance"
+    },
+    {
+     "k": "C",
+     "t": "Design for extremes"
+    },
+    {
+     "k": "D",
+     "t": "Design for the average"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "illegible": false
+  },
+  {
+   "n": 6,
+   "text": "Which of the following statements are relevant regarding Steps for Ergonomic Designs?",
+   "list": [
+    "I. Ergonomic design focuses on fitting the worker to the task instead of fitting the task to the worker.",
+    "II. A key step in ergonomic design is deciding on the body part to accommodate, such as popliteal height for chair design.",
+    "III. Ergonomic design requires accommodating only the average user for cost efficiency.",
+    "IV. Deciding on the user population, such as children or older adults, is critical in ergonomic design.",
+    "V. Ergonomic design never includes considerations for adjustability."
+   ],
+   "options": [
+    {
+     "k": "A",
+     "t": "II and IV only"
+    },
+    {
+     "k": "B",
+     "t": "I, II, and III only"
+    },
+    {
+     "k": "C",
+     "t": "I and V only"
+    },
+    {
+     "k": "D",
+     "t": "III and IV only"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "I ters (iş insana uydurulur), III ve V yanlış.",
+   "illegible": false
+  },
+  {
+   "n": 7,
+   "text": "Safety signs can NOT be only ....",
+   "options": [
+    {
+     "k": "A",
+     "t": "Signboard"
+    },
+    {
+     "k": "B",
+     "t": "Written"
+    },
+    {
+     "k": "C",
+     "t": "Acoustic"
+    },
+    {
+     "k": "D",
+     "t": "Hand signal"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "illegible": false
+  },
+  {
+   "n": 8,
+   "text": "What is the minimum amount of time occupational safety specialists must spend monthly per worker in a 'hazardous' workplace?",
+   "options": [
+    {
+     "k": "A",
+     "t": "10 minutes"
+    },
+    {
+     "k": "B",
+     "t": "20 minutes"
+    },
+    {
+     "k": "C",
+     "t": "40 minutes"
+    },
+    {
+     "k": "D",
+     "t": "60 minutes"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Uzman süresi: az tehlikeli 10, tehlikeli 20, çok tehlikeli 40 dk/çalışan/ay.",
+   "illegible": false
+  },
+  {
+   "n": 9,
+   "text": "What does the term 'anthropometry' refer to?",
+   "options": [
+    {
+     "k": "A",
+     "t": "The study of workplace hazards"
+    },
+    {
+     "k": "B",
+     "t": "The design of ergonomic tools"
+    },
+    {
+     "k": "C",
+     "t": "The systematic measurement of the human body"
+    },
+    {
+     "k": "D",
+     "t": "The study of physical injuries"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 10,
+   "text": "Which one of these CANNOT be considered in classifying the workplace hazard classes?",
+   "options": [
+    {
+     "k": "A",
+     "t": "number of employees"
+    },
+    {
+     "k": "B",
+     "t": "nature of the work"
+    },
+    {
+     "k": "C",
+     "t": "substances used at work"
+    },
+    {
+     "k": "D",
+     "t": "work equipment used at work"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  }
+ ],
+ "missing": []
+}

@@ -1,0 +1,1212 @@
+{
+  "id": "es412-online-1043",
+  "course": "ES 412",
+  "courseName": "Occupational Health and Safety II",
+  "type": "Online Sınav",
+  "format": "online",
+  "date": "Yılı belirsiz",
+  "sortKey": "0000",
+  "header": "UBS online sınav ekranı – examid=1043 (ISG_2_Soru_Cevap.pdf)",
+  "instructions": "",
+  "notes": [
+    "Kaynak: ISG_2_Soru_Cevap.pdf (kırmızı kare/tik/el yazısı notlu ekran fotoğrafları). Ekranda yalnızca bir kopyada examid=1043 görünür; diğerleri aynı sınav/sürüm kabul edildi.",
+    "Kırmızı dolu kare öğrencinin seçtiği şıkkı gösterir (\"marked\"); sol kenardaki kırmızı tik kontrol/onay olarak okundu (answerSource \"marked\"). Tiksiz ve ? ile işaretli sorularda güven medium/low.",
+    "Şık harfleri ekrandaki sıraya göre alındı; aynı soru farklı şık sıralarıyla birkaç kopyada geçiyorsa yalnızca bir kopya yazıldı."
+  ],
+  "sources": [
+    "ISG_2_Soru_Cevap.pdf"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "Which of the following is a false statement about the minimum required air for people?",
+      "options": [
+        {
+          "k": "A",
+          "t": "At the workplaces at least 10 m³space is need for per person."
+        },
+        {
+          "k": "B",
+          "t": "The celling height should be at least 3 meters in heigt."
+        },
+        {
+          "k": "C",
+          "t": "A very high number of the air change rate may be uncomfortable for humans."
+        },
+        {
+          "k": "D",
+          "t": "Opening doors and windows are the only way for natural ventilation and it will reduce the risk of airborne contamination"
+        },
+        {
+          "k": "E",
+          "t": "An adult needs 30 m³ fresh air per hour."
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Seçili şık kırmızı kutuyla kapatılmış (D hizasında); sol kenarda kırmızı tik var. Şıklardaki yazım hataları ekrandaki gibi bırakıldı.",
+      "illegible": false
+    },
+    {
+      "n": 2,
+      "text": "Which of the following is not a good suggestion for ladders?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Damaged and defective stairs should not be used"
+        },
+        {
+          "k": "B",
+          "t": "The ladder should not be loaded above its maximum carrying capacity"
+        },
+        {
+          "k": "C",
+          "t": "Both feet should stand firmly on the stair steps"
+        },
+        {
+          "k": "D",
+          "t": "Wooden ladders should be painted to protect them from environmental damage"
+        },
+        {
+          "k": "E",
+          "t": "Only one person should be present and work on a standard ladder"
+        }
+      ],
+      "answer": "D",
+      "marked": "E",
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "Kırmızı kutu E hizasında (öğrenci işareti), D ve E yanında kırmızı çizgiler var, tik yok. Ahşap merdivenler boyanmamalı (boya çatlakları gizler), tek kişinin çıkması ise iyi uygulamadır; doğru cevap D.",
+      "illegible": false
+    },
+    {
+      "n": 3,
+      "text": "Which of the following is not a symptom of Raynaud's syndrome in hands?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Numbness"
+        },
+        {
+          "k": "B",
+          "t": "Tingling"
+        },
+        {
+          "k": "C",
+          "t": "Pain"
+        },
+        {
+          "k": "D",
+          "t": "Shivering"
+        },
+        {
+          "k": "E",
+          "t": "Blanching of fingers"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu D hizasında, sol kenarda kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 4,
+      "text": "Which of the following is not one of the humans factors that lead to slip, trip, and fall?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Age"
+        },
+        {
+          "k": "B",
+          "t": "Alcohol"
+        },
+        {
+          "k": "C",
+          "t": "Medication"
+        },
+        {
+          "k": "D",
+          "t": "Gender"
+        },
+        {
+          "k": "E",
+          "t": "Eyesight"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu D hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 5,
+      "text": "Which of the following is not one of the \"major\" considerations when lighting a [okunamadı]\nHint: Which one is the least important among the below.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Glare"
+        },
+        {
+          "k": "B",
+          "t": "Shadows"
+        },
+        {
+          "k": "C",
+          "t": "Flicker"
+        },
+        {
+          "k": "D",
+          "t": "Type of lamp"
+        },
+        {
+          "k": "E",
+          "t": "Contrast"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Soru metni sağ kenarda kesik. Kırmızı kutu D hizasında; C ve D yanında kırmızı çizgiler var, tik yok.",
+      "illegible": true
+    },
+    {
+      "n": 6,
+      "text": "Which axis should we take into account if we want to control vibration hazard?\nHint: Whichone is important to know if we want to compare this number with the maximum exposure limt.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Mean of three axes"
+        },
+        {
+          "k": "B",
+          "t": "Max of three axes"
+        },
+        {
+          "k": "C",
+          "t": "Z axis"
+        },
+        {
+          "k": "D",
+          "t": "Y axis"
+        },
+        {
+          "k": "E",
+          "t": "X axis"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Soru üstünde 'Total view / Sensor position' başlıklı oturan manken görseli (titreşim ölçüm ekranı) kısmen görünüyor. Kırmızı kutu B hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 7,
+      "text": "Which device is used to test the floor slip resistance?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Debimeter"
+        },
+        {
+          "k": "B",
+          "t": "Tribometer"
+        },
+        {
+          "k": "C",
+          "t": "Tachometer"
+        },
+        {
+          "k": "D",
+          "t": "Barometer"
+        },
+        {
+          "k": "E",
+          "t": "Multimeter"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu B hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 8,
+      "text": "Which of the following is true for both heat exhaustion and heat stroke?",
+      "options": [
+        {
+          "k": "A",
+          "t": "The person sweats excessively."
+        },
+        {
+          "k": "B",
+          "t": "Giving the person something cold to drink can help to reduce the body temperature"
+        },
+        {
+          "k": "C",
+          "t": "The person experiences loss of consciousness and coordination."
+        },
+        {
+          "k": "D",
+          "t": "Body temperature is extremely high."
+        },
+        {
+          "k": "E",
+          "t": "The person's heart beats faster."
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu E hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 9,
+      "text": "One worker is 50 meters away from two machines, one emitting 90 dB and the other emitting 95 dB noise. What is the [okunamadı] two machines when the worker is 150 meters away from the machines?",
+      "options": [
+        {
+          "k": "A",
+          "t": "93"
+        },
+        {
+          "k": "B",
+          "t": "86.5"
+        },
+        {
+          "k": "C",
+          "t": "80"
+        },
+        {
+          "k": "D",
+          "t": "96"
+        },
+        {
+          "k": "E",
+          "t": "76.5"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Soru metni sağ kenarda kesik. Hesap: 10·log(10^9+10^9.5)=96.2 dB (50 m); 150 m'de 20·log(3)=9.5 dB azalma, yaklaşık 86.5-86.7 dB. Kırmızı kutu B hizasında; sol kenarda el yazısı '?' işareti var, tik yok.",
+      "illegible": true
+    },
+    {
+      "n": 10,
+      "text": "Generators are used to provide the electrical energy of a library in a summer camp. However, generators emit excessive [okunamadı]\nWhich of the following control measures is the least effective solution for solving the noise problem?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Add sound insulation material around generators"
+        },
+        {
+          "k": "B",
+          "t": "Repair generators"
+        },
+        {
+          "k": "C",
+          "t": "Replace generators with new ones"
+        },
+        {
+          "k": "D",
+          "t": "Relocate generators to far location"
+        },
+        {
+          "k": "E",
+          "t": "Distribute ear plugs to students"
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Metnin sağ kenarı kesik. Kırmızı kutu E hizasında, kırmızı tik.",
+      "illegible": true
+    },
+    {
+      "n": 11,
+      "text": "A hand-held tool in a factory adversely affects workers' health due to its excessive vibration. What is the cheapest solution[okunamadı]",
+      "options": [
+        {
+          "k": "A",
+          "t": "Substition"
+        },
+        {
+          "k": "B",
+          "t": "Administrative control"
+        },
+        {
+          "k": "C",
+          "t": "Elimination"
+        },
+        {
+          "k": "D",
+          "t": "Personal protective equipment"
+        },
+        {
+          "k": "E",
+          "t": "Engineering control"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Soru metni sağ kenarda kesik ('cheapest solution...'). Kırmızı kutu D hizasında, kırmızı tik. Şık A'nın yazımı ekrandaki gibi 'Substition'.",
+      "illegible": true
+    },
+    {
+      "n": 12,
+      "text": "Which of the following symphtoms indicates that the noise level is very high at the workplace?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Pain at the joints of fingers"
+        },
+        {
+          "k": "B",
+          "t": "Conjunctivitis"
+        },
+        {
+          "k": "C",
+          "t": "Throat pain"
+        },
+        {
+          "k": "D",
+          "t": "Motion sickness"
+        },
+        {
+          "k": "E",
+          "t": "Low morale and depression"
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Ekranda examid=1043 görünüyor. Şıkların yanındaki kırmızı el yazısı notlar (vib, göz, boğaz ağrısı) öğrenciye ait, metne alınmadı; E şıkkı kırmızı daireyle işaretli, tik var.",
+      "illegible": false
+    },
+    {
+      "n": 13,
+      "text": "In the figure, there is a ladder that has a 5-meters distance to support point. What are the s[okunamadı]",
+      "image": "img/es412-online-1043/q13.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "X: At least 1 meter, Y: At least 2.6 meters"
+        },
+        {
+          "k": "B",
+          "t": "X: At least 1 meter, Y: At least 1.25 meters"
+        },
+        {
+          "k": "C",
+          "t": "X: At least 0.5 meter, Y: At least 1 meter"
+        },
+        {
+          "k": "D",
+          "t": "X: At least 1 meter, Y: At least 1 meters"
+        },
+        {
+          "k": "E",
+          "t": "X: At least 2 meters, Y: At least 2 meters"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Şekil: 5 m'lik merdiven, X = destek noktasının üstünde taşan kısım, Y = merdiven tabanının duvara uzaklığı (1/4 kuralı: 5/4=1.25 m). Soru metni sağ kenarda kesik. Kırmızı kutu B hizasında, sol kenarda el yazısı '?' var.",
+      "illegible": true
+    },
+    {
+      "n": 14,
+      "text": "According to the Hawthorne Studies, which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Good physical working conditions are enough to increase productivity."
+        },
+        {
+          "k": "B",
+          "t": "The informal relations among workers influence the workers' behaviour and performance."
+        },
+        {
+          "k": "C",
+          "t": "Employees will perform better if they are allowed to participate in decision-making."
+        },
+        {
+          "k": "D",
+          "t": "Formal relations in the organisation influence the workers' behaviour and performance."
+        },
+        {
+          "k": "E",
+          "t": "Managers paying attention to the work environment is important to improve performance."
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu A hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 15,
+      "text": "Which of the following major indoor air contaminants has a fiber structure?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Radon"
+        },
+        {
+          "k": "B",
+          "t": "Asbestos"
+        },
+        {
+          "k": "C",
+          "t": "Formaldehyde"
+        },
+        {
+          "k": "D",
+          "t": "Radium"
+        },
+        {
+          "k": "E",
+          "t": "Cadmium"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu B hizasında, kırmızı tik; aynı ekranın ikinci kopyası kırmızı karalamayla üstü çizilmiş. Şık yanlarındaki el yazısı notlar (gaz, fiber) metne alınmadı.",
+      "illegible": false
+    },
+    {
+      "n": 16,
+      "text": "On an ordinary day, there are two people in the same environment. The body of the first person named \"K\" reacts to \"vasodilation\". At the same time, the body of the person \"I\" reacts to \"vasoconstriction\". If \"K\" and \"I\" hold hands together. Do you expect any heat exchange? If so, which direction will it be?",
+      "options": [
+        {
+          "k": "A",
+          "t": "No there will not be any heat exchange"
+        },
+        {
+          "k": "B",
+          "t": "Yes there will be a heat exchange, \"K\" will give heat to \"I\""
+        },
+        {
+          "k": "C",
+          "t": "Yes there will be a heat exchange, \"I\" will give heat to \"K\""
+        },
+        {
+          "k": "D",
+          "t": "We cannot decide because we do not know their genders."
+        },
+        {
+          "k": "E",
+          "t": "We cannot decide because we do not know how hard they hold their hands."
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "30. soru, 3.33 puan; ekranda examid=1043 görünüyor. Kırmızı kutu B hizasında, kırmızı tik. Sağdaki 'Cevap Listesi' kullanılmadı. Vazodilatasyon yapan K'nın eli daha sıcaktır, K ısı verir.",
+      "illegible": false
+    },
+    {
+      "n": 17,
+      "text": "Which of the following is not a good practice to solve the lighting problem?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Replace bulbs on a regular schedule."
+        },
+        {
+          "k": "B",
+          "t": "Shield the light source from the workers line of sight."
+        },
+        {
+          "k": "C",
+          "t": "Paint walls and ceilings with light colors so light can be reflected."
+        },
+        {
+          "k": "D",
+          "t": "Use more reflected light and local lighting to eliminate shadows."
+        },
+        {
+          "k": "E",
+          "t": "Provide a very wide space between light fixtures."
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Soru numarası ekranda kesik. Kırmızı kutu E hizasında, A-D yanında kırmızı tikler, sol kenarda büyük kırmızı tik; el yazısı not 'gölgeye sebep olur' (metne alınmadı). Examid=1043 aynı sayfada görünüyor.",
+      "illegible": false
+    },
+    {
+      "n": 18,
+      "text": "Which of the following is an effect of exposure to heavy vibration?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Hypothermia"
+        },
+        {
+          "k": "B",
+          "t": "Increased core body temperature"
+        },
+        {
+          "k": "C",
+          "t": "Decreased core body temperature"
+        },
+        {
+          "k": "D",
+          "t": "Back problems"
+        },
+        {
+          "k": "E",
+          "t": "Increased performance"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu D hizasında, kırmızı tik (19. soru). Aynı soru 6. soru olarak şık sırası farklı (A Increased performance ... C Back problems) bir ekranda da var; orada da Back problems işaretli, 5 puan.",
+      "illegible": false
+    },
+    {
+      "n": 19,
+      "text": "Which of the following is a false statement about the indoor air quality?",
+      "options": [
+        {
+          "k": "A",
+          "t": "The minimum air change per hour should be the same in all indoors."
+        },
+        {
+          "k": "B",
+          "t": "An adult needs 30 m³ fresh air per hour."
+        },
+        {
+          "k": "C",
+          "t": "Headache, coughing, or sneezing is a symptom of poor indoor air quality."
+        },
+        {
+          "k": "D",
+          "t": "Increasing the number of building occupants and time spent indoors affect indoor air quality."
+        },
+        {
+          "k": "E",
+          "t": "Insufficient outdoor air intake affects indoor air quality."
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu A hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 20,
+      "text": "If an engine emits 90 dB(A) noise and is 20 meters far from the worker, how many meters should the v orker be far from the engine [okunamadı] expose a noise level that is acceptable by the Turkish Ministry of Family, Labor, and Social Security?",
+      "options": [
+        {
+          "k": "A",
+          "t": "30"
+        },
+        {
+          "k": "B",
+          "t": "45"
+        },
+        {
+          "k": "C",
+          "t": "20"
+        },
+        {
+          "k": "D",
+          "t": "28.3"
+        },
+        {
+          "k": "E",
+          "t": "40"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Soru metni sağ kenarda kesik. Hesap: maruziyet sınır değeri 87 dB(A) alınırsa 3 dB düşüş için mesafe 20·√2 = 28.3 m. Kırmızı kutu D hizasında, el yazısı '?' var, tik yok.",
+      "illegible": true
+    },
+    {
+      "n": 21,
+      "text": "Which of the following is a result of the Hawthorne Studies?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Physical conditions in the workplace have a significant impact on worker productivity"
+        },
+        {
+          "k": "B",
+          "t": "Happiness is priceless."
+        },
+        {
+          "k": "C",
+          "t": "Only good environmental working conditions are not enough to increase productivity."
+        },
+        {
+          "k": "D",
+          "t": "Happiness is contagious."
+        },
+        {
+          "k": "E",
+          "t": "Scientific management is the best management strategy since it optimizes environmental conditions."
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "9. soru, 5 puan. Kırmızı kutu C hizasında, kırmızı tik. 'not' sözcüğü ekranda altı çizili.",
+      "illegible": false
+    },
+    {
+      "n": 22,
+      "text": "Which age-range is expected to feel much colder in a cold environment?\nHint: Consider their body core temperatures",
+      "options": [
+        {
+          "k": "A",
+          "t": "33-64 years old"
+        },
+        {
+          "k": "B",
+          "t": "0-2 years old"
+        },
+        {
+          "k": "C",
+          "t": "Over 65 years old"
+        },
+        {
+          "k": "D",
+          "t": "11-33 years old"
+        },
+        {
+          "k": "E",
+          "t": "3-10 years old"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Kırmızı kutu B hizasında ve kırmızı tik var; bu tik doğrulama olarak okundu. Ancak ders içeriğinde yaşlıların (65+) çekirdek vücut sıcaklığının düşük olması da öne çıkar; C ile karışma ihtimali var.",
+      "illegible": false
+    },
+    {
+      "n": 23,
+      "text": "Which \"known to be a human carcinogen\" is used in the treating of textiles to make them crease-resistant material?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Formaldehyde"
+        },
+        {
+          "k": "B",
+          "t": "Asbestos"
+        },
+        {
+          "k": "C",
+          "t": "Radium"
+        },
+        {
+          "k": "D",
+          "t": "Radon"
+        },
+        {
+          "k": "E",
+          "t": "Cadmium"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu A hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 24,
+      "text": "If the amount of illuminance is 8,000 lux for a light bulb standing 1 meter far from a worker, how many [okunamadı]ux would it be if we move the bulb to 4 meters far from the worker?",
+      "options": [
+        {
+          "k": "A",
+          "t": "2,000"
+        },
+        {
+          "k": "B",
+          "t": "20,000"
+        },
+        {
+          "k": "C",
+          "t": "250"
+        },
+        {
+          "k": "D",
+          "t": "500"
+        },
+        {
+          "k": "E",
+          "t": "4,000"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "12. soru, 5 puan. Ters kare yasası: 8000/16 = 500 lux. Kırmızı kutu D hizasında; el yazısı '?' var, tik yok. Soru metninde 'lux' sözcüğünün başı ('l') okunamadı.",
+      "illegible": true
+    },
+    {
+      "n": 25,
+      "text": "Which of the following is the superior (more effective) measure (among others) to control vibration?\nHint: Consider the hierarchy of control.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Training workers about vibration"
+        },
+        {
+          "k": "B",
+          "t": "Substitution the vibrating machine with a safer one"
+        },
+        {
+          "k": "C",
+          "t": "Decreasing exposure with short work schedules"
+        },
+        {
+          "k": "D",
+          "t": "Using anti-vibration gloves"
+        },
+        {
+          "k": "E",
+          "t": "Lubrication"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı kutu B hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 26,
+      "text": "Which of the following does not cause the body to lose heat?\nHint: Remember the heat balance equation.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Convection"
+        },
+        {
+          "k": "B",
+          "t": "Conduction"
+        },
+        {
+          "k": "C",
+          "t": "Radiation"
+        },
+        {
+          "k": "D",
+          "t": "Body metabolism"
+        },
+        {
+          "k": "E",
+          "t": "Evaporation"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Soru numarası kırmızı elips ve '?' ile çevrilmiş (15. soru). Kırmızı kutu D hizasında, tik yok. Metabolizma ısı üretir, ısı kaybettirmez.",
+      "illegible": false
+    },
+    {
+      "n": 27,
+      "text": "Which of the following causes molds and other biological contaminants to develop?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Moisture"
+        },
+        {
+          "k": "B",
+          "t": "Toxicity"
+        },
+        {
+          "k": "C",
+          "t": "Humidity"
+        },
+        {
+          "k": "D",
+          "t": "All of them"
+        },
+        {
+          "k": "E",
+          "t": "Relative humidity"
+        }
+      ],
+      "answer": "A",
+      "marked": "D",
+      "answerSource": "key",
+      "confidence": "medium",
+      "remark": "5. soru, 5 puan. Ekranda D şıkkı seçili görünüyor; A şıkkının üzerine kırmızı kutu ve oval çizilmiş, yanında el yazısı 'moisture and dirt' ve sol kenarda kırmızı tik var. El yazısı nota göre cevap A (Moisture); 'Toxicity' küften sorumlu olmadığı için D de olamaz.",
+      "illegible": false
+    },
+    {
+      "n": 28,
+      "text": "Construction workers are often exposed to high-level vibration, which causes some health problems. Which of the following is not one of those health problems?",
+      "options": [
+        {
+          "k": "A",
+          "t": "They will have back problems if long-term exposure to vibration occurs."
+        },
+        {
+          "k": "B",
+          "t": "Because of vibration, blood cellsmay be dead. Therefore, their blood pressure may decrease greatly."
+        },
+        {
+          "k": "C",
+          "t": "Exposing to vibration for a long timemay cause heavy O2 consumption. Workers may have breathing difficulties."
+        },
+        {
+          "k": "D",
+          "t": "Due to high pressure, their tissues may be damaged."
+        },
+        {
+          "k": "E",
+          "t": "They may have visual problems. Retina or eye nerves may be damaged."
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "11. soru, 5 puan. Kırmızı kutu B hizasında; A, C, D, E yanında kırmızı tikler; el yazısı not 'increase olcak' (kan basıncı artar). Yazım hataları ('cellsmay', 'timemay') ekrandaki gibi bırakıldı.",
+      "illegible": false
+    },
+    {
+      "n": 29,
+      "text": "Which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Rods have a low spatial acuity."
+        },
+        {
+          "k": "B",
+          "t": "Rods are responsible for vision at low light levels."
+        },
+        {
+          "k": "C",
+          "t": "Cones are capable of color vision."
+        },
+        {
+          "k": "D",
+          "t": "The ratio of cones to rods in the retina is much higher in dogs than it is in humans."
+        },
+        {
+          "k": "E",
+          "t": "There are three types of cones in the human eye."
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "7. soru ('false' sözcüğünün altı çizili). Kırmızı kutu D hizasında; A-C yanında tikler; el yazısı notlar ('rods to cones olcak', 'rgb?') metne alınmadı. Köpeklerde çubuk/koni oranı insana göre çok daha yüksektir (koni/çubuk oranı düşüktür).",
+      "illegible": false
+    },
+    {
+      "n": 30,
+      "text": "Which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Women have colder extremities compared to men."
+        },
+        {
+          "k": "B",
+          "t": "Men's core body temperatures are, on average, slightly lower than women's core body temperatures in the day time"
+        },
+        {
+          "k": "C",
+          "t": "Core body temperatures of obese people are, on average, slightly lower than core body temperatures of lean people in the day time."
+        },
+        {
+          "k": "D",
+          "t": "Men's core body temperatures are, on average, slightly higher than women's core body temperatures at night time."
+        },
+        {
+          "k": "E",
+          "t": "Core body temperatures of young people are, on average, slightly higher than the core body temperatures of old people."
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "4. soru, 5 puan ('false' altı çizili). Kırmızı kutu D hizasında, D yanında '?' ve diğer şıklarda tikler var. Aynı numaralı (4.) başka bir soru da aynı sayfada.",
+      "illegible": false
+    },
+    {
+      "n": 31,
+      "text": "Why can't we use regular chemical occupational exposure limits for indoor air contaminants?",
+      "list": [
+        "I. Occupational exposure limits use dose-response data which shows the health effects of repeated exposure to one specific chemical.",
+        "II. Similar data is not available for long-term, low-level exposures to a combination of contaminants as is the case for indoor air quality problems.",
+        "III. Currently, there is not enough information available to predict the effects of exposure to several potentially harmful agents at the same time."
+      ],
+      "options": [
+        {
+          "k": "A",
+          "t": "I, II, and III"
+        },
+        {
+          "k": "B",
+          "t": "II"
+        },
+        {
+          "k": "C",
+          "t": "III"
+        },
+        {
+          "k": "D",
+          "t": "I and III"
+        },
+        {
+          "k": "E",
+          "t": "I"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "4. soru, 5 puan. Kırmızı kutu A hizasında, kırmızı tik.",
+      "illegible": false
+    },
+    {
+      "n": 32,
+      "text": "The most effective way to avoid hearing loss at work is to .... .",
+      "options": [
+        {
+          "k": "A",
+          "t": "Listen to music that is louder than the noise level at work."
+        },
+        {
+          "k": "B",
+          "t": "Monitor noise levels through engineering and administrative controls"
+        },
+        {
+          "k": "C",
+          "t": "Stay away from loud noises and refuse to work."
+        },
+        {
+          "k": "D",
+          "t": "Call 911 or 155."
+        },
+        {
+          "k": "E",
+          "t": "Use hearing protection, such as earplugs, regardless of whether or not communication is essential at the office."
+        }
+      ],
+      "answer": "B",
+      "marked": "C",
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "Soru numarası ekranda kesik. Kırmızı kutu C hizasında; C ve E yanında kırmızı çizgiler var, tik yok. Kontrol hiyerarşisine göre mühendislik/idari kontrollerle izleme ve azaltma en etkili yoldur (B).",
+      "illegible": false
+    },
+    {
+      "n": 33,
+      "text": "Which device (instrument) is used to measure the level of vibration and what is the unit of vibration?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Accelerometer, m/s²"
+        },
+        {
+          "k": "B",
+          "t": "Gyroscope, m/s"
+        },
+        {
+          "k": "C",
+          "t": "Thermoviber, kHz"
+        },
+        {
+          "k": "D",
+          "t": "Accelerometer, Hz"
+        },
+        {
+          "k": "E",
+          "t": "Altimeter, Hz"
+        }
+      ],
+      "answer": "A",
+      "marked": "D",
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "3. soru. Ekranda D şıkkı seçili radyo olarak görünüyor; A şıkkı kırmızı kutuyla kapatılmış ve sol kenarda kırmızı tik var. Titreşim ivmeölçerle (m/s²) ölçülür.",
+      "illegible": false
+    },
+    {
+      "n": 34,
+      "text": "Which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "A heat stroke victim has dry hot skin while a heat exhaustion victim has moisty skin"
+        },
+        {
+          "k": "B",
+          "t": "A heat exhaustion victim has a very high core body temperature while a heat stroke victim has a normal core body temperature."
+        },
+        {
+          "k": "C",
+          "t": "A heat exhaustion victim's pupils dilate while a heat stroke victim's pupils constrict."
+        },
+        {
+          "k": "D",
+          "t": "Both heat stroke and hyperthermia have the same meaning."
+        },
+        {
+          "k": "E",
+          "t": "You can give water to a heat exhaustion victim but you should not give any water to a heat stroke victim."
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "4. soru ('false' altı çizili). Kırmızı kutu B hizasında. B açıkça ters yazılmış (sıcak çarpmasında çekirdek sıcaklık çok yüksek); C şıkkı da tartışmalı olabilir.",
+      "illegible": false
+    },
+    {
+      "n": 35,
+      "text": "Which of the following health condition is reversible?\nHint: It is asking which one is not permanent damage.",
+      "options": [
+        {
+          "k": "A",
+          "t": "Carpel tunnel syndrome"
+        },
+        {
+          "k": "B",
+          "t": "Tinnitus"
+        },
+        {
+          "k": "C",
+          "t": "Lung cancer"
+        },
+        {
+          "k": "D",
+          "t": "Frostbite"
+        },
+        {
+          "k": "E",
+          "t": "Heat stroke"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "low",
+      "remark": "5. soru. Kırmızı kutu B hizasında; tik yok. Gürültüye bağlı geçici eşik kayması/kulak çınlaması geri dönüşlü olabilir; diğer şıklarda kalıcı hasar daha belirgin. Emin değilim.",
+      "illegible": false
+    },
+    {
+      "n": 36,
+      "text": "If there are three engines and each emits 80 dB(A) noise when they run, what would be the total noise level in dB(A) when all three run?",
+      "options": [
+        {
+          "k": "A",
+          "t": "80"
+        },
+        {
+          "k": "B",
+          "t": "83"
+        },
+        {
+          "k": "C",
+          "t": "84.8"
+        },
+        {
+          "k": "D",
+          "t": "0"
+        },
+        {
+          "k": "E",
+          "t": "240"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Soru numarası ekranda kesik. 80 + 10·log10(3) = 84.77 dB(A). Kırmızı kutu C hizasında.",
+      "illegible": false
+    },
+    {
+      "n": 37,
+      "text": "Which of the following is not a response of our body to cold?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Curling up"
+        },
+        {
+          "k": "B",
+          "t": "Vasoconstriction"
+        },
+        {
+          "k": "C",
+          "t": "Shivering"
+        },
+        {
+          "k": "D",
+          "t": "None of them"
+        },
+        {
+          "k": "E",
+          "t": "Pilorelaxation"
+        }
+      ],
+      "answer": "E",
+      "marked": "A",
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "2. soru, 5 puan ('not' altı çizili). Ekranda A radyosu seçili; D şıkkı kırmızı kutuyla kapatılmış (tik yok). Soğuğa tepki piloereksiyondur (tüylerin dikleşmesi); 'pilorelaxation' bir tepki değildir (E). Şık E ekranda 'Pilorelaxation' olarak okundu.",
+      "illegible": false
+    }
+  ],
+  "missing": []
+}

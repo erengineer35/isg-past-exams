@@ -1,0 +1,1210 @@
+{
+  "id": "es412-online-2136",
+  "course": "ES 412",
+  "courseName": "Occupational Health and Safety II",
+  "type": "Online Sınav",
+  "format": "online",
+  "date": "Yılı belirsiz",
+  "sortKey": "0000",
+  "header": "UBS online sınav ekranı – examid=2136 (İSG2 SORULAR (2).pdf kırmızı işaretli seri)",
+  "instructions": "",
+  "notes": [
+    "Kaynak: İSG2 SORULAR (2).pdf içinde kırmızı işaretli ekranlar; examid=2136 iki ekranda görünür, kalan kırmızı işaretli ekranlar aynı seri kabul edildi (examid görünmeyenler dahil).",
+    "Kırmızı işaret öğrencinin seçimi/ipucu olarak \"marked\" alındı; yanlış olduğu düşünülenler \"disputed\" ile düzeltildi.",
+    "Aynı sorular examid=3099 dosyasında da farklı şık sırasıyla yer alıyor.",
+    "Bu sınav iki kaynaktan birleştirildi: İSG2 SORULAR (2).pdf içindeki kırmızı işaretli ekranlar ve isg vizew.pdf'in son sayfaları (antropometri soruları). Elektrik tehlikesi sorusu iki kaynakta da vardı, bir kez alındı."
+  ],
+  "sources": [
+    "İSG2 SORULAR (2).pdf",
+    "isg vizew.pdf"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "Why do we need to perform a risk assesment?",
+      "options": [
+        {
+          "k": "A",
+          "t": "All of them"
+        },
+        {
+          "k": "B",
+          "t": "To avoid administrative fines"
+        },
+        {
+          "k": "C",
+          "t": "Because it's the law!"
+        },
+        {
+          "k": "D",
+          "t": "Ethical obligations"
+        },
+        {
+          "k": "E",
+          "t": "Moral obligations"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "14. soru; kırmızı işaret A şıkkında. 'assesment' yazımı ekrandaki gibi.",
+      "illegible": false
+    },
+    {
+      "n": 2,
+      "text": "What is the difference between accident and mishap?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Accident is an unplanned event but mishap is a planned event."
+        },
+        {
+          "k": "B",
+          "t": "Accident results in injury, illness, death, or damage but mishap does not result in injury, illness, death, or damage for this time."
+        },
+        {
+          "k": "C",
+          "t": "Both accident and mishap have the same meaning."
+        },
+        {
+          "k": "D",
+          "t": "Accident has to be at workplaces but mishap can happen in residental buildings"
+        },
+        {
+          "k": "E",
+          "t": "An accident can result in injury, illness, or death but mishap can result in loss of equipment or property"
+        }
+      ],
+      "answer": "B",
+      "marked": "C",
+      "answerSource": "disputed",
+      "confidence": "high",
+      "remark": "2. soru. Kırmızı işaret C şıkkında. Kaza yaralanma/hasarla sonuçlanır, ramak kala (mishap) sonuçlanmaz; doğru cevap B.",
+      "illegible": false
+    },
+    {
+      "n": 3,
+      "text": "Which of the following is the most common health problems among office workers?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Wrist problems"
+        },
+        {
+          "k": "B",
+          "t": "Shoulder problems"
+        },
+        {
+          "k": "C",
+          "t": "Eye problems"
+        },
+        {
+          "k": "D",
+          "t": "Elbow problems"
+        },
+        {
+          "k": "E",
+          "t": "Lower back problems"
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "4. soru, 4 puan. Kırmızı işaret E şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 4,
+      "text": "Based on the individual risk criteria figure, which of the following is \"as low as rreasonably acceptable\" region?",
+      "image": "img/es412-online-2136/q4.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "II"
+        },
+        {
+          "k": "B",
+          "t": "I"
+        },
+        {
+          "k": "C",
+          "t": "All of them"
+        },
+        {
+          "k": "D",
+          "t": "None of them"
+        },
+        {
+          "k": "E",
+          "t": "III"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "Kırmızı işaret A şıkkında. Şekil: ters üçgen risk kriteri (I katlanılamaz, II ALARP/makul olduğu kadar düşük, III geniş ölçüde kabul edilebilir); ekranda yalnız II ve III bölgesi görünüyor. 'rreasonably' yazımı ekrandaki gibi.",
+      "illegible": false
+    },
+    {
+      "n": 5,
+      "text": "If you know the probabilities of causes of an event, which of the following hazard analysis technique can you [okunamadı]",
+      "options": [
+        {
+          "k": "A",
+          "t": "Fine and Kinney Method"
+        },
+        {
+          "k": "B",
+          "t": "Fault Tree Analysis"
+        },
+        {
+          "k": "C",
+          "t": "5x5 Risk Assessment Matrix Method"
+        },
+        {
+          "k": "D",
+          "t": "LxL Risk Assessment Matrix Method"
+        },
+        {
+          "k": "E",
+          "t": "Event Tree Analysis"
+        }
+      ],
+      "answer": "B",
+      "marked": "E",
+      "answerSource": "disputed",
+      "confidence": "low",
+      "remark": "11. soru. Soru metni sağ kenarda kesik. Kırmızı işaret E şıkkında. Nedenlerin olasılıkları biliniyorsa tepe olayın olasılığı hata ağacı (FTA) ile hesaplanır; ETA başlatıcı olaydan ileri doğru ilerler.",
+      "illegible": true
+    },
+    {
+      "n": 6,
+      "text": "Which hazard analysis technique uses probability, frequency, and severity as input in the assessment?",
+      "options": [
+        {
+          "k": "A",
+          "t": "5x5 Risk Assessment Matrix Method"
+        },
+        {
+          "k": "B",
+          "t": "Event Tree Analysis"
+        },
+        {
+          "k": "C",
+          "t": "L-type Risk Assessment Matrix Method"
+        },
+        {
+          "k": "D",
+          "t": "Fine and Kinney Method"
+        },
+        {
+          "k": "E",
+          "t": "Failure Mode, Effects and Criticality Analysis"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "9. soru. Kırmızı işaret D şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 7,
+      "text": "Which of the following is the first priority in hazard control?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Elimination"
+        },
+        {
+          "k": "B",
+          "t": "Guarding"
+        },
+        {
+          "k": "C",
+          "t": "Warning"
+        },
+        {
+          "k": "D",
+          "t": "Minimization"
+        },
+        {
+          "k": "E",
+          "t": "Personal Protective Equipment"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "20. soru. Kırmızı işaret A şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 8,
+      "text": "Which of the following is not one of the shift schedule dynamics?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Speed of rotation"
+        },
+        {
+          "k": "B",
+          "t": "Severity of rotation"
+        },
+        {
+          "k": "C",
+          "t": "Start/end times of the shift"
+        },
+        {
+          "k": "D",
+          "t": "Direction of rotation"
+        },
+        {
+          "k": "E",
+          "t": "Length of shift"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "22. soru ('not' altı çizili). Kırmızı işaret B şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 9,
+      "text": "Which of the following is an example of ionizing radiation?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Gamma ray"
+        },
+        {
+          "k": "B",
+          "t": "Alpha particle"
+        },
+        {
+          "k": "C",
+          "t": "X-ray"
+        },
+        {
+          "k": "D",
+          "t": "Neutron"
+        },
+        {
+          "k": "E",
+          "t": "Laser"
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "key",
+      "confidence": "low",
+      "remark": "25. soru. Ekranda soru 'ionizing' olarak görünüyor; kırmızı işaret E (Laser) üzerinde ve kırmızı el yazısı 'non ionizin' var. Laser iyonlaştırıcı olmayan radyasyondur; soru metni büyük olasılıkla 'non-ionizing' olacaktı (ekranda 'non-' görünmüyor). Metin ekrandaki gibi bırakıldı.",
+      "illegible": false
+    },
+    {
+      "n": 10,
+      "text": "The figure is a summary of a risk analysis. Each dot shows a hazard having a severity level and a probability level. Do you think it is a proper risk analysis?",
+      "image": "img/es412-online-2136/q10.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "Yes, I do because it is a proper analysis"
+        },
+        {
+          "k": "B",
+          "t": "No, it is not. I think the risk scores might be lower but the analyst was a pessimist and give them higher scores."
+        },
+        {
+          "k": "C",
+          "t": "No, it is not. I think the risk scores might be higher but the analyst was an optimist and give them lower scores."
+        },
+        {
+          "k": "D",
+          "t": "No, it is not. I would expect ratios 80% for low risks, 18% for medium risks, and %2 for high risks."
+        },
+        {
+          "k": "E",
+          "t": "No, it is not. I think the risk scores might be higher but the analyst was neutral and give them lower scores."
+        }
+      ],
+      "answer": "D",
+      "marked": "A",
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "Şekil: Severity (1-5) x Probability (1-5) risk matrisi, noktalar tehlikeleri gösteriyor. Kırmızı işaret A şıkkında. Dağılımda çok sayıda orta/yüksek risk noktası var; uygun bir analizde düşük riskler çoğunlukta beklenir (D). Başka kopyada mavi el yazısı 'A' ve ok, 'I would expect ratios 80% for low risks...' şıkkını gösteriyor (bu sıralamada D).",
+      "illegible": false
+    },
+    {
+      "n": 11,
+      "text": "If you use a plastic shield to eliminate radiation exposure, which type of radiation can be stopped?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Neutron"
+        },
+        {
+          "k": "B",
+          "t": "X-ray"
+        },
+        {
+          "k": "C",
+          "t": "Alpha"
+        },
+        {
+          "k": "D",
+          "t": "Gamma"
+        },
+        {
+          "k": "E",
+          "t": "All of them"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "17. soru, 4 puan. Kırmızı işaret C şıkkında. Plastik kalkan alfa (ve beta) durdurur.",
+      "illegible": false
+    },
+    {
+      "n": 12,
+      "text": "Which of the following is not a good suggestion for ladders?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Both feet should stand firmly on the stair steps"
+        },
+        {
+          "k": "B",
+          "t": "Wooden ladders should be painted to protect them from environmental damage."
+        },
+        {
+          "k": "C",
+          "t": "Only one person should be present and work on a standard ladder"
+        },
+        {
+          "k": "D",
+          "t": "Damaged and defective stairs should not be used"
+        },
+        {
+          "k": "E",
+          "t": "The ladder should not be loaded above its maximum carrying capacity"
+        }
+      ],
+      "answer": "B",
+      "marked": "A",
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "2. soru ('not' altı çizili). Kırmızı işaret A şıkkında (C şıkkında seçim imleci). Ahşap merdiven boyanmamalıdır (çatlakları gizler); doğru cevap B.",
+      "illegible": false
+    },
+    {
+      "n": 13,
+      "text": "Whose hypnogram may look like similar to the hypnogram in the picture?",
+      "image": "img/es412-online-2136/q13.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "A night shift worker"
+        },
+        {
+          "k": "B",
+          "t": "A baby"
+        },
+        {
+          "k": "C",
+          "t": "A day shift worker"
+        },
+        {
+          "k": "D",
+          "t": "An old female"
+        },
+        {
+          "k": "E",
+          "t": "An old male"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "Şekil: 8 saatlik uyku hipnogramı, düzenli NREM/REM döngüleri. Kırmızı el yazısı 'Day' ve C şıkkının çevresinde kırmızı oval (bir kopyada A yanında küçük bir kırmızı çizgi de var); başka bir kopyada (examid=3099, 3. soru) mavi 'B' = 'A day shift worker'.",
+      "illegible": false
+    },
+    {
+      "n": 14,
+      "text": "What is the deliberate attempt to force a person out of their workplace by humiliation, general haras[okunamadı]",
+      "options": [
+        {
+          "k": "A",
+          "t": "Work ethics"
+        },
+        {
+          "k": "B",
+          "t": "Confined space"
+        },
+        {
+          "k": "C",
+          "t": "Silence"
+        },
+        {
+          "k": "D",
+          "t": "Ground-fault circuit interrupter (GFCI)"
+        },
+        {
+          "k": "E",
+          "t": "Mobbing"
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "5. soru. Metin sağ kenarda kesik. Kırmızı işaret E şıkkında.",
+      "illegible": true
+    },
+    {
+      "n": 15,
+      "text": "Based on the given probabilities in the diagram, what is the probability of \"employees may die due to a fire?\"\nNote that employees may die either when the fire detection does not work or when the fire detection works but both the fire alarm and fire sprinkler system do not work at the same time.",
+      "image": "img/es412-online-2136/q15.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "0.00054"
+        },
+        {
+          "k": "B",
+          "t": "0.00154"
+        },
+        {
+          "k": "C",
+          "t": "0.00504"
+        },
+        {
+          "k": "D",
+          "t": "0.001"
+        },
+        {
+          "k": "E",
+          "t": "0.509"
+        }
+      ],
+      "answer": "B",
+      "marked": "A",
+      "answerSource": "disputed",
+      "confidence": "high",
+      "remark": "Olay ağacı: Fire Starts P=0.01; detektör çalışır 0.9 / çalışmaz 0.1; alarm çalışır 0.7 / çalışmaz 0.3; sprinkler çalışır 0.8 / çalışmaz 0.2. P = 0.01 x [0.1 + 0.9 x 0.3 x 0.2] = 0.00154. Bu kopyada kırmızı işaret A (0.00054) üzerinde; diğer kopyada mavi harf, 0.00154 şıkkını gösteriyor. Şıklar kopyalar arasında karışık sırada.",
+      "illegible": false
+    },
+    {
+      "n": 16,
+      "text": "Which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Shift work causes increased divorce rate."
+        },
+        {
+          "k": "B",
+          "t": "The Mammoth Cave experiment proved that our body can adapt to a non-24-hour cycle."
+        },
+        {
+          "k": "C",
+          "t": "Shift work affects cognitive performance, health, and social lives."
+        },
+        {
+          "k": "D",
+          "t": "We should not work at shift work as long as there is any advantage to the society or technological requirement"
+        },
+        {
+          "k": "E",
+          "t": "Rotating workers to minimize their exposure is an example of an administrative control."
+        }
+      ],
+      "answer": "B",
+      "marked": "E",
+      "answerSource": "disputed",
+      "confidence": "high",
+      "remark": "1. soru. Bu kopyada kırmızı işaret E şıkkında. Mammoth Cave deneyi vücudun 24 saat dışı döngüye uyum sağlayamadığını göstermiştir; yanlış ifade B. Başka kopyalarda (examid=3099, 5. soru) E (Mammoth) işaretli, mavi 'E'; 2. soru kopyasında B seçili.",
+      "illegible": false
+    },
+    {
+      "n": 17,
+      "text": "Which of the following is not a criterion to identify a confined space?",
+      "options": [
+        {
+          "k": "A",
+          "t": "It is large enough for an employee to enter and perform work."
+        },
+        {
+          "k": "B",
+          "t": "It has a limited or restricted means for exit."
+        },
+        {
+          "k": "C",
+          "t": "It is designed for continuous occupancy."
+        },
+        {
+          "k": "D",
+          "t": "It has a limited or restricted means for entry."
+        },
+        {
+          "k": "E",
+          "t": "It may contain a hazardous atmosphere."
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "21. soru ('not' altı çizili). Kırmızı işaret C şıkkında (iki kopya).",
+      "illegible": false
+    },
+    {
+      "n": 18,
+      "text": "Which of the following is an example of a control of electrical hazards?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Insulation of personnel"
+        },
+        {
+          "k": "B",
+          "t": "Insulation of electrical equipment"
+        },
+        {
+          "k": "C",
+          "t": "Grounding"
+        },
+        {
+          "k": "D",
+          "t": "All of them"
+        },
+        {
+          "k": "E",
+          "t": "Ground-fault circuit interrupter (GFCI)"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "10. soru. Kırmızı işaret D şıkkında. Başka kopyada (examid=3099, 13. soru) mavi 'E' = 'All of them'.",
+      "illegible": false
+    },
+    {
+      "n": 19,
+      "text": "What is the deliberate isolation of energy sources to prevent accidental energy release during maintenance or repair?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Material Safety Data Sheet (MSDS)"
+        },
+        {
+          "k": "B",
+          "t": "Permit-required confined space"
+        },
+        {
+          "k": "C",
+          "t": "Lockout/Tagout (LOTO)"
+        },
+        {
+          "k": "D",
+          "t": "Confined space"
+        },
+        {
+          "k": "E",
+          "t": "Industrial hygiene"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "8. soru. Kırmızı işaret C şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 20,
+      "text": "Which of the following is a good sleep habit?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Go to bed hungry."
+        },
+        {
+          "k": "B",
+          "t": "Let your family and friends know that you are sleeping and do not want to be awaken by their calls."
+        },
+        {
+          "k": "C",
+          "t": "Get heavily exercise right before sleep."
+        },
+        {
+          "k": "D",
+          "t": "Use alcohol since it helps you fall asleep."
+        },
+        {
+          "k": "E",
+          "t": "Use sleeping pills."
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "15. soru. Kırmızı işaret B şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 21,
+      "text": "Stairways must be installed at no more than ...... from the horizontal.",
+      "options": [
+        {
+          "k": "A",
+          "t": "35°"
+        },
+        {
+          "k": "B",
+          "t": "30°"
+        },
+        {
+          "k": "C",
+          "t": "75°"
+        },
+        {
+          "k": "D",
+          "t": "50°"
+        },
+        {
+          "k": "E",
+          "t": "90°"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "4. soru. Kırmızı işaret D şıkkında (iki kopya). Merdivenler yataydan en fazla 50° eğimle kurulabilir (OSHA 30°-50°).",
+      "illegible": false
+    },
+    {
+      "n": 22,
+      "text": "We discussed the results of research analyzing oxygen deficiency fatalities for the 10 years. Which of the following is not a result of the research?",
+      "options": [
+        {
+          "k": "A",
+          "t": "In most of the incidents, the confined space had been entered before without any problems by the same person who died."
+        },
+        {
+          "k": "B",
+          "t": "In most of the incidents, the entries were authorized by supervisors."
+        },
+        {
+          "k": "C",
+          "t": "In most of the incidents, the entries were not authorized by supervisors."
+        },
+        {
+          "k": "D",
+          "t": "In 40% of the incidents, the hazard was not present at the workplace earlier."
+        },
+        {
+          "k": "E",
+          "t": "In %60 of the incidents, the hazard was present at the workplace earlier"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "3. soru, 4 puan. Kırmızı işaret C şıkkında; sağdaki 'Cevap Listesi'nde 3. soru için C yazıyor. Başka kopyada (10. soru) mavi 'C' ve aynı şık.",
+      "illegible": false
+    },
+    {
+      "n": 23,
+      "text": "Which of the following is a false statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Shift work sleep disorder does not present a substantial danger in the workplace."
+        },
+        {
+          "k": "B",
+          "t": "Certain medical conditions can worsen the effects of shift work sleep disorder."
+        },
+        {
+          "k": "C",
+          "t": "Even shift workers who get the recommended amount of sleep may still experience symptoms of shift work sleep disorder"
+        },
+        {
+          "k": "D",
+          "t": "Shift work may contribute to health conditions such as heart disease and cancer."
+        },
+        {
+          "k": "E",
+          "t": "Irregular work schedules are linked to a higher risk of shift work sleep disorder"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "12. soru; ekranda examid=2136 görünüyor (alt kısımda adres çubuğu). A radyosu seçili; D şıkkının üzerinde kırmızı çizgi var.",
+      "illegible": false
+    },
+    {
+      "n": 24,
+      "text": "Suppose we want to build a staircase between two floors. The vertical height between the two floors is 2.4 meters. Based on the OSHA standard, what is the minimum number of steps that we should have?",
+      "options": [
+        {
+          "k": "A",
+          "t": "10"
+        },
+        {
+          "k": "B",
+          "t": "24"
+        },
+        {
+          "k": "C",
+          "t": "12"
+        },
+        {
+          "k": "D",
+          "t": "16"
+        },
+        {
+          "k": "E",
+          "t": "8"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "24. soru, 4 puan. Kırmızı işaret A şıkkında. OSHA'ya göre basamak yüksekliği en çok 24 cm olduğundan 240/24 = 10 basamak. Şıklar küçük puntoda okundu.",
+      "illegible": false
+    },
+    {
+      "n": 25,
+      "text": "Which hazard analysis technique is one of the probabilistic risk assessment techniques?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Failure Mode and Effects Analysis (FMEA)"
+        },
+        {
+          "k": "B",
+          "t": "Hazard and Operability Analysis (HAZOP)"
+        },
+        {
+          "k": "C",
+          "t": "Fine and Kinney Method"
+        },
+        {
+          "k": "D",
+          "t": "Failure Mode, Effects and Criticality Analysis (FMECA)"
+        },
+        {
+          "k": "E",
+          "t": "Fault Tree Analysis (FTA)"
+        }
+      ],
+      "answer": "E",
+      "marked": "E",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "3. soru. Kırmızı işaret E şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 26,
+      "text": "Which of the following is not a good practice to minimize radiation dose?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Use of shielding"
+        },
+        {
+          "k": "B",
+          "t": "Labeling radioactive and potentially radioactive areas and items"
+        },
+        {
+          "k": "C",
+          "t": "Decreasing the distance between the radiation source and workers"
+        },
+        {
+          "k": "D",
+          "t": "Reducing the time of exposure"
+        },
+        {
+          "k": "E",
+          "t": "Wearing lead aprons andlead glasses"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "1. soru ('not' altı çizili). C radyosu seçili, kırmızı çizgi C üzerinde. E şıkkındaki 'andlead' yazımı ekrandaki gibi.",
+      "illegible": false
+    },
+    {
+      "n": 27,
+      "text": "\"Identifying hazards which are existing in or may arise from outside the workplace, analyzing and rating the factors causing these hazards to turn into risks and the risks caused by hazards and determining control measures\" is called as .....?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Risk assessment"
+        },
+        {
+          "k": "B",
+          "t": "Risk rating"
+        },
+        {
+          "k": "C",
+          "t": "Risk reduction"
+        },
+        {
+          "k": "D",
+          "t": "Hazard analysis"
+        },
+        {
+          "k": "E",
+          "t": "Risk analysis"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "4. soru, 4 puan. Kırmızı işaret A şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 28,
+      "text": "What are the advantages of xooming your computer screen and enlarging the font?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Enable you sit back"
+        },
+        {
+          "k": "B",
+          "t": "Enable you reduce neck discomfort"
+        },
+        {
+          "k": "C",
+          "t": "All of them"
+        },
+        {
+          "k": "D",
+          "t": "Enable you relax your eyes"
+        },
+        {
+          "k": "E",
+          "t": "Enable you reduce shoulder discomfort"
+        }
+      ],
+      "answer": "C",
+      "marked": "C",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "3. soru. Kırmızı işaret C şıkkında; D şıkkı metin olarak vurgulanmış. 'xooming' ve 'Enable' yazımları ekrandaki gibi.",
+      "illegible": false
+    },
+    {
+      "n": 29,
+      "text": "Which of the following hazard analysis technique is a forward, bottom up, logical modeling technique for both success and failure that explores responses through a single initiating event and lays a path for assessing probabilities of the outcomes and overall system analysis?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Failure Mode, Effects and Criticality Analysis (FMECA)"
+        },
+        {
+          "k": "B",
+          "t": "Event Tree Analysis (ETA)"
+        },
+        {
+          "k": "C",
+          "t": "Hazard and Operability Analysis (HAZOP)"
+        },
+        {
+          "k": "D",
+          "t": "Fine and Kinney Method"
+        },
+        {
+          "k": "E",
+          "t": "Failure Mode and Effects Analysis (FMEA)"
+        }
+      ],
+      "answer": "B",
+      "marked": "B",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "1. soru, 4 puan. Kırmızı işaret B şıkkında.",
+      "illegible": false
+    },
+    {
+      "n": 30,
+      "text": "Which of the following causes the circadian rhythm to desynchronize?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Jet lag due to flying from the west to east for 10 hours"
+        },
+        {
+          "k": "B",
+          "t": "Jet lag due to flying from the east to west for 12 hours"
+        },
+        {
+          "k": "C",
+          "t": "Shift work"
+        },
+        {
+          "k": "D",
+          "t": "All of them"
+        },
+        {
+          "k": "E",
+          "t": "Sleeping much longer at weekends"
+        }
+      ],
+      "answer": "D",
+      "marked": "D",
+      "answerSource": "marked",
+      "confidence": "high",
+      "remark": "21. soru. Kırmızı işaret D şıkkında. Başka kopyada (20. soru, 4 puan) mavi 'B' = 'All of them' (şık sırası farklı).",
+      "illegible": false
+    },
+    {
+      "n": 31,
+      "text": "Is this a good work posture?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Yes, because ears are directly above the shoulders"
+        },
+        {
+          "k": "B",
+          "t": "Yes, because he is not bent back."
+        },
+        {
+          "k": "C",
+          "t": "No, because his back is not supported with appropriate lumbar support."
+        },
+        {
+          "k": "D",
+          "t": "Yes, because he is not bent forward."
+        },
+        {
+          "k": "E",
+          "t": "Yes, because shoulders are forming a straight line with ears."
+        }
+      ],
+      "answer": "C",
+      "marked": "E",
+      "answerSource": "disputed",
+      "confidence": "low",
+      "remark": "Ekranda examid=2136 görünüyor (iki fotoğraf). Soru bir fotoğrafa dayanıyor (tabureye oturan, sırtı desteksiz bir kişi); fotoğrafta kişi tanınabildiği için görsel kırpılmadı. Kırmızı işaret E şıkkında. A ve E aynı şeyi söylediğinden ikisi de doğru olamaz; sırt (bel) desteği eksikliği (C) en tutarlı cevap. Güven düşük.",
+      "illegible": false
+    },
+    {
+      "n": 32,
+      "text": "The frequency of falling on the lower level is higher, but the severity of fall accidents on the lower level is lower compared to the same level falls.",
+      "options": [
+        {
+          "k": "A",
+          "t": "No, it is not true because it changes every year"
+        },
+        {
+          "k": "B",
+          "t": "No, it is not true because the frequency of falling on the same level is higher, but the severity of fall accidents on the same level is lower compared to elevated falls."
+        },
+        {
+          "k": "C",
+          "t": "No, it is not true because the lower level accidents are caused by ladders, stairs, and platforms"
+        },
+        {
+          "k": "D",
+          "t": "No, it is not true because the same level accidents are mostly caused by slips and trips"
+        },
+        {
+          "k": "E",
+          "t": "Yes, it is true."
+        }
+      ],
+      "answer": "B",
+      "marked": "E",
+      "answerSource": "disputed",
+      "confidence": "medium",
+      "remark": "11. soru, 4 puan. Kırmızı işaret E şıkkında. Aynı seviyede düşmeler daha sık, yüksekten düşmeler daha ağırdır; ifade ters kurulduğundan doğru cevap B. Soru kökünde ekranda 'falls.' sözcüğü kısmen kesik.",
+      "illegible": false
+    },
+    {
+      "n": 33,
+      "text": "What does the figure tell us?",
+      "image": "img/es412-online-2136/q33.jpg",
+      "options": [
+        {
+          "k": "A",
+          "t": "Recovery time is not enough for tissue to dissipate byproducts"
+        },
+        {
+          "k": "B",
+          "t": "Recovery time is not enough to decrease fatigue level"
+        },
+        {
+          "k": "C",
+          "t": "Recovery time is not enough for tissue to replace cells."
+        },
+        {
+          "k": "D",
+          "t": "Recovery time is enough to get resting."
+        },
+        {
+          "k": "E",
+          "t": "Recovery time is not enough for tissue to restore nutrition"
+        }
+      ],
+      "answer": "B",
+      "marked": "D",
+      "answerSource": "disputed",
+      "confidence": "low",
+      "remark": "22. soru, 4 puan. Şekil: iş (work) / dinlenme (rest) döngülerinde yorgunluk düzeyi (Fatigue Level) - zaman grafiği; her dinlenme sonrası yorgunluk taban düzeye inmeden yeni iş döngüsü başlıyor. Kırmızı işaret D şıkkında; şekil bu ifadeyi desteklemiyor, yorgunluk düzeyinin yeterince düşmediğini (B) gösteriyor. Güven düşük.",
+      "illegible": false
+    },
+    {
+      "n": 34,
+      "text": "Where/how do we use anthropometric data?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Understanding human physical variation"
+        },
+        {
+          "k": "B",
+          "t": "Evaluate nutrition types"
+        },
+        {
+          "k": "C",
+          "t": "Epidemiological studies"
+        },
+        {
+          "k": "D",
+          "t": "Comparison of generations by body sizes"
+        },
+        {
+          "k": "E",
+          "t": "All of them"
+        }
+      ],
+      "answer": "A",
+      "marked": "A",
+      "answerSource": "marked",
+      "confidence": "medium",
+      "remark": "El yazısı: 'Cevap doğru' (öğrenci sonuçta doğru olduğunu görmüş); E (All of them) da makul, bu yüzden güven orta."
+    },
+    {
+      "n": 35,
+      "text": "Which of the following is an example for static anthropometrics?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Height"
+        },
+        {
+          "k": "B",
+          "t": "Weight"
+        },
+        {
+          "k": "C",
+          "t": "Arm length"
+        },
+        {
+          "k": "D",
+          "t": "Head circumference"
+        },
+        {
+          "k": "E",
+          "t": "Reach distance"
+        }
+      ],
+      "answer": null,
+      "marked": "C",
+      "answerSource": "disputed",
+      "confidence": "low",
+      "remark": "El yazısı: 'Soru notlu olursa E'. A-D statik (yapısal) ölçülerdir, E erişim mesafesi fonksiyonel/dinamiktir; soru hatalı/iptal olabilir. Net cevap belirlenemedi."
+    },
+    {
+      "n": 36,
+      "text": "Which of the following is an example for dynamic anthropometrics?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Clearance"
+        },
+        {
+          "k": "B",
+          "t": "Head circumference"
+        },
+        {
+          "k": "C",
+          "t": "Sitting height"
+        },
+        {
+          "k": "D",
+          "t": "Reach distance"
+        },
+        {
+          "k": "E",
+          "t": "Walking height"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "high",
+      "remark": "El yazısı '8)D'."
+    },
+    {
+      "n": 37,
+      "text": "[Şekil: Stoop ve Squat kaldırma] Which of the following is a true statement?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Stoop lifting increases the spinal loading compared to squat lifting."
+        },
+        {
+          "k": "B",
+          "t": "Workers get closer to the load with squat lifting compared to stoop lifting."
+        },
+        {
+          "k": "C",
+          "t": "Stoop lifting requires more energy than squat lifting."
+        },
+        {
+          "k": "D",
+          "t": "Stoop lifting is slower and less efficient than squat lifting."
+        },
+        {
+          "k": "E",
+          "t": "Stoop lifting requires more effort than squat lifting."
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "key",
+      "confidence": "low",
+      "remark": "El yazısı '5)B'. Not: A seçeneği de literatürde doğru kabul edilir; anahtara uyuldu.",
+      "image": "img/es412-online-2136/stoop-squat.jpg"
+    }
+  ],
+  "missing": []
+}

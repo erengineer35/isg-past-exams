@@ -1,0 +1,712 @@
+{
+  "id": "es411-final-2025-01",
+  "course": "ES 411",
+  "courseName": "Occupational Health and Safety I",
+  "type": "Final",
+  "format": "paper",
+  "date": "Ocak 2025",
+  "sortKey": "2025-01",
+  "header": "ES 411 OCCUPATIONAL HEALTH AND SAFETY I – FINAL EXAM – January 2025",
+  "instructions": "This examination is comprised of 25 multiple-choice questions. Each question is followed by three or four possible answers, of which only one is correct. The maximum time for this examination is 40 minutes.",
+  "notes": [
+    "Başlık sayfası (S1–6) 'January 2025' yazıyor; devam sayfalarında (S7–15, S16–25) sadece 'FINAL EXAM' var, ancak S6'dan S7'ye içerik/numara sürekliliği ve aynı yazı tipi/düzen nedeniyle aynı sınav kabul edildi.",
+    "Ağustos 2024 finaliyle (es411-final-2024-08) aynı soru havuzunu kullanıyor ama ayrı bir sınav: süre 40 dk (Ağustos'ta 30 dk), başında etik/4857-6331 soruları ekli, soru sırası ve numaralandırma farklı; Ağustos'taki 'hazard level of the company' ve 'advantage of ergonomics' soruları burada yok.",
+    "Fotoğraflarda öğrenci işareti yok; tüm cevaplar çözülerek belirlendi.",
+    "S5 şık c fotoğrafta kesik; Ağustos kopyasıyla tamamlandı ('getting paid')."
+  ],
+  "sources": [
+    "WhatsApp Image 2026-11-04 at 14.55.48 (2).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.51 (9).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.48 (6).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.51 (7).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.48 (5).jpeg",
+    "WhatsApp Image 2026-11-04 at 14.55.51 (6).jpeg"
+  ],
+  "items": [
+    {
+      "n": 1,
+      "text": "Which one of these cannot be considered a reason for workplace ethics?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Ensuring employee safety and well-being"
+        },
+        {
+          "k": "B",
+          "t": "Promoting fair treatment and non-discrimination"
+        },
+        {
+          "k": "C",
+          "t": "Increasing profits at the expense of safety"
+        },
+        {
+          "k": "D",
+          "t": "Fostering social responsibility within the organization"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 2,
+      "text": "Which Turkish law emphasizes the principle of non-discrimination in the workplace?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Occupational Health and Safety Law No. 6331"
+        },
+        {
+          "k": "B",
+          "t": "Turkish Labor Law No. 4857"
+        },
+        {
+          "k": "C",
+          "t": "Social Insurance and Universal Health Insurance Law No. 5510"
+        },
+        {
+          "k": "D",
+          "t": "ISO 26000 Social Responsibility Standard"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "low",
+      "remark": "Eşit davranma ilkesi 4857 sayılı İş Kanunu md. 5'te düzenlenir; ancak ders notlarında 6331 (A) vurgulanmış olabilir, belirsiz.",
+      "illegible": false
+    },
+    {
+      "n": 3,
+      "text": "Which of these best fits the definition of hazard in occupational health and safety?",
+      "options": [
+        {
+          "k": "A",
+          "t": "an unintentional and undesired event"
+        },
+        {
+          "k": "B",
+          "t": "the chance or probability that a person will be harmed"
+        },
+        {
+          "k": "C",
+          "t": "harm or adverse health effects on something or someone"
+        },
+        {
+          "k": "D",
+          "t": "an incident where no injury or illness occurs"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "Soru numarası fotoğrafta kenarda kesik; sıra gereği 3.",
+      "illegible": false
+    },
+    {
+      "n": 4,
+      "text": "Which of these best fits the definition of risk in occupational health and safety?",
+      "options": [
+        {
+          "k": "A",
+          "t": "an unintentional and undesired event"
+        },
+        {
+          "k": "B",
+          "t": "the chance or probability that a person will be harmed"
+        },
+        {
+          "k": "C",
+          "t": "harm or adverse health effects on something or someone"
+        },
+        {
+          "k": "D",
+          "t": "an incident where no injury or illness occurs"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 5,
+      "text": "Which one of these does not refer to the factors that influence the degree of risk in a workplace?",
+      "options": [
+        {
+          "k": "A",
+          "t": "how much a person is exposed to a hazardous thing or condition in the workplace"
+        },
+        {
+          "k": "B",
+          "t": "how severe are the effects under the conditions of exposure in the workplace"
+        },
+        {
+          "k": "C",
+          "t": "how much a person is getting paid in the workplace"
+        },
+        {
+          "k": "D",
+          "t": "how a person is exposed to hazardous things or conditions"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 6,
+      "text": "Which one of these is an example proactive safety activity?",
+      "options": [
+        {
+          "k": "A",
+          "t": "performing risk analyses"
+        },
+        {
+          "k": "B",
+          "t": "near-miss report"
+        },
+        {
+          "k": "C",
+          "t": "accident report"
+        },
+        {
+          "k": "D",
+          "t": "illness report"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 7,
+      "text": "What is the best way of dealing with a hazard to ensure others are not put at risk?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Using administrative control"
+        },
+        {
+          "k": "B",
+          "t": "Eliminating the source of hazard"
+        },
+        {
+          "k": "C",
+          "t": "Using engineering control measures"
+        },
+        {
+          "k": "D",
+          "t": "Using personal protective equipment"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 8,
+      "text": "Who is responsible for workplace safety and solving OSH problems?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Everyone"
+        },
+        {
+          "k": "B",
+          "t": "External OSH Expert"
+        },
+        {
+          "k": "C",
+          "t": "Supervisors"
+        },
+        {
+          "k": "D",
+          "t": "Employers"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "remark": "6331 sayılı Kanun md. 4: İSG yükümlülüğü esas olarak işverene aittir; sınavlar arası tutarlılık için tüm sınavlarda 'Employers' kabul edildi. (Önceki cevap: Everyone.)",
+      "illegible": false
+    },
+    {
+      "n": 9,
+      "text": "In a factory, a CNC milling machine creates a tolerable level of risk due to its broken part that is impossible to replace. The design of the machine does not allow the use of any engineering measure (e.g. barriers) to prevent a potential hazard. What is the best control measure for this situation?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Elimination"
+        },
+        {
+          "k": "B",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "C",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "D",
+          "t": "PPE"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 10,
+      "text": "Based on the Social Insurance and Universal Health Insurance Law No: 5510, which of the following(s) are correct?",
+      "list": [
+        "I. The work accident is only accepted when the insurance holder is at the workplace",
+        "II. A work accident occurs when a worker carries out his/her main work when he/she is sent on duty to another place out of the workplace,",
+        "III. When a worker commutes to work on a vehicle provided by the employer."
+      ],
+      "options": [
+        {
+          "k": "A",
+          "t": "Only I"
+        },
+        {
+          "k": "B",
+          "t": "I and II"
+        },
+        {
+          "k": "C",
+          "t": "II and III"
+        },
+        {
+          "k": "D",
+          "t": "All of the above"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 11,
+      "text": "Which one of the agencies is NOT one of the main ones responsible for Occupational Health and Safety?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Ministry of Labour and Social Security"
+        },
+        {
+          "k": "B",
+          "t": "Ministry of Environmental Protection"
+        },
+        {
+          "k": "C",
+          "t": "Social Security Institution"
+        },
+        {
+          "k": "D",
+          "t": "The General Directorate for Occupational Health and Safety"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 12,
+      "text": "Which one of these is a situation that is related to ethics in the workplace?",
+      "options": [
+        {
+          "k": "A",
+          "t": "being exposed to noise"
+        },
+        {
+          "k": "B",
+          "t": "being exposed to radiation"
+        },
+        {
+          "k": "C",
+          "t": "being exposed to mobbing"
+        },
+        {
+          "k": "D",
+          "t": "being exposed to toxic gases"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 13,
+      "text": "Occupational Safety Professionals in Law No 6331 DOES NOT apply for",
+      "options": [
+        {
+          "k": "A",
+          "t": "Apprentices"
+        },
+        {
+          "k": "B",
+          "t": "Interns"
+        },
+        {
+          "k": "C",
+          "t": "Unpaid legal worker"
+        },
+        {
+          "k": "D",
+          "t": "Armed forces"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 14,
+      "text": "Who needs additional training regarding Occupational Safety & Health?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Employer"
+        },
+        {
+          "k": "B",
+          "t": "Workers' representative"
+        },
+        {
+          "k": "C",
+          "t": "Manager"
+        },
+        {
+          "k": "D",
+          "t": "Team Leader"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "remark": "Çalışan temsilcisine ilave eğitim verilir (6331); diğer sınavlarla tutarlı.",
+      "illegible": false
+    },
+    {
+      "n": 15,
+      "text": "Which one of these anthropometric design approaches is the best way to design things?",
+      "options": [
+        {
+          "k": "A",
+          "t": "design for average"
+        },
+        {
+          "k": "B",
+          "t": "design for extremes"
+        },
+        {
+          "k": "C",
+          "t": "designing for population anthropometric variance"
+        },
+        {
+          "k": "D",
+          "t": "design for adjustability"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 16,
+      "text": "What does ergonomics primarily aim for?",
+      "options": [
+        {
+          "k": "A",
+          "t": "to prevent accidents that happen frequently in the workplace"
+        },
+        {
+          "k": "B",
+          "t": "to eliminate hazards that potentially result in fatality in the workplace"
+        },
+        {
+          "k": "C",
+          "t": "to prevent chronic injury and illness that happen over time in the workplace"
+        },
+        {
+          "k": "D",
+          "t": "to eliminate psychological problems of the workers in the workplace"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 17,
+      "text": "Lifting, moving, and placing items in various forms is known as.....",
+      "options": [
+        {
+          "k": "A",
+          "t": "Ergonomics"
+        },
+        {
+          "k": "B",
+          "t": "Manual Material Handling"
+        },
+        {
+          "k": "C",
+          "t": "Anthropometrics"
+        },
+        {
+          "k": "D",
+          "t": "Hazard"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 18,
+      "text": "What does a green square or rectangle with a white pictogram stand for?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Safe condition"
+        },
+        {
+          "k": "B",
+          "t": "Dangerous condition"
+        },
+        {
+          "k": "C",
+          "t": "Escape route"
+        },
+        {
+          "k": "D",
+          "t": "Fire"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 19,
+      "text": "A red square or rectangle with a white pictogram is used for",
+      "options": [
+        {
+          "k": "A",
+          "t": "Fire Equipment Signs"
+        },
+        {
+          "k": "B",
+          "t": "Safe Condition Signs"
+        },
+        {
+          "k": "C",
+          "t": "Warning Signs"
+        },
+        {
+          "k": "D",
+          "t": "Mandatory Action Signs"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 20,
+      "text": "The emergency action plan is required by",
+      "options": [
+        {
+          "k": "A",
+          "t": "The Company"
+        },
+        {
+          "k": "B",
+          "t": "Employees"
+        },
+        {
+          "k": "C",
+          "t": "The EU"
+        },
+        {
+          "k": "D",
+          "t": "The Ministry of Labour"
+        }
+      ],
+      "answer": "D",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "medium",
+      "illegible": false
+    },
+    {
+      "n": 21,
+      "text": "Content of Emergency Evacuation Plan does NOT need to have...",
+      "options": [
+        {
+          "k": "A",
+          "t": "The location of primary and secondary exits"
+        },
+        {
+          "k": "B",
+          "t": "The location of the nearest fire alarm and fire extinguisher"
+        },
+        {
+          "k": "C",
+          "t": "The location where training documents are kept."
+        },
+        {
+          "k": "D",
+          "t": "The location of the common meeting area outside the building where everyone can gather"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 22,
+      "text": "Which of the components does not consist of the fire triangle?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Carbon monoxide"
+        },
+        {
+          "k": "B",
+          "t": "Oxygen"
+        },
+        {
+          "k": "C",
+          "t": "Gasoline"
+        },
+        {
+          "k": "D",
+          "t": "Fire"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 23,
+      "text": "Which of the following is NOT a fail-safe design?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Fail-passive"
+        },
+        {
+          "k": "B",
+          "t": "Fail-active"
+        },
+        {
+          "k": "C",
+          "t": "Active-operational"
+        },
+        {
+          "k": "D",
+          "t": "Fail-operational"
+        }
+      ],
+      "answer": "C",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 24,
+      "text": "Which of the following is known as an unsafe act?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Driving a forklift without a certificate"
+        },
+        {
+          "k": "B",
+          "t": "Poor housekeeping"
+        },
+        {
+          "k": "C",
+          "t": "Uneven walking surfaces"
+        },
+        {
+          "k": "D",
+          "t": "Excessive noise"
+        }
+      ],
+      "answer": "A",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    },
+    {
+      "n": 25,
+      "text": "What kind of hierarchy of control aims to reduce the risk by increasing the break time from 15 minutes to 30 minutes?",
+      "options": [
+        {
+          "k": "A",
+          "t": "Elimination"
+        },
+        {
+          "k": "B",
+          "t": "Administrative controls"
+        },
+        {
+          "k": "C",
+          "t": "Engineering controls"
+        },
+        {
+          "k": "D",
+          "t": "PPE"
+        }
+      ],
+      "answer": "B",
+      "marked": null,
+      "answerSource": "solved",
+      "confidence": "high",
+      "illegible": false
+    }
+  ],
+  "missing": []
+}

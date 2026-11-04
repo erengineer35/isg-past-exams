@@ -1,0 +1,713 @@
+{
+ "id": "es412-vize-2025-04",
+ "course": "ES 412",
+ "courseName": "Occupational Health and Safety II",
+ "type": "Vize",
+ "format": "paper",
+ "date": "Nisan 2025",
+ "sortKey": "2025-04",
+ "header": "ES 412 OCCUPATIONAL HEALTH AND SAFETY II MIDTERM EXAM- APRIL 2025",
+ "instructions": "This examination is comprised of 25 multiple-choice questions.\nEach question is followed by four possible answers, of which only one is correct.\nThe maximum time for this examination is 30 minutes.",
+ "notes": [
+  "Kâğıtta işaret yok; tüm cevaplar çözülmüştür.",
+  "Son sayfadaki optik form talimat tablosu (bölüm kodları) alınmadı."
+ ],
+ "sources": [
+  "WhatsApp Image 2026-11-04 at 14.55.45 (2).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (7).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (3).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (7).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.45 (3).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (8).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (2).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (8).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (5).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.45.jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (1).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.47 (9).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (4).jpeg",
+  "WhatsApp Image 2026-11-04 at 14.55.46 (2).jpeg"
+ ],
+ "items": [
+  {
+   "n": 1,
+   "text": "Which of the following statements about globalization is incorrect?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Globalization is purely an economic process."
+    },
+    {
+     "k": "B",
+     "t": "Globalization includes increased trade channels between countries."
+    },
+    {
+     "k": "C",
+     "t": "Globalization involves social, political, and economic convergence."
+    },
+    {
+     "k": "D",
+     "t": "Globalization leads to increased labor and capital movement."
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 2,
+   "text": "What is one of the most significant negative impacts of globalization on occupational health and safety?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Workers having higher levels of education"
+    },
+    {
+     "k": "B",
+     "t": "Improved working conditions for employees"
+    },
+    {
+     "k": "C",
+     "t": "Lower safety standards due to flexible work systems"
+    },
+    {
+     "k": "D",
+     "t": "More employment opportunities created by multinational companies"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 3,
+   "text": "What is the main reason multinational companies choose to produce in low-cost countries?",
+   "options": [
+    {
+     "k": "A",
+     "t": "To reduce production costs and gain a competitive advantage"
+    },
+    {
+     "k": "B",
+     "t": "To improve employees' well-being"
+    },
+    {
+     "k": "C",
+     "t": "To allocate more budget for worker safety training"
+    },
+    {
+     "k": "D",
+     "t": "To increase working hours and productivity"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 4,
+   "text": "What is the biggest occupational health and safety risk associated with flexible working systems?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Increased job satisfaction for employees"
+    },
+    {
+     "k": "B",
+     "t": "Inadequate safety precautions"
+    },
+    {
+     "k": "C",
+     "t": "Creation of more jobs"
+    },
+    {
+     "k": "D",
+     "t": "Reduction in working hours"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 5,
+   "text": "What is the ideal internal body temperature range?",
+   "options": [
+    {
+     "k": "A",
+     "t": "30-32°C"
+    },
+    {
+     "k": "B",
+     "t": "35-36°C"
+    },
+    {
+     "k": "C",
+     "t": "36.1-37.2°C"
+    },
+    {
+     "k": "D",
+     "t": "38-39°C"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 6,
+   "text": "Which of the following is a symptom of heat stroke?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Mild headache"
+    },
+    {
+     "k": "B",
+     "t": "Decreased sweating"
+    },
+    {
+     "k": "C",
+     "t": "Lower body temperature"
+    },
+    {
+     "k": "D",
+     "t": "Increased attention level"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 7,
+   "text": "How can we understand the difference between heat exhaustion and heat stroke?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Looking sick person's heart rate and blood pressure"
+    },
+    {
+     "k": "B",
+     "t": "Looking sick person's hands"
+    },
+    {
+     "k": "C",
+     "t": "Looking sick person's eyes and skin"
+    },
+    {
+     "k": "D",
+     "t": "Looking sick person's mouth"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Isı çarpmasında cilt sıcak ve kuru, ısı bitkinliğinde terli/soğuk-nemli olur; en makul şık C.",
+   "illegible": false
+  },
+  {
+   "n": 8,
+   "text": "Considering the neurological response to heat, how does heat stress start in the skin?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Thermoreceptors"
+    },
+    {
+     "k": "B",
+     "t": "Hypothalamus"
+    },
+    {
+     "k": "C",
+     "t": "Smoot muscles"
+    },
+    {
+     "k": "D",
+     "t": "Brain step"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "remark": "Kâğıttaki yazım hataları ('Smoot', 'Brain step') aynen bırakıldı.",
+   "illegible": false
+  },
+  {
+   "n": 9,
+   "text": "What is the name of the cold stress that is also called “silent death”?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hyperthermia"
+    },
+    {
+     "k": "B",
+     "t": "Frost bite"
+    },
+    {
+     "k": "C",
+     "t": "Frost nip"
+    },
+    {
+     "k": "D",
+     "t": "Hypothermia"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 10,
+   "text": "How can you understand that you are in a work environment with an uncomfortable level of noise?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hearing well people in one step length distance from you"
+    },
+    {
+     "k": "B",
+     "t": "Unable to hear people in one arm length distance from you"
+    },
+    {
+     "k": "C",
+     "t": "Unable to hear people located in two meters from you"
+    },
+    {
+     "k": "D",
+     "t": "Hearing well people in two steps length distance from you"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 11,
+   "text": "Which of the following is a long-term effect of noise exposure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "High blood pressure"
+    },
+    {
+     "k": "B",
+     "t": "Temporary hearing loss"
+    },
+    {
+     "k": "C",
+     "t": "Muscle spasms"
+    },
+    {
+     "k": "D",
+     "t": "Skin irritation"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 12,
+   "text": "Which occupational group is at higher risk of noise exposure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Office workers"
+    },
+    {
+     "k": "B",
+     "t": "Construction workers"
+    },
+    {
+     "k": "C",
+     "t": "Bankers"
+    },
+    {
+     "k": "D",
+     "t": "Doctors"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 13,
+   "text": "How does vibration affect the human body?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Increasing blood circulation"
+    },
+    {
+     "k": "B",
+     "t": "Strengthening the immune system"
+    },
+    {
+     "k": "C",
+     "t": "Reducing stress"
+    },
+    {
+     "k": "D",
+     "t": "Causes musculoskeletal damage"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 14,
+   "text": "Which disease is caused by hand-arm vibration?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hypothermia"
+    },
+    {
+     "k": "B",
+     "t": "Asthma"
+    },
+    {
+     "k": "C",
+     "t": "Carpal tunnel syndrome"
+    },
+    {
+     "k": "D",
+     "t": "Stomach ulcer"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "medium",
+   "remark": "Seçenekler arasında en uygun olan C (titreşim beyaz parmak şıkta yok).",
+   "illegible": false
+  },
+  {
+   "n": 15,
+   "text": "Which of the following is NOT a method to reduce vibration exposure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Using anti-vibration gloves"
+    },
+    {
+     "k": "B",
+     "t": "Choosing ergonomic tools"
+    },
+    {
+     "k": "C",
+     "t": "Using vibrating tools for long periods"
+    },
+    {
+     "k": "D",
+     "t": "Implementing vibration isolation"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 16,
+   "text": "Which one of the following is a typical effect of excessive exposure to hand-arm vibration?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Cerebral blood flow"
+    },
+    {
+     "k": "B",
+     "t": "Back pain"
+    },
+    {
+     "k": "C",
+     "t": "Blanching of the fingers"
+    },
+    {
+     "k": "D",
+     "t": "Arm pain"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 17,
+   "text": "How do we measure vibration?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Thermoreceptor"
+    },
+    {
+     "k": "B",
+     "t": "Accelerometer"
+    },
+    {
+     "k": "C",
+     "t": "Dosimeter"
+    },
+    {
+     "k": "D",
+     "t": "Lightmeter"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 18,
+   "text": "Which of the following is NOT an effect of improper lighting?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Headache"
+    },
+    {
+     "k": "B",
+     "t": "Reduced visual acuity"
+    },
+    {
+     "k": "C",
+     "t": "Bone fracture"
+    },
+    {
+     "k": "D",
+     "t": "Eye strain"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 19,
+   "text": "Which of the following is one of the illumination problems?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Hypothermia"
+    },
+    {
+     "k": "B",
+     "t": "Carpal Tunnel Syndrome"
+    },
+    {
+     "k": "C",
+     "t": "Frostbite"
+    },
+    {
+     "k": "D",
+     "t": "Glare"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 20,
+   "text": "What health problems can result from working in dimly lit environments?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Tinnitus"
+    },
+    {
+     "k": "B",
+     "t": "Depression and eye strain"
+    },
+    {
+     "k": "C",
+     "t": "Increased muscle strength"
+    },
+    {
+     "k": "D",
+     "t": "Hearing loss"
+    }
+   ],
+   "answer": "B",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 21,
+   "text": "Which of the following does NOT negatively affect indoor air quality?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Dust and smoke"
+    },
+    {
+     "k": "B",
+     "t": "Excessive humidity"
+    },
+    {
+     "k": "C",
+     "t": "Radiation"
+    },
+    {
+     "k": "D",
+     "t": "High air circulation"
+    }
+   ],
+   "answer": "D",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "low",
+   "remark": "'Radiation' da tartışılabilir (radon vb.), ancak yüksek hava sirkülasyonu IAQ'yu olumsuz etkilemez; D seçildi.",
+   "illegible": false
+  },
+  {
+   "n": 22,
+   "text": "What is the most common route of exposure to air pollutants?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Inhalation"
+    },
+    {
+     "k": "B",
+     "t": "Skin contact"
+    },
+    {
+     "k": "C",
+     "t": "Ingestion"
+    },
+    {
+     "k": "D",
+     "t": "Eye contact"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 23,
+   "text": "What is the health effect of asbestos exposure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Lung cancer"
+    },
+    {
+     "k": "B",
+     "t": "Asthma"
+    },
+    {
+     "k": "C",
+     "t": "Headache"
+    },
+    {
+     "k": "D",
+     "t": "Skin dryness"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 24,
+   "text": "In the Hierarchy of Controls, what is the most effective measure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Administrative controls"
+    },
+    {
+     "k": "C",
+     "t": "Engineering controls"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "A",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  },
+  {
+   "n": 25,
+   "text": "Placing metal guards on hazardous machinery would be an example of what control measure?",
+   "options": [
+    {
+     "k": "A",
+     "t": "Elimination"
+    },
+    {
+     "k": "B",
+     "t": "Administrative controls"
+    },
+    {
+     "k": "C",
+     "t": "Engineering controls"
+    },
+    {
+     "k": "D",
+     "t": "PPE"
+    }
+   ],
+   "answer": "C",
+   "marked": null,
+   "answerSource": "solved",
+   "confidence": "high",
+   "illegible": false
+  }
+ ],
+ "missing": []
+}
