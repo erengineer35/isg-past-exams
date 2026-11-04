@@ -124,3 +124,10 @@ table.nt { border-collapse: collapse; font-size: .9rem; margin: 8px 0 12px; disp
 .key-tag { background: color-mix(in srgb, #d4a72c 20%, var(--card)); color: #9a6a00; }
 .week figure img { max-width: 100%; }
 figcaption { color: var(--muted); font-size: .85rem; }
+.notes-bar { justify-content: flex-end; }
+details.wk > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; }
+details.wk > summary::-webkit-details-marker { display: none; }
+details.wk > summary::before { content: "▸"; color: var(--accent); font-size: 1.1rem; transition: transform .15s; }
+details.wk[open] > summary::before { transform: rotate(90deg); }
+details.wk > summary h2 { margin: 14px 0; }
+.week { padding-bottom: 4px; }

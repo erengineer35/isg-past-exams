@@ -218,6 +218,17 @@ def render_notes(title, desc, parts_dir):
         subs = re.findall(r'<h3[^>]*id="([^"]+)"[^>]*>(.*?)</h3>', sec, re.S)
         sub_html = "".join(f'<li><a href="#{esc(i)}">{esc(strip_tags(t))}</a></li>' for i, t in subs)
         toc.append(f'<li><a href="#{esc(h2.group(1))}">{esc(strip_tags(h2.group(2)))}</a><ul>{sub_html}</ul></li>')
+    # Her haftayı açılır kapanır yap: başlık <summary>, gövde <details> içinde.
+    sections = [
+        re.sub(
+            r"(<section[^>]*>)\s*(<h2[^>]*>.*?</h2>)(.*)</section>",
+            r'\1<details class="wk"><summary>\2</summary>\3</details></section>',
+            sec,
+            count=1,
+            flags=re.S,
+        )
+        for sec in sections
+    ]
     body = f"""<header class="top">
   <a class="back" href="../index.html">← Ana sayfa</a>
   <h1>{esc(title)}</h1>
@@ -228,6 +239,10 @@ def render_notes(title, desc, parts_dir):
     <p class="how"><span class="exam-tag">Sınavda çıktı</span> kutuları, o konudan gelmiş soruları ve cevaplarını gösterir; linke tıklayınca soruya gidersiniz. <span class="key-tag">Dikkat</span> kutuları sık karıştırılan noktaları özetler.</p>
   </section>
   <nav class="toc"><details><summary>İçindekiler</summary><ol>{"".join(toc)}</ol></details></nav>
+  <div class="bar notes-bar">
+    <button type="button" class="open-all">Tümünü aç</button>
+    <button type="button" class="close-all">Tümünü kapat</button>
+  </div>
   {"".join(sections)}
 </main>"""
     return page(title, body, 1)

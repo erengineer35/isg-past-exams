@@ -1,6 +1,32 @@
 // Şık işaretlenince doğru cevabı gösterir; seçimler localStorage'da tutulur.
+// Ders notu sayfası: haftalar açılır kapanır; linkle gelinen başlığın haftası açılır.
 (function () {
-  var bar = document.querySelector(".bar");
+  var weeks = Array.prototype.slice.call(document.querySelectorAll("details.wk"));
+  if (!weeks.length) return;
+
+  function openTarget() {
+    var id = decodeURIComponent(location.hash.slice(1));
+    var el = id && document.getElementById(id);
+    if (!el) return;
+    for (var p = el; p; p = p.parentElement) {
+      if (p.tagName === "DETAILS") p.open = true;
+    }
+    el.scrollIntoView();
+  }
+
+  window.addEventListener("hashchange", openTarget);
+  openTarget();
+
+  document.querySelector(".open-all").addEventListener("click", function () {
+    weeks.forEach(function (d) { d.open = true; });
+  });
+  document.querySelector(".close-all").addEventListener("click", function () {
+    weeks.forEach(function (d) { d.open = false; });
+  });
+})();
+
+(function () {
+  var bar = document.querySelector(".bar[data-exam]");
   if (!bar) return;
   var examId = bar.dataset.exam;
   var storeKey = "isg:" + examId;
