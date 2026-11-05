@@ -767,11 +767,11 @@
      "t": "Designing for population anthropometric standard deviation"
     }
    ],
-   "answer": "D",
+   "answer": "C",
    "marked": "D",
-   "answerSource": "marked",
+   "answerSource": "disputed",
    "confidence": "medium",
-   "remark": "El yazısı '8)C' (adjustability) ve iki öğrenci kopyası da adjustability işaretli; ancak ergonomi kaynaklarında bacak boşluğu için genelde 'extremes' önerilir, bu yüzden güven orta."
+   "remark": "Hafta 5 s.24 bu soruyu soruyor ama cevabı vermiyor. Ergonomi kaynaklarında boşluk (clearance) ölçüleri en büyük kullanıcıya (95. persentil erkek) göre tasarlanır → design for extremes. İki öğrenci kopyasında adjustability (D) işaretli."
   },
   {
    "n": 24,

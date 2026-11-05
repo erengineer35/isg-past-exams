@@ -176,11 +176,11 @@
      "t": "Extreme risk – immediate action required, stop work until resolved"
     }
    ],
-   "answer": "C",
+   "answer": "B",
    "marked": null,
    "answerSource": "solved",
-   "confidence": "medium",
-   "remark": "Skor 2×5=10; matriste açık-orta gri."
+   "confidence": "high",
+   "remark": "Skor 2×5=10; matriste 10 hücresi 8 ve 9 ile aynı en açık gri katmanda → orta risk (12 ve 15 bir koyu katmanda)."
   },
   {
    "passage": "18. SCENARIO — Workers in a metal-stamping plant are exposed to continuous noise levels of 102 dB(A). Measurements confirm all workers exceed the maximum action limit. The plant manager lists the following options under consideration:"

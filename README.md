@@ -15,6 +15,8 @@ Sorular öğrencilerin paylaştığı fotoğraflardan yazıya geçirildi. Cevap 
 
 Bu cevaplar doğrulanmamıştır, sınava çalışırken buna dikkat edin.
 
+Kasım 2026'da bütün sorular (463 soru) kâğıttaki işaretlere bakılmadan yeniden çözüldü ve mevcut cevaplarla karşılaştırıldı. ES 411 soruları önce dersin 1–7. hafta slaytlarına göre, slaytta olmayanlar internet kaynakları ve konu bilgisiyle çözüldü. ES 412'nin slaytları elimizde olmadığı için bu soruların bağımsız çözümü konu bilgisine dayanıyor. Uyuşmayan her soru tek tek incelendi ve gerekenler düzeltildi.
+
 ## Düzeltme
 
 1. Soruların metni `data/<sınav>.json` dosyalarında. Hatalı soruyu veya cevabı bu dosyada düzeltin.

@@ -180,7 +180,6 @@
     {
       "n": 6,
       "text": "Which of the following is not a minimal cut set for the calculation of the probability of all three alarms fail to ring?",
-      "image": "img/es412-online-3099/q6.jpg",
       "options": [
         {
           "k": "A",
@@ -207,7 +206,7 @@
       "marked": "E",
       "answerSource": "key",
       "confidence": "low",
-      "remark": "Hata ağacı (Fault Tree) görseli. Mavi el yazısı 'E' (ekranda radyo seçimi okunmuyor). Şekil ve şıkların çözümlenmesi için kırpılan görsele bakınız.",
+      "remark": "Sorunun hata ağacı (fault tree) şekli kaynaklarda yok; cevap öğrencinin cevap listesindeki E. Şekil olmadan doğrulanamadı.",
       "illegible": false
     },
     {

@@ -124,11 +124,11 @@
      "t": "No anthropometric data needed"
     }
    ],
-   "answer": "C",
+   "answer": "B",
    "marked": null,
    "answerSource": "solved",
    "confidence": "medium",
-   "remark": "Yükseklik çoğu kullanıcı için uygunsuz; ayarlanabilirlik seçildi. 'Extremes' ile karışabilir.",
+   "remark": "Sabit bir gişe tezgâhı ayarlanabilir yapılamaz; erişim boyutu olduğu için kısa kullanıcıya (uç değer, ~5. persentil) göre tasarlanır → design for extremes. Hafta 5'te 4 strateji var, bu örnek için slayt cevap vermiyor.",
    "illegible": false
   },
   {
